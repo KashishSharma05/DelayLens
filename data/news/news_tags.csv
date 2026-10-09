@@ -1,0 +1,188 @@
+news_id,is_relevant,airports,cause,summary
+f565018eaf46cca3,False,BOM,other,Shift 265 weekly international flights to Navi Mumbai by Oct 25.
+439b2f3a010b0dad,False,BOM,other,Mumbai airport to cut 265 weekly international flights from October 25.
+a81828d4a9b0330f,False,BOM,other,Mumbai Airport Terminal 1 to shut from October 25 for redevelopment.
+cac231116c334ba4,True,BOM,airport_or_air_traffic,265 weekly international flights to be cancelled at Mumbai airport from Oct 25.
+f8f98cbbd6f22960,False,BOM,other,Airlines to move flights from Mumbai to Navi Mumbai.
+144d8cc672947308,False,BOM,other,Mumbai Airport T1 shutdown and airline changes.
+835bba511d0d84a5,False,,other,Ponda Air Quality Index and temperature updates.
+d36f427b63b3b0fd,False,,other,Mumbai customs brokers seek urgent fix to NMIA cargo delays.
+7998f48ccfb4a130,True,BOM,airport_or_air_traffic,Airlines reject Mumbai Airport's proposed flight cancellations at T2.
+dfa441216a176f0e,True,BOM,airport_or_air_traffic,Airlines oppose Mumbai airport's proposed 265 weekly flight cuts from T2.
+dd52886c9fc1799a,False,,other,Jhansi weather forecast and temperature for 7 days.
+86035598b3b5ffc3,True,,rain_or_storm,Flydubai Dubai-Phuket flight diverted to Lucknow due to bad weather.
+4aa9bc5af7400a22,True,,rain_or_storm,Dubai-Pokhara Flydubai flight diverted to Lucknow due to adverse weather.
+7c4fa0f44a32fca8,True,,technical_fault,Scoot flight to Singapore aborted as pilot detects glitch while taxiing.
+70aa6dcad8932880,False,BOM,other,Adani Airports redevelops Mumbai T1 and shifts traffic.
+68436f58c23c2754,False,BOM,other,Mumbai Airport Terminal 1B redevelopment set for January 2027 over safety concerns.
+1d839fc47b5f6d9f,False,BOM,other,Mumbai Airport Terminal 1 redevelopment from January 2027.
+1c28e325b9d4db0d,True,BOM,airport_or_air_traffic,Mumbai airport to cut a third of weekly international departures from T2.
+b646ea60588926a8,False,BOM,other,Mumbai Airport to partially shut T1B for redevelopment from January.
+9f46a8adea03835e,False,BOM,other,Mumbai Airport slot cuts put T1 redevelopment under pressure.
+bdc644ec285b406b,True,,security_or_conflict,UAE flights status update: delays and cancellations as regional tensions persist.
+844206ab6975d7e0,False,BOM,other,Mumbai Airport T1B redevelopment starts Jan 2027.
+115361b70ce8cd25,False,,other,Udupi Air Quality Index and temperature updates.
+3eaf257ff96129a2,False,BOM,other,Mumbai airport T1 redevelopment affects passengers as 265 international flights move.
+006cdb3099fe753a,True,BOM,rain_or_storm,Bad weather diverts Mumbai-bound flights to Surat and Vadodara.
+89a9ee5a55c3ef6f,False,,other,Haveri weather forecast and temperature for 7 days.
+c9592fa09a0cfad9,True,BOM,airport_or_air_traffic,Airlines clash over 265 cancelled flights at Mumbai airport.
+4f672a99824379af,True,BOM,airport_or_air_traffic,Airlines clash over 256 cancelled international flights at Mumbai airport.
+d5efa0a545b666bc,True,,other,Bird strike on Hyderabad bound flight; flyers safe.
+d11171a72c9937f2,False,DEL,other,Delhi Police arrest two linked to gangs after encounter.
+99608ac0e727fa4d,False,,other,Weather forecast for Negapatam.
+ea0a56d962cdb353,False,,other,UAE flights experience delays and cancellations.
+187fa8c9a22ed777,False,,other,Jammu air quality index and temperature updates.
+75faea8648158514,False,BOM,other,Mumbai T1 redevelopment to be carried out in phases.
+974946454cd17db1,False,,other,British Airways flight declares emergency and lands safely in London.
+e6facf7af4cfb148,False,,other,Weather forecast for Sihor.
+095fd88b727640e8,False,BOM,other,Mumbai airport revamp affects leisure travel.
+406f10da6d183cc8,False,,other,Weather forecast for Tarkhad.
+4a74840753c2858f,False,,rain_or_storm,Varanasi-bound flights diverted to Lucknow due to bad weather.
+aa0530a44f238bec,False,,rain_or_storm,Varanasi-bound flights diverted to Lucknow due to bad weather.
+eea23203ff4fee4b,False,BLR,other,Rains likely in Bengaluru areas.
+7e0827b58779dc60,False,,security_or_conflict,Dubai and Middle East flights face disruptions after airports struck.
+f91c9d8eb2f82a6f,False,,other,Guide on latest rules for India holiday travellers.
+178d3cb27729cf90,False,BOM,other,Govt asks Adani Airports to delay shifting international flights from Mumbai.
+6ac553d0336eb36e,False,,other,Vishakhapatnam weather forecast.
+2f6808bdfbdf42b2,False,BOM,other,Govt may delay Mumbai airport shift by a few weeks.
+fbfb0f3b6a004191,False,BOM,other,Govt asks Adani to defer Mumbai-Navi Mumbai flight shift.
+2a518815d93afb51,False,BOM,other,Civil aviation ministry asks Adani Airports to delay Mumbai flight shift.
+c0f9f866908c45e8,True,,airline_operations,"Airlines cancel Dubai, Abu Dhabi, and Dammam flights."
+aa2bd7be767fa83f,False,BOM,other,Govt asks Adani to delay Mumbai flight shift to Navi Mumbai.
+4ecdb036ec23b7c2,False,BOM,other,"Govt proposes delay in Mumbai airport shift, asks airlines for new plan."
+7f1535f16b4f0b14,False,BOM,other,Mumbai airport flight shift to Navi Mumbai put on hold.
+351bb1d8ccd8b5fd,False,BOM,other,Mumbai Airport international flights shift delayed by government.
+a80fd317e1a53822,False,BOM,other,Government proposes delay in Mumbai-Navi Mumbai airport transition.
+a042c3f34c160eec,False,,other,Adani airports stop processing export cargo to Russia.
+b98cb2e917ca4147,False,BOM,other,Mumbai Airport international flights shift put on hold.
+e9113575a68cd73d,False,,security_or_conflict,Abu Dhabi-bound passenger stopped after live ammunition found in luggage.
+422e799713e4153a,False,BOM,other,Govt asks Adani Airports and airlines to work on transition plan.
+3fdd62a3dc5ce2e2,False,BOM,other,Mumbai Airport's Terminal 1 is shutting down for 4 years.
+4f983b8bcd83b017,False,BOM,other,Navi Mumbai airport shift likely delayed by a few weeks.
+289c2dcd0b5f6c3f,False,BOM,other,Navi Mumbai airport flight shift paused amid airline concerns.
+9684918ee8e7498d,False,,other,Asia aviation chaos with numerous delays and cancellations.
+1ef5ab9fa8540749,False,,other,UAE flight status updates and schedule changes.
+8935d656eb929ba1,False,BOM,other,Govt asks Adani Airports to defer partial shifting of Mumbai airport operations.
+8989e60b85f1d1ab,False,BOM,other,Mumbai airport flight shift paused and Navi Mumbai plan delayed.
+c943bfe48d461777,False,BOM,other,IATA asks airlines to cite MoCA slot rules at meeting.
+498cb1dbcee481d7,False,BOM,other,IATA backs government intervention on Mumbai airport flight shift.
+38757119f069959c,False,BOM,other,India pauses Mumbai airport shift after airline objections.
+5f78494afe497be8,False,,other,Exports stranded as Russia embargo creates air cargo chaos.
+d1a53bbfb73bfbeb,False,BOM,other,Mumbai airport flight shift needs transparent capacity assessment.
+8fded1b215ff97c5,False,BOM,other,IATA seeks transparency and consultation over Mumbai airport transition plan.
+161d4d86d2e61f6c,False,BOM,other,Airlines fighting over Mumbai and Navi Mumbai airports.
+322209ab36020d3e,False,BOM,other,IATA urges MIAL to consult airlines before shifting T2 flights.
+2a91e194d7b91ded,False,BOM,other,IATA cites slot rules and backs airline consultation in Mumbai airport transition.
+0e793120f749c672,True,,rain_or_storm,IndiGo flight makes emergency landing after lightning strike; nose damaged.
+63b98a2d424139e5,False,,security_or_conflict,Houthis attack Riyadh airport and warn over Saudi airspace.
+31e9a26c7904f964,False,,other,Cuttack weather forecast for the next 7 days.
+43a60be626ad7860,False,BOM,other,International flights may shift from Mumbai airport post Diwali.
+33735bb81fcdca79,False,BOM,other,Govt asks Adani Airports to defer partial shifting of Mumbai international operations.
+a4bc4d21a0d9226e,False,,security_or_conflict,Middle East flight disruption as Saudi airports come under attack.
+a0289cfcae725c40,True,,technical_fault,IndiGo flight delayed by four hours after technical snag.
+39fbd34ddd646d1f,True,,technical_fault,IndiGo flight delayed by four hours after technical snag.
+09e006e501b8119c,False,DEL,fog_or_low_visibility,Delhi airport launches SKYCAST for real-time fog and wind shear alerts.
+d9107c00e48478a6,False,,security_or_conflict,Over 100 Riyadh flights cancelled after Houthis target airport.
+3453c647c695a222,False,,other,UAE flight updates on cancelled and delayed flights.
+66a689c3d0d83305,False,,security_or_conflict,Over 330 flights cancelled in Riyadh after Houthi attack.
+0b09f8be96c366ed,True,,security_or_conflict,Indian carriers cancel Riyadh flights after Houthi attack on airport.
+3aee54fadbb57ca6,True,DEL,security_or_conflict,Air India Delhi-Riyadh flight returns after Houthi attack; operations suspended.
+2bd551a9b77c006b,True,,security_or_conflict,Indian airlines cancel flights to and from Riyadh after missile attack.
+3806b89a3d03ba11,False,,security_or_conflict,Indians in Riyadh asked to remain alert after Houthi attack.
+afe11953dfd52952,False,,other,Over 300 Riyadh flights cancelled globally after Houthi attacks.
+9873f60117afb9f0,True,DEL,security_or_conflict,Air India flight returns to Delhi after Houthi attack on Riyadh airport.
+86cb53ca1e348c1d,True,,security_or_conflict,"Air India, IndiGo suspend flights to Riyadh after Houthi attack."
+7e9eaf75495d21c1,True,,security_or_conflict,Air India Express and Akasa Air cancel flights after Riyadh airport targeted.
+2e904e40d874cf67,True,DEL,security_or_conflict,Air India Delhi-Riyadh flight turns back midway as Houthi attacks hit Saudi airports.
+54b38bc9a4fd710c,True,,security_or_conflict,Airlines cancel flights to Riyadh after Houthi attack on airport.
+81b62a766fd7e75c,False,,security_or_conflict,Two Kochi-Riyadh flights cancelled amid security disruption at Riyadh airport.
+5d11fabe76634b26,True,,security_or_conflict,Air India Express cancels flights till October 10 after Houthi strike claim.
+c7d1e9de09c24f2c,True,,security_or_conflict,Air India and IndiGo cancel flights to Riyadh until Oct 10 following attacks.
+41e010ef75a93db4,True,,security_or_conflict,Airlines suspend services till October 10 after Riyadh flights cancelled.
+eafaca6432e77e86,True,DEL,security_or_conflict,Air India Delhi-Riyadh flight turns back amid Houthi attack reports; flights suspended.
+769999fb61349c58,True,,security_or_conflict,Airlines suspend services amid security concerns over Riyadh flight cancellations.
+cc440b8a8bc075b4,True,,security_or_conflict,Air India Express cancels Riyadh flights until October 10 after Houthi attack.
+db09938b17ce6f10,True,,security_or_conflict,AI Express and AI cancel Riyadh flights till Oct 10.
+1704e82802d7a012,True,,security_or_conflict,AI Express and AI cancel Riyadh flights till Oct 10.
+c0e6a6efba6f09f8,False,,security_or_conflict,Two Kochi-Riyadh flights cancelled after Houthi attack at Saudi airport.
+7443db3f64aecaf6,True,,security_or_conflict,Air India Express and Air India cancel Riyadh flights till October 10.
+21cc56ce99731651,True,,security_or_conflict,AI Express and Air India cancel Riyadh flights amid attacks.
+628995fdcfffdb94,True,,security_or_conflict,AI Express and AI cancel Riyadh flights till Oct 10.
+862d7d5cf3be4e98,False,,security_or_conflict,Two Kochi-Riyadh flights cancelled amid security disruption after Houthi attacks.
+2b5773f4f219fc58,True,,security_or_conflict,Air India flight turns back mid-air from Riyadh as airlines suspend flights.
+9f6f2d1d75b30296,True,,security_or_conflict,Indian airlines cancel Riyadh flights after Houthi missile attack.
+9eb5e5b4c1c41b1d,True,,security_or_conflict,Air India cancels Riyadh flights until Oct 10 amid airport attacks.
+863607f4483a43da,True,,security_or_conflict,Air India and IndiGo cancel and divert Riyadh flights after missile threat.
+9f6e051253b1480c,False,,security_or_conflict,India issues advisory for citizens in Saudi Arabia amid Houthi attacks.
+ea4537db12dde369,True,,security_or_conflict,Smoke seen at Riyadh airport; flights cancelled as tensions escalate.
+87c5f133a76d038d,True,,security_or_conflict,Indian airlines cancel Riyadh flights amid airport attacks.
+132232045fd394a1,False,,security_or_conflict,Lufthansa Group suspends Riyadh flights through Oct. 16 after missile disruption.
+8395c8efc554a605,False,,security_or_conflict,Indian embassy asks citizens to stay indoors; 2 flights from Kochi cancelled.
+9cdb1563ece861a0,True,,security_or_conflict,Saudi Arabia airport attack leads Indian airlines to suspend flights to Riyadh.
+e7ff25ca7695b126,False,,other,Lufthansa and Air India suspend flights to Riyadh after Houthi attacks.
+3b3ed1e1ec7c34e1,False,,security_or_conflict,Indian airlines cancel and divert Riyadh flights amid airport disruption.
+6a74a720f784c6c7,False,,security_or_conflict,Air India and AI Express cancel Riyadh flights till Oct 10 after attacks.
+01bb7f5d86f9cfee,False,,security_or_conflict,"Riyadh attack fallout: India warns nationals, airlines halt Saudi flights till October 10."
+5bf05a594fed6dc7,False,,security_or_conflict,Lufthansa and Indian airlines suspend flights to Riyadh after Houthi attacks.
+401c96245259bb7b,False,,security_or_conflict,Kochi-Riyadh air traffic disrupted after Houthi missile attack claim.
+e2e8dcaec6b1449c,False,,security_or_conflict,Kochi flights to Riyadh cancelled amid security disruption at Riyadh airport.
+2b90fba346d4287e,False,,security_or_conflict,Two flights from Kochi to Riyadh cancelled.
+f70a22a3073aef38,False,,security_or_conflict,Air India and IndiGo suspend services after attack.
+3b25fc4934c1c360,False,,other,"IndiGo to launch daily Udaipur flights from Noida, Navi Mumbai."
+148c8eb028828cc6,False,,security_or_conflict,"Saudi Arabia-Houthi conflict: Air India, IndiGo, Akasa cancel flights."
+46e992614bf5c8b0,False,,other,India arrival forms: 3 critical checks for easier travel.
+cf3e62ae663bf39b,False,,security_or_conflict,Lufthansa and Indian airlines suspend flights to Riyadh after Houthi attacks.
+6d0dd30b0e0b1d8e,False,,security_or_conflict,Indian flights turn back as Houthis rock Riyadh airport with missiles.
+774ad314798e1ebc,False,,security_or_conflict,Houthi missile attack rocks Riyadh; flights halted after warning.
+08c5567abb65b6e0,False,,security_or_conflict,Air India flight turns back after Riyadh airport attack.
+580f96ef7726625b,False,,security_or_conflict,"IndiGo, Air India Express and Akasa Air cancel Riyadh flights."
+bcd3fc4562715f93,False,,security_or_conflict,Riyadh airport hit by Houthi missile attack; Air India & Lufthansa suspend services.
+4bd8422ffb56ee26,False,,security_or_conflict,Two Kochi-Riyadh flights cancelled amid security disruption at Riyadh airport.
+32092110f03e64d5,False,,other,Yaduveer slams delay in central schemes.
+68dc2494d79cd3d2,False,,security_or_conflict,Airlines suspend Riyadh flights after Houthi missile claim.
+c9ce6054698c4a18,False,,other,Citizens take on GBA West chief over Kanteerava Studio Road in Bengaluru.
+241a8616276fd23e,False,,security_or_conflict,Riyadh airport flights: Nearly 50% departures cancelled as airlines suspend services.
+cb98e56e82f117c4,False,,technical_fault,Noida-Lucknow IndiGo flight delayed for four hours after snag.
+2284d7e50dce040f,False,,other,DM sets 15-day deadline to finish Gyan Border-Mohan Nagar roadwork.
+93f717a8e12d70b0,False,,other,Dengue cases reach 236 as administration intensifies fogging.
+ddd0e3f724adff28,False,,other,Effigy contractor's son second to succumb in Sahibabad community centre blast.
+779e6ff4f253f04a,False,,security_or_conflict,Airlines suspend flights to Saudi capital after airport attack.
+5d3d4c452e1a7520,False,,security_or_conflict,Air India and Air India Express cancel Riyadh flights till October 10.
+06db8bd718ab188d,False,,other,Amalapuram today's weather.
+8c9280a97a0aefd6,False,,other,Airlines cancel hundreds of flights after airspace shutdown following jet blast.
+3738d631775a5030,False,,other,"Saudia plane hit, airlines cancel flights to Riyadh."
+13fb4ca7c2e40566,False,,other,Saudi Arabia airport attacks disrupt flights to and from Riyadh.
+749a68d9e9d3ac2d,False,,other,India issues advisory and airlines cancel Riyadh flights.
+46bb717beb10953a,False,,other,"Air India, IndiGo and Akasa Air halt Riyadh flights after Houthi strike."
+4beb277f71400678,False,,other,Airlines cancel flights to Riyadh after Houthi attacks on airports.
+c0c5bb3849866600,False,,other,Missile attacks on Riyadh force airlines to suspend flights.
+dc3c3e70553e423a,False,,other,Airlines cancel Riyadh flights till Oct 10.
+8aa80fe72a1e2a36,False,,other,Airlines suspend Riyadh flights after airport blast reports.
+aed3e634390bf5a0,False,,other,Indian airlines have cancelled flights to Riyadh.
+4e7bccc1c278b3e1,False,,other,Flight suspensions after Houthi strike at Riyadh airport.
+d7741fc4dbb1c52b,False,,other,Kasavanahalli Air Quality Index and temperature updates.
+42c76808a3647101,False,,other,Railways cancel several trains reaching New Delhi and Hazrat Nizamuddin.
+d4fd05e22398272d,False,,other,"Houthis attack aircraft at Riyadh Airport, 333 flights cancelled."
+4b32fabd714f0aae,False,,other,Riyadh Airport attack damages plane as flights are cancelled.
+f27450c14ee5f626,False,,other,What is open and closed in Delhi on October 10 during CJP protest.
+9c6a5949634bbdff,False,,other,Behind Air India expansion: engineering faults and refund delays.
+0d4edf6997c931f4,False,,other,Indian Railways explain why they cancelled trains due to CJP protest.
+6759960839fe2f58,False,,other,Bhavnagar today's weather.
+63e6572722c98b5c,False,,other,CJP protest triggers train cancellations and metro curbs in Delhi.
+9285696af38fe25e,False,,other,Dubai and Middle East flight disruption as Saudi hit with attacks.
+1125945ee793abca,False,,other,Airlines pause all flights from India to Riyadh till 10 October.
+02f9ec5acdcbfa0b,False,DEL,other,Delhi Airport asks airlines for passenger manifests 48 hours before inbound arrivals.
+475109daaf11a7a9,False,,other,Ten airlines suspend flights to and from Riyadh.
+66007e1d17ab270c,False,,other,King Khalid International Airport faces flight delays and cancellations.
+9b71d4659e395cfc,False,,other,Saudia pilot killed in fresh attacks on Riyadh airport.
+2c068076a1e7ac85,False,,other,Nagpur weather forecast today and for the next 7 days.
+fc0c702caf441027,False,,other,India warns nationals to stay indoors after Saudi airport attacks.
+ee51717adb0690fc,False,,other,International airlines suspend Riyadh flights as airport disruption continues.
+1042d7ef6da77e2f,False,,other,Emirates and Etihad cancel Riyadh services as Dubai and Abu Dhabi delays hit travel.
+3b43966baaf18308,True,,security_or_conflict,Saudia employee killed in Riyadh attack; 103 flights cancelled as Air India suspends services.
+ed46917e41dfd8fd,False,,other,Airlines cancel flights to Riyadh following attacks on Saudi airports.
+1511dc23ec3fbe08,False,,other,Noida airport renamed and fuel surcharges applied.
+a108e53de40417f7,False,,other,Airlines cancel flights to Riyadh after Houthi airport attack; SIA delays route.
+05911e0153ac15ab,False,,other,Delhi-bound trains cancelled over traffic concerns ahead of protests.
+36851b7697094b00,False,,other,Riyadh airport flights broadly back to normal after days of disruption.
+78b3592101151557,False,,other,"UAE changes e-invoicing approval rules, giving providers 30 days to comply."
