@@ -1,0 +1,58 @@
+# Runs the pipeline every morning and commits the new data, which also
+# updates the hosted website.
+name: Daily update
+
+on:
+  schedule:
+    - cron: "30 1 * * *"   # 01:30 UTC = 07:00 India time, once yesterday's flights are complete
+  workflow_dispatch:        # allows running it by hand from the Actions tab
+
+permissions:
+  contents: write           # the job commits the refreshed data files
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    # A temporary PostgreSQL server for this run. The database is rebuilt
+    # from the files in data/ every time, so nothing needs to be kept in it.
+    services:
+      postgres:
+        image: postgres:14
+        env:
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: flight_delays
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+
+    env:
+      DATABASE_URL: postgresql+psycopg2://postgres:postgres@localhost:5432/flight_delays
+      RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      - name: Run the pipeline
+        run: python run_pipeline.py
+
+      - name: Commit new data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data app/data
+          git diff --cached --quiet || git commit -m "Daily data update"
+          git push
