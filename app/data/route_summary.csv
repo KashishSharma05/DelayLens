@@ -1,0 +1,67 @@
+origin,dest,dest_name,is_international,flights,tracked_flights,late_flights,cancelled_flights,avg_minutes_when_late
+BLR,AMD,Ahmedabad,f,40,19,2,0,32
+BLR,BOM,Mumbai,f,131,99,14,0,46
+BLR,CCU,Kolkata,f,62,40,10,0,46
+BLR,COK,Kochi,f,49,32,3,0,39
+BLR,DEL,New Delhi,f,167,119,22,0,49
+BLR,DXB,Dubai,t,17,15,3,0,42
+BLR,GAU,Guwahati,f,24,20,2,0,52
+BLR,GOI,Vasco da Gama,f,38,29,7,0,46
+BLR,HYD,Hyderabad,f,66,46,12,0,51
+BLR,IXC,Chandigarh,f,20,19,4,0,66
+BLR,IXE,Mangalore,f,25,18,6,0,46
+BLR,JAI,Jaipur,f,22,16,2,0,51
+BLR,LHR,London,t,16,16,2,0,35
+BLR,LKO,Lucknow,f,29,15,1,0,106
+BLR,MAA,Chennai,f,52,39,9,0,59
+BLR,PAT,Patna,f,22,19,2,0,43
+BLR,PNQ,Pune,f,63,46,9,0,39
+BLR,SIN,Singapore,t,15,15,8,0,56
+BOM,AMD,Ahmedabad,f,79,69,15,1,47
+BOM,AUH,Abu Dhabi,t,38,33,10,0,41
+BOM,BBI,Bhubaneswar,f,22,20,7,0,48
+BOM,BKK,Bangkok,t,34,30,4,0,66
+BOM,BLR,Bangalore,f,141,126,29,0,37
+BOM,CCU,Kolkata,f,74,64,16,2,38
+BOM,CJB,Coimbatore,f,17,17,6,0,63
+BOM,CMB,Colombo,t,18,16,7,0,56
+BOM,COK,Kochi,f,48,44,13,0,55
+BOM,DEL,New Delhi,f,262,236,74,1,63
+BOM,DXB,Dubai,t,56,50,18,1,231
+BOM,GOI,Vasco da Gama,f,55,50,12,0,46
+BOM,GOX,Mopa,f,27,25,4,0,55
+BOM,HSR,Rajkot,f,28,27,6,0,51
+BOM,HYD,Hyderabad,f,75,68,16,0,40
+BOM,IDR,Indore,f,31,29,11,0,51
+BOM,IXB,Siliguri,f,16,16,4,0,48
+BOM,IXC,Chandigarh,f,26,25,8,0,60
+BOM,IXE,Mangalore,f,15,15,4,0,42
+BOM,JAI,Jaipur,f,32,27,6,1,41
+BOM,JED,Jeddah,t,30,28,6,0,236
+BOM,LHR,London,t,35,34,14,0,63
+BOM,LKO,Lucknow,f,33,28,4,2,33
+BOM,MAA,Chennai,f,83,73,17,0,57
+BOM,MCT,Muscat,t,20,16,3,0,41
+BOM,NAG,Naqpur,f,32,28,6,0,39
+BOM,RPR,Raipur,f,15,15,2,0,45
+BOM,RUH,Riyadh,t,19,16,7,1,44
+BOM,SIN,Singapore,t,21,19,9,0,35
+BOM,SXR,Srinagar,f,17,17,3,0,41
+BOM,UDR,Udaipur,f,22,22,6,0,61
+BOM,VNS,Varanasi,f,27,27,11,0,43
+HYD,AMD,Ahmedabad,f,19,19,1,0,31
+HYD,AUH,Abu Dhabi,t,17,17,5,0,76
+HYD,BLR,Bangalore,f,64,55,10,0,101
+HYD,BOM,Mumbai,f,65,62,10,0,46
+HYD,CCU,Kolkata,f,27,27,7,0,76
+HYD,COK,Kochi,f,19,18,3,0,72
+HYD,DEL,New Delhi,f,106,90,9,0,60
+HYD,DXB,Dubai,t,23,22,5,0,62
+HYD,GOI,Vasco da Gama,f,16,15,5,0,59
+HYD,GOX,Mopa,f,16,16,6,0,38
+HYD,MAA,Chennai,f,38,37,13,0,55
+HYD,PAT,Patna,f,15,15,4,0,38
+HYD,PNQ,Pune,f,27,24,2,0,35
+HYD,RJA,Rajahmundry,f,20,16,1,0,33
+HYD,TIR,Tirumala - Tirupati,f,25,23,5,0,43
+HYD,VTZ,Visakhapatnam,f,30,29,8,0,64

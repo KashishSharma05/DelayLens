@@ -1,0 +1,5 @@
+airport,previous_leg,tracked_flights,late_flights
+BLR,aircraft arrived late,1,1
+BLR,aircraft arrived on time,122,23
+HYD,aircraft arrived late,11,11
+HYD,aircraft arrived on time,94,11
