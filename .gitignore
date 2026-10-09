@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# mac
+.DS_Store
+
+# personal planning notes, kept local
+ROADMAP.md
+
+# scratch downloads
+data/raw/

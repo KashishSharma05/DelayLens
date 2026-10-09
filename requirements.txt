@@ -1,0 +1,18 @@
+# data and analysis
+pandas==3.0.6
+numpy==2.5.3
+requests
+
+# database
+SQLAlchemy==2.1.4
+psycopg2-binary==2.9.13
+python-dotenv==1.2.4
+
+# website
+streamlit==1.65.0
+plotly==7.1.0
+matplotlib==3.11.2
+
+# AI analyst
+google-genai==2.29.0
+sqlglot==30.21.0

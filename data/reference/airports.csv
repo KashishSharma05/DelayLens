@@ -1,0 +1,6 @@
+airport,icao,airport_name,city,latitude,longitude,timezone,is_followed
+BOM,VABB,Chhatrapati Shivaji Maharaj International,Mumbai,19.0896,72.8656,Asia/Kolkata,true
+BLR,VOBL,Kempegowda International,Bengaluru,13.1986,77.7066,Asia/Kolkata,true
+HYD,VOHS,Rajiv Gandhi International,Hyderabad,17.2403,78.4294,Asia/Kolkata,true
+DEL,VIDP,Indira Gandhi International,Delhi,28.5562,77.1000,Asia/Kolkata,false
+CCU,VECC,Netaji Subhas Chandra Bose International,Kolkata,22.6547,88.4467,Asia/Kolkata,false
