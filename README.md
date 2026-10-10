@@ -2,6 +2,8 @@
 
 **See why flights run late.** DelayLens tracks every departure from Mumbai, Bengaluru and Hyderabad against its schedule, joins each flight to the weather at that hour, to the same aircraft's previous flight and to the day's news, and lets you search, compare and ask questions in plain English. A scheduled job adds a new day of data every morning.
 
+**Live site:** https://kashishsharma05-delaylens-appsite-zwdjiv.streamlit.app/
+
 **Stack:** Python · SQL · PostgreSQL · Streamlit · Plotly · Google Gemini · GitHub Actions
 
 ---
