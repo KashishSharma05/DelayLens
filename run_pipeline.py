@@ -10,6 +10,7 @@ Steps:
   4. rebuild the database from the files in data/
   5. clean, model and summarise with SQL
   6. write the files the website reads
+  7. retrain the delay-prediction model on the data so far and record its score
 
 This is the script the daily scheduled job runs. Steps 1 to 3 are skipped
 one by one if their API key is not set, so the rest still works.
@@ -23,6 +24,7 @@ from dotenv import load_dotenv
 
 from src import collect_flights, collect_news, export, load_raw, load_weather
 from src.ai import news_tags
+from src.ml import train as delay_model
 from src.db import run_sql_file
 
 load_dotenv()
@@ -64,6 +66,13 @@ def main():
 
     step("6. Website files")
     export.main()
+
+    step("7. Delay-prediction model")
+    try:
+        run_sql_file("sql/06_ml_features.sql")
+        delay_model.main()
+    except Exception as error:  # the model must never stop the daily data update
+        print(f"Model step failed and was skipped: {error}")
 
     print(f"\nPipeline finished in {time.time() - start:.0f} seconds.")
 

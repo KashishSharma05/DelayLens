@@ -30,6 +30,7 @@ pages = {
         st.Page("views/stats.py", title="Airlines & airports", icon="📊"),
         st.Page("views/patterns.py", title="When delays happen", icon="🕒"),
         st.Page("views/weather.py", title="Weather impact", icon="🌧️"),
+        st.Page("views/prediction.py", title="Delay prediction", icon="🔮"),
     ],
     "Daily": [st.Page("views/daily.py", title="Daily log & news", icon="🗞️")],
 }

@@ -1,0 +1,2 @@
+data_until,days_of_data,train_flights,test_flights,best_model,roc_auc,average_precision,late_flights_found_pct,baseline_roc_auc
+2026-10-10,6,3429,1629,Random forest,0.7224,0.4822,41.0,0.6869
