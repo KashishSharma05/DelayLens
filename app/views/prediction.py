@@ -107,5 +107,5 @@ st.markdown(
 - **No official cause exists** for a delay in India, so the model predicts lateness, not its reason.
 """
 )
-st.caption("Models: logistic regression, random forest and gradient boosting (scikit-learn). "
+st.caption("Models: logistic regression, random forest, gradient boosting and a neural network (MLP), all scikit-learn. "
            "Code: sql/06_ml_features.sql and src/ml/train.py.")

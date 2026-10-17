@@ -58,7 +58,7 @@ Can a late departure be spotted 30 minutes before the scheduled time? (`sql/06_m
 
 - **Features**, all known 30 minutes ahead: airline, route, hour, forecast weather, how the same flight number and airline did on earlier days, how the airport has been running in the last few hours, and whether the aircraft came in late from its previous flight.
 - **Time split:** the last two days are held back for testing; the models learn from the earlier days.
-- **Three models** (logistic regression, random forest, gradient boosting) are compared with a rule of thumb that uses no model.
+- **Four models** (logistic regression, random forest, gradient boosting and a small neural network) are compared with a rule of thumb that uses no model. On this table-shaped data the neural network does not beat the tree models, which is the usual result for tabular data.
 - **Retrained every day** by the scheduled job. Each run adds a line to `data/ml/metrics_history.csv`, so the site shows how the score moves as data accumulates.
 
 First reading, on 6 days of data (3,429 training flights, 1,629 test flights, 24.7% late): the best model, a random forest, reaches ROC AUC 0.72 against 0.69 for the rule of thumb, and finds 41% of late flights among the 20% it ranks riskiest. The margin over the rule is small, and with so few days these numbers will move; they are a starting point, not a result to rely on.

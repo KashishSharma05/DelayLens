@@ -31,8 +31,10 @@ from sklearn.impute import SimpleImputer
 from sklearn.inspection import permutation_importance
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import average_precision_score, roc_auc_score
+from sklearn.neural_network import MLPClassifier
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.utils.class_weight import compute_sample_weight
 
 from src.db import get_engine
 
@@ -115,6 +117,12 @@ def build_models():
             ("model", HistGradientBoostingClassifier(learning_rate=0.05, max_iter=200, class_weight="balanced",
                                                      random_state=RANDOM_STATE)),
         ]),
+        # A small neural network: two hidden layers. It needs scaled inputs, like logistic regression.
+        "Neural network (MLP)": Pipeline([
+            ("prepare", prepare(scale=True)),
+            ("model", MLPClassifier(hidden_layer_sizes=(64, 32), alpha=1e-3, early_stopping=True,
+                                    max_iter=300, random_state=RANDOM_STATE)),
+        ]),
     }
 
 
@@ -160,7 +168,11 @@ def main():
 
     models = build_models()
     for name, model in models.items():
-        model.fit(train[FEATURES], y_train)
+        if name.startswith("Neural network"):
+            # MLPClassifier has no class_weight option, so the same balancing is passed as row weights.
+            model.fit(train[FEATURES], y_train, model__sample_weight=compute_sample_weight("balanced", y_train))
+        else:
+            model.fit(train[FEATURES], y_train)
         risks[name] = pd.Series(model.predict_proba(test[FEATURES])[:, 1], index=test.index)
         results.append(score_model(name, y_test, risks[name]))
 
