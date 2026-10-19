@@ -1,381 +1,382 @@
 origin,flight_number,airline_name,dest,dest_name,usual_departure,days_seen,days_tracked,days_late,days_cancelled,late_pct,avg_minutes_after_schedule,worst_minutes_after_schedule
 BLR,3U 9640,Sichuan Airlines,CTU,Chengdu,18:15,5,5,1,0,20,15,42
 BLR,5X 3,UPS,SDF,Louisville,16:30,1,0,0,0,,,
-BLR,6E 1037,IndiGo,KUL,Kuala Lumpur,14:05,13,11,0,0,0,15,28
-BLR,6E 1043,IndiGo,LGK,Langkawi,07:40,5,5,1,0,20,19,33
-BLR,6E 105,IndiGo,PNQ,Pune,18:50,13,11,2,0,18,23,39
-BLR,6E 1077,IndiGo,HKT,Phuket,06:30,13,13,0,0,0,19,23
-BLR,6E 109,IndiGo,IXE,Mangalore,17:00,13,12,3,0,25,21,54
-BLR,6E 1127,IndiGo,MLE,Malé,12:50,13,12,1,0,8,14,30
-BLR,6E 116,IndiGo,PNQ,Pune,23:05,13,10,2,0,20,17,37
-BLR,6E 1167,IndiGo,CMB,Colombo,09:05,13,12,0,0,0,12,21
-BLR,6E 1183,IndiGo,CMB,Colombo,18:45,11,9,3,0,33,24,41
-BLR,6E 1213,IndiGo,BKK,Bangkok,01:40,13,13,0,0,0,19,29
-BLR,6E 1247,IndiGo,SIN,Singapore,21:15,11,10,5,0,50,40,127
+BLR,6E 1037,IndiGo,KUL,Kuala Lumpur,14:05,14,12,0,0,0,13,28
+BLR,6E 1043,IndiGo,LGK,Langkawi,07:40,6,6,1,0,17,14,33
+BLR,6E 105,IndiGo,PNQ,Pune,18:50,14,12,2,0,17,20,39
+BLR,6E 1077,IndiGo,HKT,Phuket,06:30,14,14,0,0,0,19,23
+BLR,6E 109,IndiGo,IXE,Mangalore,17:00,14,13,3,0,23,20,54
+BLR,6E 1127,IndiGo,MLE,Malé,12:50,14,13,1,0,8,14,30
+BLR,6E 116,IndiGo,PNQ,Pune,23:05,14,11,2,0,18,15,37
+BLR,6E 1167,IndiGo,CMB,Colombo,09:05,14,13,0,0,0,11,21
+BLR,6E 1183,IndiGo,CMB,Colombo,18:45,12,9,3,0,33,24,41
+BLR,6E 1213,IndiGo,BKK,Bangkok,01:40,14,13,0,0,0,19,29
+BLR,6E 1247,IndiGo,SIN,Singapore,21:15,12,11,5,0,45,38,127
 BLR,6E 1247T,IndiGo,BLR,Bangalore,21:51,1,0,0,0,,,
-BLR,6E 1301,IndiGo,DOH,Doha,21:10,13,13,3,0,23,17,43
-BLR,6E 1419,IndiGo,AUH,Abu Dhabi,01:20,7,7,1,0,14,15,36
-BLR,6E 144,IndiGo,COK,Kochi,18:00,13,5,0,0,0,16,25
-BLR,6E 1457,IndiGo,SIN,Singapore,10:20,13,13,1,0,8,11,87
-BLR,6E 1485,IndiGo,DXB,Dubai,08:10,11,11,0,0,0,12,24
-BLR,6E 152,IndiGo,CCJ,Calicut,19:25,13,12,0,0,0,12,25
+BLR,6E 1301,IndiGo,DOH,Doha,21:10,14,14,3,0,21,17,43
+BLR,6E 1419,IndiGo,AUH,Abu Dhabi,01:20,8,8,1,0,13,16,36
+BLR,6E 144,IndiGo,COK,Kochi,18:00,14,5,0,0,0,16,25
+BLR,6E 1457,IndiGo,SIN,Singapore,10:20,14,14,1,0,7,12,87
+BLR,6E 1485,IndiGo,DXB,Dubai,08:10,12,12,0,0,0,10,24
+BLR,6E 152,IndiGo,CCJ,Calicut,19:25,14,13,0,0,0,10,25
 BLR,6E 15RY,IndiGo,LKO,Lucknow,07:15,2,2,0,0,0,0,0
-BLR,6E 1605,IndiGo,DPS,Denpasar-Bali Island,00:50,13,12,0,0,0,10,24
-BLR,6E 163,IndiGo,NMI,Mumbai,21:10,4,1,0,0,0,20,20
-BLR,6E 172,IndiGo,CCU,Kolkata,13:40,13,13,2,0,15,30,219
-BLR,6E 175,IndiGo,DEL,New Delhi,10:45,13,12,3,0,25,18,52
+BLR,6E 1605,IndiGo,DPS,Denpasar-Bali Island,00:50,14,12,0,0,0,10,24
+BLR,6E 163,IndiGo,NMI,Mumbai,21:10,5,2,0,0,0,3,20
+BLR,6E 172,IndiGo,CCU,Kolkata,13:40,14,14,2,0,14,28,219
+BLR,6E 175,IndiGo,DEL,New Delhi,10:45,14,13,3,0,23,17,52
 BLR,6E 182,IndiGo,MAA,Chennai,15:00,2,0,0,0,,,
-BLR,6E 1861,IndiGo,MRU,Port Louis,04:15,13,12,0,0,0,7,27
-BLR,6E 194,IndiGo,GOI,Vasco da Gama,05:30,13,11,0,0,0,13,27
-BLR,6E 196,IndiGo,LKO,Lucknow,13:55,13,12,0,0,0,15,29
+BLR,6E 1861,IndiGo,MRU,Port Louis,04:15,14,12,0,0,0,7,27
+BLR,6E 194,IndiGo,GOI,Vasco da Gama,05:30,14,12,0,0,0,10,27
+BLR,6E 196,IndiGo,LKO,Lucknow,13:55,14,12,0,0,0,15,29
 BLR,6E 2030,IndiGo,IXE,Mangalore,14:50,4,3,0,0,0,21,27
-BLR,6E 2086,IndiGo,NMI,Mumbai,09:25,13,12,6,0,50,27,44
+BLR,6E 2086,IndiGo,NMI,Mumbai,09:25,14,13,6,0,46,26,44
 BLR,6E 2138,IndiGo,COK,Kochi,15:50,4,4,1,0,25,23,37
-BLR,6E 221,IndiGo,IXR,Ranchi,17:45,13,11,1,0,9,20,37
-BLR,6E 223,IndiGo,CCU,Kolkata,17:05,13,11,3,0,27,37,132
-BLR,6E 227,IndiGo,CCU,Kolkata,05:00,8,5,0,0,0,6,14
-BLR,6E 2313,IndiGo,DEL,New Delhi,23:30,12,9,1,0,11,23,72
+BLR,6E 221,IndiGo,IXR,Ranchi,17:45,14,11,1,0,9,20,37
+BLR,6E 223,IndiGo,CCU,Kolkata,17:05,14,11,3,0,27,37,132
+BLR,6E 227,IndiGo,CCU,Kolkata,05:00,9,6,0,0,0,3,14
+BLR,6E 2313,IndiGo,DEL,New Delhi,23:30,13,10,1,0,10,19,72
 BLR,6E 231H,IndiGo,BLR,Bangalore,17:19,1,1,0,0,0,0,0
-BLR,6E 236,IndiGo,CCU,Kolkata,11:45,8,5,1,0,20,22,36
-BLR,6E 239,IndiGo,AMD,Ahmedabad,16:50,13,11,2,0,18,24,56
-BLR,6E 2455,IndiGo,IXJ,Jammu,06:05,10,3,0,0,0,8,17
-BLR,6E 2518,IndiGo,HDO,Ghaziabad,09:20,13,13,2,0,15,18,38
-BLR,6E 309,IndiGo,GOX,Vasco da Gama,16:40,13,12,0,0,0,16,24
+BLR,6E 236,IndiGo,CCU,Kolkata,11:45,9,5,1,0,20,22,36
+BLR,6E 239,IndiGo,AMD,Ahmedabad,16:50,14,11,2,0,18,24,56
+BLR,6E 2455,IndiGo,IXJ,Jammu,06:05,11,4,0,0,0,2,17
+BLR,6E 2518,IndiGo,HDO,Ghaziabad,09:20,14,14,2,0,14,17,38
+BLR,6E 309,IndiGo,GOX,Vasco da Gama,16:40,14,12,0,0,0,16,24
 BLR,6E 3107,IndiGo,NAG,Naqpur,17:15,1,0,0,0,,,
-BLR,6E 312,IndiGo,HYD,Hyderabad,09:15,13,13,1,0,8,12,33
-BLR,6E 331,IndiGo,BEK,Bareilly,10:35,5,5,0,0,0,12,16
-BLR,6E 356,IndiGo,MAA,Chennai,17:15,13,12,1,0,8,20,34
-BLR,6E 368,IndiGo,BHO,Bhopal,06:10,13,11,0,0,0,12,26
+BLR,6E 312,IndiGo,HYD,Hyderabad,09:15,14,14,1,0,7,11,33
+BLR,6E 331,IndiGo,BEK,Bareilly,10:35,6,6,0,0,0,8,16
+BLR,6E 356,IndiGo,MAA,Chennai,17:15,14,12,1,0,8,20,34
+BLR,6E 368,IndiGo,BHO,Bhopal,06:10,14,12,0,0,0,10,26
 BLR,6E 391,IndiGo,BLR,Bangalore,09:17,1,1,0,0,0,0,0
-BLR,6E 405,IndiGo,RPR,Raipur,07:40,13,12,0,0,0,12,22
+BLR,6E 405,IndiGo,RPR,Raipur,07:40,14,13,0,0,0,10,22
 BLR,6E 407,IndiGo,HYD,Hyderabad,14:50,2,2,1,0,50,68,121
-BLR,6E 408,IndiGo,PNQ,Pune,04:30,13,12,0,0,0,5,20
+BLR,6E 408,IndiGo,PNQ,Pune,04:30,14,13,0,0,0,4,20
 BLR,6E 414,IndiGo,PNQ,Pune,14:45,2,1,0,0,0,5,5
-BLR,6E 415,IndiGo,JAI,Jaipur,09:35,13,13,1,0,8,22,88
-BLR,6E 435,IndiGo,COK,Kochi,20:25,13,13,3,0,23,21,49
-BLR,6E 441,IndiGo,PNQ,Pune,20:40,13,12,4,0,33,24,49
-BLR,6E 442,IndiGo,CCU,Kolkata,08:10,13,12,0,0,0,14,27
-BLR,6E 443,IndiGo,IXB,Siliguri,08:15,13,12,0,0,0,14,27
-BLR,6E 451,IndiGo,LKO,Lucknow,16:20,13,12,1,0,8,20,106
-BLR,6E 457,IndiGo,GAU,Guwahati,05:15,13,12,0,0,0,6,27
-BLR,6E 465,IndiGo,STV,Surat Gujarat,12:55,13,13,1,0,8,13,31
-BLR,6E 469,IndiGo,JAI,Jaipur,16:00,13,11,5,0,45,34,71
-BLR,6E 484,IndiGo,HYD,Hyderabad,08:15,13,12,0,0,0,14,25
-BLR,6E 486,IndiGo,NAG,Naqpur,21:35,7,0,0,0,,,
-BLR,6E 503,IndiGo,LKO,Lucknow,10:00,13,13,3,0,23,25,128
-BLR,6E 5031,IndiGo,BOM,Mumbai,16:00,13,10,2,0,20,40,203
-BLR,6E 5051,IndiGo,BOM,Mumbai,08:30,13,12,2,0,17,23,39
-BLR,6E 5069,IndiGo,BOM,Mumbai,11:30,13,12,3,0,25,24,47
-BLR,6E 5089,IndiGo,BOM,Mumbai,05:30,13,12,0,0,0,10,23
-BLR,6E 5094,IndiGo,BOM,Mumbai,22:20,13,12,7,0,58,42,184
+BLR,6E 415,IndiGo,JAI,Jaipur,09:35,14,13,1,0,8,22,88
+BLR,6E 435,IndiGo,COK,Kochi,20:25,14,13,3,0,23,21,49
+BLR,6E 441,IndiGo,PNQ,Pune,20:40,14,12,4,0,33,24,49
+BLR,6E 442,IndiGo,CCU,Kolkata,08:10,14,13,0,0,0,12,27
+BLR,6E 443,IndiGo,IXB,Siliguri,08:15,14,13,0,0,0,12,27
+BLR,6E 451,IndiGo,LKO,Lucknow,16:20,14,12,1,0,8,20,106
+BLR,6E 457,IndiGo,GAU,Guwahati,05:15,14,13,0,0,0,5,27
+BLR,6E 465,IndiGo,STV,Surat Gujarat,12:55,14,14,1,0,7,12,31
+BLR,6E 469,IndiGo,JAI,Jaipur,16:00,14,11,5,0,45,34,71
+BLR,6E 484,IndiGo,HYD,Hyderabad,08:15,14,13,0,0,0,11,25
+BLR,6E 486,IndiGo,NAG,Naqpur,21:35,8,0,0,0,,,
+BLR,6E 503,IndiGo,LKO,Lucknow,10:00,14,14,3,0,21,23,128
+BLR,6E 5031,IndiGo,BOM,Mumbai,16:00,14,10,2,0,20,40,203
+BLR,6E 5051,IndiGo,BOM,Mumbai,08:30,14,13,2,0,15,20,39
+BLR,6E 5069,IndiGo,BOM,Mumbai,11:30,14,13,3,0,23,22,47
+BLR,6E 5089,IndiGo,BOM,Mumbai,05:30,14,13,0,0,0,8,23
+BLR,6E 5094,IndiGo,BOM,Mumbai,22:20,14,13,7,0,54,40,184
 BLR,6E 516,IndiGo,IXU,Aurangabad,15:40,8,7,2,0,29,27,44
-BLR,6E 5205,IndiGo,BOM,Mumbai,03:45,13,13,0,0,0,6,16
-BLR,6E 5216,IndiGo,BOM,Mumbai,07:25,13,12,0,0,0,12,18
-BLR,6E 5218,IndiGo,BOM,Mumbai,13:00,11,10,1,0,10,11,30
-BLR,6E 5237,IndiGo,BOM,Mumbai,10:15,13,12,2,0,17,27,40
-BLR,6E 524,IndiGo,IXA,Agartala,09:25,13,13,2,0,15,17,46
-BLR,6E 5255,IndiGo,BOM,Mumbai,17:25,13,12,1,0,8,16,44
-BLR,6E 528,IndiGo,PNQ,Pune,21:40,13,11,4,0,36,26,57
-BLR,6E 5293,IndiGo,BOM,Mumbai,01:00,13,13,1,0,8,10,30
-BLR,6E 5306,IndiGo,IXE,Mangalore,14:15,13,12,5,0,42,29,68
-BLR,6E 5351,IndiGo,BOM,Mumbai,14:20,13,12,3,0,25,23,73
-BLR,6E 537,IndiGo,HYD,Hyderabad,10:15,13,12,1,0,8,14,46
-BLR,6E 5376,IndiGo,BOM,Mumbai,20:15,13,12,1,0,8,16,30
-BLR,6E 541,IndiGo,IXE,Mangalore,07:15,13,12,0,0,0,14,18
-BLR,6E 574,IndiGo,SAG,Shirdi,11:05,13,13,3,0,23,20,45
-BLR,6E 578,IndiGo,IXE,Mangalore,21:10,7,0,0,0,,,
-BLR,6E 586,IndiGo,AMD,Ahmedabad,05:10,13,11,0,0,0,7,17
+BLR,6E 5205,IndiGo,BOM,Mumbai,03:45,14,13,0,0,0,6,16
+BLR,6E 5216,IndiGo,BOM,Mumbai,07:25,14,13,0,0,0,9,18
+BLR,6E 5218,IndiGo,BOM,Mumbai,13:00,12,11,1,0,9,9,30
+BLR,6E 5237,IndiGo,BOM,Mumbai,10:15,14,13,2,0,15,26,40
+BLR,6E 524,IndiGo,IXA,Agartala,09:25,14,14,2,0,14,15,46
+BLR,6E 5255,IndiGo,BOM,Mumbai,17:25,14,13,1,0,8,14,44
+BLR,6E 528,IndiGo,PNQ,Pune,21:40,14,11,4,0,36,26,57
+BLR,6E 5293,IndiGo,BOM,Mumbai,01:00,14,13,1,0,8,10,30
+BLR,6E 5306,IndiGo,IXE,Mangalore,14:15,14,12,5,0,42,29,68
+BLR,6E 5351,IndiGo,BOM,Mumbai,14:20,14,13,3,0,23,20,73
+BLR,6E 537,IndiGo,HYD,Hyderabad,10:15,14,13,1,0,8,12,46
+BLR,6E 5376,IndiGo,BOM,Mumbai,20:15,14,12,1,0,8,16,30
+BLR,6E 541,IndiGo,IXE,Mangalore,07:15,14,13,0,0,0,12,18
+BLR,6E 574,IndiGo,SAG,Shirdi,11:05,14,14,3,0,21,20,45
+BLR,6E 578,IndiGo,IXE,Mangalore,21:10,8,0,0,0,,,
+BLR,6E 586,IndiGo,AMD,Ahmedabad,05:10,14,11,0,0,0,7,17
 BLR,6E 5CC,IndiGo,TRZ,Tiruchirappally,21:50,2,2,0,0,0,0,0
-BLR,6E 6003,IndiGo,NAG,Naqpur,15:35,13,10,3,0,30,27,43
-BLR,6E 6008,IndiGo,STV,Surat Gujarat,17:20,7,3,2,0,67,28,33
+BLR,6E 6003,IndiGo,NAG,Naqpur,15:35,14,10,3,0,30,27,43
+BLR,6E 6008,IndiGo,STV,Surat Gujarat,17:20,8,3,2,0,67,28,33
 BLR,6E 6012,IndiGo,MAA,Chennai,19:30,8,8,0,0,0,17,29
-BLR,6E 6017,IndiGo,MAA,Chennai,18:15,13,12,1,0,8,19,40
-BLR,6E 602,IndiGo,COK,Kochi,14:25,13,11,0,0,0,21,29
+BLR,6E 6017,IndiGo,MAA,Chennai,18:15,14,13,1,0,8,17,40
+BLR,6E 602,IndiGo,COK,Kochi,14:25,14,12,0,0,0,22,29
 BLR,6E 6030,IndiGo,NMI,Mumbai,15:00,8,7,2,0,29,25,35
-BLR,6E 6032,IndiGo,JDH,Jodhpur,05:20,7,7,0,0,0,12,22
-BLR,6E 6034,IndiGo,DEL,New Delhi,18:15,13,11,2,0,18,28,70
+BLR,6E 6032,IndiGo,JDH,Jodhpur,05:20,8,8,0,0,0,9,22
+BLR,6E 6034,IndiGo,DEL,New Delhi,18:15,14,12,2,0,17,25,70
 BLR,6E 6035,IndiGo,KNU,Kanpur,11:30,8,6,0,0,0,10,24
-BLR,6E 6039,IndiGo,DEL,New Delhi,17:00,13,12,4,0,33,30,92
-BLR,6E 6059,IndiGo,JRG,Jharsuguda,10:10,13,12,1,0,8,20,36
-BLR,6E 6067,IndiGo,HYD,Hyderabad,16:30,13,11,6,0,55,34,75
-BLR,6E 6077,IndiGo,MAA,Chennai,20:20,13,11,4,0,36,27,78
-BLR,6E 6086,IndiGo,BBI,Bhubaneswar,20:45,13,11,2,0,18,24,52
-BLR,6E 6104,IndiGo,PNQ,Pune,11:40,13,11,4,0,36,30,56
-BLR,6E 6120,IndiGo,PAT,Patna,20:15,13,10,2,0,20,26,104
-BLR,6E 6141,IndiGo,JAI,Jaipur,18:20,13,11,3,0,27,29,68
-BLR,6E 6144,IndiGo,TRV,Trivandrum,10:30,13,13,2,0,15,17,57
-BLR,6E 6162,IndiGo,IXE,Mangalore,18:50,13,13,1,0,8,16,30
-BLR,6E 6168,IndiGo,GOI,Vasco da Gama,17:15,13,10,5,0,50,32,61
+BLR,6E 6039,IndiGo,DEL,New Delhi,17:00,14,12,4,0,33,30,92
+BLR,6E 6059,IndiGo,JRG,Jharsuguda,10:10,14,12,1,0,8,20,36
+BLR,6E 6067,IndiGo,HYD,Hyderabad,16:30,14,11,6,0,55,34,75
+BLR,6E 6077,IndiGo,MAA,Chennai,20:20,14,11,4,0,36,27,78
+BLR,6E 6086,IndiGo,BBI,Bhubaneswar,20:45,14,12,2,0,17,23,52
+BLR,6E 6104,IndiGo,PNQ,Pune,11:40,14,12,4,0,33,27,56
+BLR,6E 6120,IndiGo,PAT,Patna,20:15,14,11,2,0,18,24,104
+BLR,6E 6141,IndiGo,JAI,Jaipur,18:20,14,11,3,0,27,29,68
+BLR,6E 6144,IndiGo,TRV,Trivandrum,10:30,14,14,2,0,14,17,57
+BLR,6E 6162,IndiGo,IXE,Mangalore,18:50,14,14,1,0,7,14,30
+BLR,6E 6168,IndiGo,GOI,Vasco da Gama,17:15,14,10,5,0,50,32,61
 BLR,6E 6170,IndiGo,IXM,Madurai,08:10,8,7,0,0,0,11,21
-BLR,6E 6178,IndiGo,HYD,Hyderabad,06:10,13,11,0,0,0,8,20
-BLR,6E 6208,IndiGo,MAA,Chennai,12:45,13,12,5,0,42,30,51
-BLR,6E 6269,IndiGo,MAA,Chennai,07:15,13,13,0,0,0,14,28
-BLR,6E 6277,IndiGo,PAT,Patna,14:45,13,11,3,0,27,25,58
-BLR,6E 6283,IndiGo,BOM,Mumbai,19:05,13,12,0,0,0,9,14
-BLR,6E 6288,IndiGo,ATQ,Amritsar,07:45,13,12,1,0,8,14,42
-BLR,6E 6302,IndiGo,GOP,Gorakhpur,07:35,13,12,1,0,8,17,34
-BLR,6E 6336,IndiGo,VTZ,Visakhapatnam,12:25,13,12,3,0,25,24,52
-BLR,6E 6353,IndiGo,LKO,Lucknow,07:10,13,10,0,0,0,12,18
-BLR,6E 6356,IndiGo,IXZ,Port Blair,11:40,13,11,7,0,64,33,54
-BLR,6E 638,IndiGo,HYD,Hyderabad,18:35,13,12,3,0,25,22,43
-BLR,6E 6385,IndiGo,IXC,Chandigarh,20:30,13,12,3,0,25,26,77
-BLR,6E 6404,IndiGo,HYD,Hyderabad,11:35,13,13,5,0,38,27,56
-BLR,6E 6406,IndiGo,DEL,New Delhi,22:00,13,11,1,0,9,14,46
-BLR,6E 6423,IndiGo,AMD,Ahmedabad,20:00,13,12,6,0,50,32,99
-BLR,6E 6427,IndiGo,TRV,Trivandrum,15:15,13,11,5,0,45,29,62
-BLR,6E 6439,IndiGo,CCU,Kolkata,06:30,13,12,0,0,0,10,23
-BLR,6E 6445,IndiGo,COK,Kochi,10:25,13,12,0,0,0,15,29
-BLR,6E 6451,IndiGo,PAT,Patna,16:45,13,12,1,0,8,18,49
-BLR,6E 6465,IndiGo,BHO,Bhopal,17:15,13,12,5,0,42,24,48
-BLR,6E 6507,IndiGo,HSR,Rajkot,13:15,13,13,0,0,0,14,29
-BLR,6E 6526,IndiGo,GOX,Mopa,21:30,13,11,1,0,9,20,57
-BLR,6E 6531,IndiGo,IXD,Allahabad,11:15,7,7,2,0,29,25,61
-BLR,6E 6535,IndiGo,BBI,Bhubaneswar,11:40,13,12,3,0,25,22,35
-BLR,6E 6537,IndiGo,DGH,Deoghar,11:30,13,2,0,0,0,7,23
-BLR,6E 6542,IndiGo,CJB,Coimbatore,13:10,13,12,1,0,8,14,31
+BLR,6E 6178,IndiGo,HYD,Hyderabad,06:10,14,12,0,0,0,7,20
+BLR,6E 6208,IndiGo,MAA,Chennai,12:45,14,13,5,0,38,29,51
+BLR,6E 6269,IndiGo,MAA,Chennai,07:15,14,14,0,0,0,12,28
+BLR,6E 6277,IndiGo,PAT,Patna,14:45,14,12,3,0,25,22,58
+BLR,6E 6283,IndiGo,BOM,Mumbai,19:05,14,13,0,0,0,7,14
+BLR,6E 6288,IndiGo,ATQ,Amritsar,07:45,14,13,1,0,8,13,42
+BLR,6E 6302,IndiGo,GOP,Gorakhpur,07:35,14,13,1,0,8,15,34
+BLR,6E 6336,IndiGo,VTZ,Visakhapatnam,12:25,14,13,3,0,23,24,52
+BLR,6E 6353,IndiGo,LKO,Lucknow,07:10,14,11,0,0,0,10,18
+BLR,6E 6356,IndiGo,IXZ,Port Blair,11:40,14,12,7,0,58,29,54
+BLR,6E 638,IndiGo,HYD,Hyderabad,18:35,14,13,3,0,23,20,43
+BLR,6E 6385,IndiGo,IXC,Chandigarh,20:30,14,13,3,0,23,23,77
+BLR,6E 6404,IndiGo,HYD,Hyderabad,11:35,14,14,5,0,36,25,56
+BLR,6E 6406,IndiGo,DEL,New Delhi,22:00,14,12,1,0,8,14,46
+BLR,6E 6423,IndiGo,AMD,Ahmedabad,20:00,14,13,6,0,46,31,99
+BLR,6E 6427,IndiGo,TRV,Trivandrum,15:15,14,12,5,0,42,29,62
+BLR,6E 6439,IndiGo,CCU,Kolkata,06:30,14,13,0,0,0,8,23
+BLR,6E 6445,IndiGo,COK,Kochi,10:25,14,13,0,0,0,15,29
+BLR,6E 6451,IndiGo,PAT,Patna,16:45,14,12,1,0,8,18,49
+BLR,6E 6465,IndiGo,BHO,Bhopal,17:15,14,12,5,0,42,24,48
+BLR,6E 6507,IndiGo,HSR,Rajkot,13:15,14,13,0,0,0,14,29
+BLR,6E 6526,IndiGo,GOX,Mopa,21:30,14,11,1,0,9,20,57
+BLR,6E 6531,IndiGo,IXD,Allahabad,11:15,8,7,2,0,29,25,61
+BLR,6E 6535,IndiGo,BBI,Bhubaneswar,11:40,14,13,3,0,23,19,35
+BLR,6E 6537,IndiGo,DGH,Deoghar,11:30,14,3,0,0,0,3,23
+BLR,6E 6542,IndiGo,CJB,Coimbatore,13:10,14,13,1,0,8,14,31
 BLR,6E 6547,IndiGo,ISK,Nasik,11:10,8,8,0,0,0,11,24
 BLR,6E 6548,IndiGo,BLR,Bangalore,16:24,1,1,0,0,0,0,0
-BLR,6E 6554,IndiGo,GOI,Vasco da Gama,19:15,13,11,2,0,18,21,88
-BLR,6E 6558,IndiGo,VNS,Varanasi,09:05,13,3,3,0,100,47,54
-BLR,6E 6562,IndiGo,MAA,Chennai,21:50,13,12,3,0,25,23,58
-BLR,6E 6563,IndiGo,PNQ,Pune,01:05,13,12,1,0,8,9,31
-BLR,6E 6572,IndiGo,CCU,Kolkata,15:05,13,11,4,0,36,26,49
-BLR,6E 6583,IndiGo,GOX,Mopa,10:40,13,13,3,0,23,22,54
-BLR,6E 6585,IndiGo,IXM,Madurai,19:30,13,11,2,0,18,25,59
-BLR,6E 6586,IndiGo,JLR,Jabalpur,11:55,13,7,1,0,14,20,53
-BLR,6E 6595,IndiGo,AMD,Ahmedabad,13:55,12,11,0,0,0,12,27
-BLR,6E 6596,IndiGo,VNS,Varanasi,15:15,13,12,4,0,33,30,71
-BLR,6E 6628,IndiGo,TRV,Trivandrum,21:35,7,0,0,0,,,
-BLR,6E 6633,IndiGo,IXC,Chandigarh,04:40,13,11,0,0,0,5,12
-BLR,6E 6653,IndiGo,GOI,Vasco da Gama,12:35,13,12,2,0,17,20,32
-BLR,6E 6703,IndiGo,CCU,Kolkata,19:40,8,6,1,0,17,26,73
+BLR,6E 6554,IndiGo,GOI,Vasco da Gama,19:15,14,12,2,0,17,19,88
+BLR,6E 6558,IndiGo,VNS,Varanasi,09:05,14,4,3,0,75,38,54
+BLR,6E 6562,IndiGo,MAA,Chennai,21:50,14,13,3,0,23,21,58
+BLR,6E 6563,IndiGo,PNQ,Pune,01:05,14,12,1,0,8,9,31
+BLR,6E 6572,IndiGo,CCU,Kolkata,15:05,14,11,4,0,36,26,49
+BLR,6E 6583,IndiGo,GOX,Mopa,10:40,14,13,3,0,23,22,54
+BLR,6E 6585,IndiGo,IXM,Madurai,19:30,14,12,2,0,17,22,59
+BLR,6E 6586,IndiGo,JLR,Jabalpur,11:55,14,8,1,0,13,21,53
+BLR,6E 6595,IndiGo,AMD,Ahmedabad,13:55,13,12,0,0,0,10,27
+BLR,6E 6596,IndiGo,VNS,Varanasi,15:15,14,12,4,0,33,30,71
+BLR,6E 6628,IndiGo,TRV,Trivandrum,21:35,8,0,0,0,,,
+BLR,6E 6633,IndiGo,IXC,Chandigarh,04:40,14,12,0,0,0,3,12
+BLR,6E 6653,IndiGo,GOI,Vasco da Gama,12:35,14,13,2,0,15,19,32
+BLR,6E 6703,IndiGo,CCU,Kolkata,19:40,9,7,1,0,14,21,73
 BLR,6E 6712,IndiGo,DED,Dehradun,12:35,2,2,2,0,100,37,38
-BLR,6E 6743,IndiGo,IDR,Indore,20:50,13,13,5,0,38,26,60
-BLR,6E 6753,IndiGo,GOI,Vasco da Gama,15:15,13,11,8,0,73,52,181
-BLR,6E 676,IndiGo,CCU,Kolkata,18:30,12,11,2,0,18,25,71
-BLR,6E 6774,IndiGo,GAU,Guwahati,16:25,13,12,4,0,33,29,86
-BLR,6E 6779,IndiGo,AMD,Ahmedabad,01:10,13,11,0,0,0,9,27
-BLR,6E 6784,IndiGo,HYD,Hyderabad,21:25,13,11,2,0,18,19,40
-BLR,6E 6801,IndiGo,PAT,Patna,08:25,13,12,3,0,25,22,52
-BLR,6E 684,IndiGo,HYD,Hyderabad,22:30,7,0,0,0,,,
-BLR,6E 6863,IndiGo,NAG,Naqpur,08:20,13,3,0,0,0,14,17
-BLR,6E 687,IndiGo,UDR,Udaipur,06:45,13,12,0,0,0,7,19
-BLR,6E 6875,IndiGo,CJB,Coimbatore,19:55,13,13,1,0,8,18,38
-BLR,6E 6876,IndiGo,PNQ,Pune,02:40,13,13,0,0,0,4,13
-BLR,6E 688,IndiGo,TRV,Trivandrum,07:20,13,12,0,0,0,14,24
-BLR,6E 6891,IndiGo,NAG,Naqpur,17:15,8,5,3,0,60,35,65
-BLR,6E 7005,IndiGo,COK,Kochi,08:05,13,3,0,0,0,4,15
-BLR,6E 702,IndiGo,BBI,Bhubaneswar,07:30,13,12,0,0,0,11,22
-BLR,6E 703,IndiGo,COK,Kochi,12:55,11,11,1,0,9,16,41
-BLR,6E 7071,IndiGo,VGA,Vijayawada,10:55,2,0,0,0,,,
-BLR,6E 7134,IndiGo,VGA,Vijayawada,19:20,13,1,0,0,0,28,28
-BLR,6E 7142,IndiGo,PNY,Puducherry,16:00,13,3,0,0,0,11,23
-BLR,6E 7162,IndiGo,HBX,Hubli,15:20,13,8,1,0,13,19,31
-BLR,6E 7165,IndiGo,TRZ,Tiruchirappally,19:35,13,3,1,0,33,37,65
+BLR,6E 6743,IndiGo,IDR,Indore,20:50,14,14,5,0,36,23,60
+BLR,6E 6753,IndiGo,GOI,Vasco da Gama,15:15,14,12,8,0,67,49,181
+BLR,6E 676,IndiGo,CCU,Kolkata,18:30,13,12,2,0,17,22,71
+BLR,6E 6774,IndiGo,GAU,Guwahati,16:25,14,12,4,0,33,29,86
+BLR,6E 6779,IndiGo,AMD,Ahmedabad,01:10,14,11,0,0,0,9,27
+BLR,6E 6784,IndiGo,HYD,Hyderabad,21:25,14,11,2,0,18,19,40
+BLR,6E 6801,IndiGo,PAT,Patna,08:25,14,13,3,0,23,20,52
+BLR,6E 684,IndiGo,HYD,Hyderabad,22:30,8,0,0,0,,,
+BLR,6E 6863,IndiGo,NAG,Naqpur,08:20,14,4,0,0,0,7,17
+BLR,6E 687,IndiGo,UDR,Udaipur,06:45,14,13,0,0,0,5,19
+BLR,6E 6875,IndiGo,CJB,Coimbatore,19:55,14,14,1,0,7,16,38
+BLR,6E 6876,IndiGo,PNQ,Pune,02:40,14,13,0,0,0,4,13
+BLR,6E 688,IndiGo,TRV,Trivandrum,07:20,14,13,0,0,0,12,24
+BLR,6E 6891,IndiGo,NAG,Naqpur,17:15,9,6,3,0,50,31,65
+BLR,6E 7005,IndiGo,COK,Kochi,08:05,14,4,0,0,0,-1,15
+BLR,6E 702,IndiGo,BBI,Bhubaneswar,07:30,14,13,0,0,0,9,22
+BLR,6E 703,IndiGo,COK,Kochi,12:55,12,11,1,0,9,16,41
+BLR,6E 7071,IndiGo,VGA,Vijayawada,10:55,3,1,0,0,0,-5,-5
+BLR,6E 7134,IndiGo,VGA,Vijayawada,19:20,14,2,0,0,0,9,28
+BLR,6E 7142,IndiGo,PNY,Puducherry,16:00,14,3,0,0,0,11,23
+BLR,6E 7162,IndiGo,HBX,Hubli,15:20,14,9,1,0,11,17,31
+BLR,6E 7165,IndiGo,TRZ,Tiruchirappally,19:35,14,3,1,0,33,37,65
 BLR,6E 7176,IndiGo,KJB,Kurnool,10:10,6,5,0,0,0,17,19
-BLR,6E 7204,IndiGo,VGA,Vijayawada,06:50,13,5,0,0,0,9,27
-BLR,6E 7223,IndiGo,VGA,Vijayawada,15:30,13,1,0,0,0,19,19
-BLR,6E 7226,IndiGo,IXG,Belgaum,17:55,7,3,0,0,0,17,19
-BLR,6E 7227,IndiGo,HBX,Hubli,06:25,13,11,0,0,0,11,17
-BLR,6E 7231,IndiGo,RJA,Rajahmundry,17:10,13,8,1,0,13,19,46
-BLR,6E 7236,IndiGo,TRZ,Tiruchirappally,06:55,7,2,0,0,0,17,20
-BLR,6E 7271,IndiGo,AGX,Agatti Island,10:10,7,0,0,0,,,
-BLR,6E 7285,IndiGo,IXG,Belgaum,06:50,13,12,0,0,0,5,19
-BLR,6E 738,IndiGo,VNS,Varanasi,18:00,13,12,4,0,33,28,54
-BLR,6E 7445,IndiGo,KLH,Kolkhapur,15:20,13,2,1,0,50,29,30
-BLR,6E 747,IndiGo,IDR,Indore,17:55,13,12,0,0,0,17,29
-BLR,6E 763,IndiGo,COK,Kochi,07:10,13,12,1,0,8,17,40
-BLR,6E 77,IndiGo,JED,Jeddah,01:35,12,8,0,0,0,16,28
-BLR,6E 7711,IndiGo,TRZ,Tiruchirappally,10:55,13,5,1,0,20,19,61
+BLR,6E 7204,IndiGo,VGA,Vijayawada,06:50,14,6,0,0,0,5,27
+BLR,6E 7223,IndiGo,VGA,Vijayawada,15:30,14,1,0,0,0,19,19
+BLR,6E 7226,IndiGo,IXG,Belgaum,17:55,8,4,0,0,0,18,20
+BLR,6E 7227,IndiGo,HBX,Hubli,06:25,14,12,0,0,0,9,17
+BLR,6E 7231,IndiGo,RJA,Rajahmundry,17:10,14,8,1,0,13,19,46
+BLR,6E 7236,IndiGo,TRZ,Tiruchirappally,06:55,8,3,0,0,0,8,20
+BLR,6E 7271,IndiGo,AGX,Agatti Island,10:10,8,0,0,0,,,
+BLR,6E 7285,IndiGo,IXG,Belgaum,06:50,14,13,0,0,0,4,19
+BLR,6E 738,IndiGo,VNS,Varanasi,18:00,14,13,4,0,31,25,54
+BLR,6E 7445,IndiGo,KLH,Kolkhapur,15:20,14,3,1,0,33,14,30
+BLR,6E 747,IndiGo,IDR,Indore,17:55,14,12,0,0,0,17,29
+BLR,6E 763,IndiGo,COK,Kochi,07:10,14,13,1,0,8,14,40
+BLR,6E 77,IndiGo,JED,Jeddah,01:35,13,8,0,0,0,16,28
+BLR,6E 7711,IndiGo,TRZ,Tiruchirappally,10:55,14,5,1,0,20,19,61
 BLR,6E 7728,IndiGo,CNN,Kannur,06:55,6,3,0,0,0,-1,3
-BLR,6E 7737,IndiGo,TIR,Tirumala - Tirupati,10:50,7,5,1,0,20,15,30
-BLR,6E 7917,IndiGo,SXV,Salem,10:50,7,3,1,0,33,22,32
-BLR,6E 804,IndiGo,DEL,New Delhi,03:00,13,12,0,0,0,12,23
-BLR,6E 807,IndiGo,BDQ,Vadodara,15:40,13,11,5,0,45,26,52
-BLR,6E 809,IndiGo,DEL,New Delhi,12:00,13,12,4,0,33,24,69
-BLR,6E 817,IndiGo,DEL,New Delhi,20:40,13,13,4,0,31,17,37
-BLR,6E 830,IndiGo,DEL,New Delhi,09:30,13,12,2,0,17,17,47
-BLR,6E 836,IndiGo,DEL,New Delhi,05:05,13,11,0,0,0,4,13
-BLR,6E 838,IndiGo,JAI,Jaipur,22:40,12,9,2,0,22,25,71
-BLR,6E 839,IndiGo,DEL,New Delhi,01:00,13,11,0,0,0,11,22
-BLR,6E 840,IndiGo,DEL,New Delhi,13:55,13,10,1,0,10,18,33
-BLR,6E 844,IndiGo,DEL,New Delhi,07:00,13,13,1,0,8,10,31
-BLR,6E 849,IndiGo,DEL,New Delhi,08:15,13,12,1,0,8,71,691
-BLR,6E 851,IndiGo,IXC,Chandigarh,16:20,13,11,5,0,45,33,89
-BLR,6E 852,IndiGo,DED,Dehradun,15:10,13,9,4,0,44,37,106
-BLR,6E 855,IndiGo,HYD,Hyderabad,19:45,13,12,3,0,25,23,69
-BLR,6E 857,IndiGo,CJB,Coimbatore,07:05,13,11,0,0,0,14,20
-BLR,6E 860,IndiGo,DEL,New Delhi,15:45,13,10,0,0,0,22,28
-BLR,6E 869,IndiGo,DEL,New Delhi,13:10,13,12,2,0,17,25,109
-BLR,6E 870,IndiGo,DEL,New Delhi,19:30,13,9,4,0,44,28,49
+BLR,6E 7737,IndiGo,TIR,Tirumala - Tirupati,10:50,8,5,1,0,20,15,30
+BLR,6E 7917,IndiGo,SXV,Salem,10:50,8,3,1,0,33,22,32
+BLR,6E 804,IndiGo,DEL,New Delhi,03:00,14,12,0,0,0,12,23
+BLR,6E 807,IndiGo,BDQ,Vadodara,15:40,14,12,5,0,42,24,52
+BLR,6E 809,IndiGo,DEL,New Delhi,12:00,14,13,4,0,31,21,69
+BLR,6E 817,IndiGo,DEL,New Delhi,20:40,14,14,4,0,29,15,37
+BLR,6E 830,IndiGo,DEL,New Delhi,09:30,14,13,2,0,15,15,47
+BLR,6E 836,IndiGo,DEL,New Delhi,05:05,14,11,0,0,0,4,13
+BLR,6E 838,IndiGo,JAI,Jaipur,22:40,13,10,2,0,20,21,71
+BLR,6E 839,IndiGo,DEL,New Delhi,01:00,14,11,0,0,0,11,22
+BLR,6E 840,IndiGo,DEL,New Delhi,13:55,14,11,1,0,9,15,33
+BLR,6E 844,IndiGo,DEL,New Delhi,07:00,14,13,1,0,8,10,31
+BLR,6E 849,IndiGo,DEL,New Delhi,08:15,14,13,1,0,8,64,691
+BLR,6E 851,IndiGo,IXC,Chandigarh,16:20,14,11,5,0,45,33,89
+BLR,6E 852,IndiGo,DED,Dehradun,15:10,14,10,4,0,40,35,106
+BLR,6E 855,IndiGo,HYD,Hyderabad,19:45,14,13,3,0,23,20,69
+BLR,6E 857,IndiGo,CJB,Coimbatore,07:05,14,12,0,0,0,11,20
+BLR,6E 860,IndiGo,DEL,New Delhi,15:45,14,10,0,0,0,22,28
+BLR,6E 869,IndiGo,DEL,New Delhi,13:10,14,13,2,0,15,23,109
+BLR,6E 870,IndiGo,DEL,New Delhi,19:30,14,10,4,0,40,24,49
 BLR,6E 9006,IndiGo,BLR,Bangalore,12:00,1,0,0,0,,,
-BLR,6E 904,IndiGo,MAA,Chennai,10:45,13,13,1,0,8,17,37
+BLR,6E 904,IndiGo,MAA,Chennai,10:45,14,14,1,0,7,17,37
 BLR,6E 9051,IndiGo,MAA,Chennai,21:15,1,0,0,0,,,
 BLR,6E 9070,IndiGo,CNN,Kannur,23:30,1,1,1,0,100,110,110
 BLR,6E 9073,IndiGo,COK,Kochi,10:50,1,0,0,0,,,
 BLR,6E 9083,IndiGo,NMI,Mumbai,16:00,1,0,0,0,,,
 BLR,6E 9304,IndiGo,COK,Kochi,19:50,1,0,0,0,,,
-BLR,6E 941,IndiGo,AGR,Agra,12:40,13,11,1,0,9,16,36
-BLR,6E 952,IndiGo,CCU,Kolkata,22:20,13,11,5,0,45,26,75
-BLR,6E 959,IndiGo,IDR,Indore,07:30,13,12,0,0,0,15,27
-BLR,6E 969,IndiGo,VTZ,Visakhapatnam,19:00,13,1,0,0,0,9,9
-BLR,6E 975,IndiGo,CCU,Kolkata,20:20,13,12,5,0,42,32,67
-BLR,6E 977,IndiGo,GOI,Vasco da Gama,21:45,9,5,4,0,80,42,73
-BLR,6E 978,IndiGo,RPR,Raipur,17:30,13,1,1,0,100,45,45
-BLR,9I 507,Alliance Air,COK,Kochi,07:10,12,6,1,0,17,4,37
+BLR,6E 941,IndiGo,AGR,Agra,12:40,14,12,1,0,8,14,36
+BLR,6E 952,IndiGo,CCU,Kolkata,22:20,14,12,5,0,42,23,75
+BLR,6E 959,IndiGo,IDR,Indore,07:30,14,13,0,0,0,13,27
+BLR,6E 969,IndiGo,VTZ,Visakhapatnam,19:00,14,2,0,0,0,-1,9
+BLR,6E 975,IndiGo,CCU,Kolkata,20:20,14,13,5,0,38,28,67
+BLR,6E 977,IndiGo,GOI,Vasco da Gama,21:45,10,5,4,0,80,42,73
+BLR,6E 978,IndiGo,RPR,Raipur,17:30,14,1,1,0,100,45,45
+BLR,9I 507,Alliance Air,COK,Kochi,07:10,13,7,1,0,14,1,37
 BLR,9I 509,Alliance Air,COK,Kochi,19:20,1,1,1,0,100,65,65
-BLR,9I 513,Alliance Air,SXV,Salem,15:55,7,2,0,0,0,-5,-5
+BLR,9I 513,Alliance Air,SXV,Salem,15:55,8,2,0,0,0,-5,-5
 BLR,9I 517,Alliance Air,HYD,Hyderabad,17:45,12,7,6,0,86,108,327
-BLR,9I 520,Alliance Air,HYD,Hyderabad,14:40,1,0,0,0,,,
-BLR,9I 547,Alliance Air,GOI,Vasco da Gama,20:50,5,0,0,0,,,
-BLR,AF 191,Air France,CDG,Paris,01:25,13,12,10,0,83,70,258
-BLR,AI 133,Air India,LHR,London,14:20,13,11,1,0,9,25,101
-BLR,AI 2402,Air India,BOM,Mumbai,06:35,13,13,0,0,0,5,16
-BLR,AI 2406,Air India,DEL,New Delhi,11:00,12,9,5,0,56,36,102
-BLR,AI 2414,Air India,DEL,New Delhi,05:30,10,9,0,0,0,11,20
-BLR,AI 2418,Air India,DEL,New Delhi,16:30,13,10,1,0,10,15,82
-BLR,AI 2486,Air India,DEL,New Delhi,14:00,13,10,2,0,20,20,35
-BLR,AI 2488,Air India,DEL,New Delhi,22:30,13,11,2,0,18,15,76
-BLR,AI 2511,Air India,DEL,New Delhi,15:00,12,8,0,0,0,8,15
-BLR,AI 2604,Air India,BOM,Mumbai,09:15,13,12,0,0,0,10,26
-BLR,AI 2610,Air India,BOM,Mumbai,19:00,13,10,1,0,10,13,43
-BLR,AI 2630,Air India,BOM,Mumbai,12:05,13,12,0,0,0,15,29
-BLR,AI 2642,Air India,BOM,Mumbai,21:30,13,7,1,0,14,18,45
+BLR,9I 520,Alliance Air,HYD,Hyderabad,14:40,2,0,0,0,,,
+BLR,9I 547,Alliance Air,GOI,Vasco da Gama,19:20,6,1,0,0,0,27,27
+BLR,AF 191,Air France,CDG,Paris,01:25,14,13,11,0,85,78,258
+BLR,AI 133,Air India,LHR,London,14:20,14,11,1,0,9,25,101
+BLR,AI 2402,Air India,BOM,Mumbai,06:35,14,13,0,0,0,5,16
+BLR,AI 2406,Air India,DEL,New Delhi,11:00,13,10,5,0,50,32,102
+BLR,AI 2414,Air India,DEL,New Delhi,05:30,11,9,0,0,0,11,20
+BLR,AI 2418,Air India,DEL,New Delhi,16:30,14,10,1,0,10,15,82
+BLR,AI 2486,Air India,DEL,New Delhi,14:00,14,10,2,0,20,20,35
+BLR,AI 2488,Air India,DEL,New Delhi,22:30,14,12,2,0,17,13,76
+BLR,AI 2511,Air India,DEL,New Delhi,15:00,13,8,0,0,0,8,15
+BLR,AI 2604,Air India,BOM,Mumbai,09:15,14,12,0,0,0,10,26
+BLR,AI 2610,Air India,BOM,Mumbai,19:00,14,10,1,0,10,13,43
+BLR,AI 2630,Air India,BOM,Mumbai,12:05,14,13,0,0,0,13,29
+BLR,AI 2642,Air India,BOM,Mumbai,21:30,14,7,1,0,14,18,45
 BLR,AI 2652,Air India,DEL,New Delhi,12:30,3,0,0,0,,,
-BLR,AI 2654,Air India,DEL,New Delhi,07:00,11,10,0,0,0,12,24
-BLR,AI 2665,Air India,DEL,New Delhi,19:40,11,3,1,0,33,23,56
-BLR,AI 2758,Air India,DEL,New Delhi,00:15,12,11,1,0,9,19,64
-BLR,AI 2802,Air India,DEL,New Delhi,18:20,13,11,3,0,27,24,55
-BLR,AI 2804,Air India,DEL,New Delhi,10:00,12,4,0,0,0,15,25
-BLR,AI 2808,Air India,DEL,New Delhi,08:00,3,0,0,0,,,
-BLR,AI 2810,Air India,DEL,New Delhi,06:00,13,9,0,0,0,12,20
-BLR,AI 2811,Air India,BOM,Mumbai,23:40,13,10,2,0,20,20,57
-BLR,AI 2814,Air India,DEL,New Delhi,22:00,13,5,1,0,20,19,32
-BLR,AI 2818,Air India,DEL,New Delhi,20:00,13,11,6,0,55,37,64
-BLR,AI 2820,Air India,DEL,New Delhi,17:25,13,7,0,0,0,14,28
-BLR,AI 2840,Air India,BOM,Mumbai,22:30,11,7,1,0,14,11,30
-BLR,AI 2846,Air India,BOM,Mumbai,08:20,10,8,0,0,0,10,16
-BLR,AI 2850,Air India,BOM,Mumbai,20:30,13,11,1,0,9,17,70
-BLR,AI 2852,Air India,BOM,Mumbai,10:30,13,12,0,0,0,10,18
-BLR,AI 2854,Air India,BOM,Mumbai,18:05,13,8,0,0,0,11,17
-BLR,AI 2858,Air India,BOM,Mumbai,02:20,13,12,2,0,17,21,56
-BLR,AI 2868,Air India,DEL,New Delhi,09:00,4,0,0,0,,,
+BLR,AI 2654,Air India,DEL,New Delhi,07:00,12,10,0,0,0,12,24
+BLR,AI 2665,Air India,DEL,New Delhi,19:40,12,3,1,0,33,23,56
+BLR,AI 2758,Air India,DEL,New Delhi,00:15,13,11,1,0,9,19,64
+BLR,AI 2802,Air India,DEL,New Delhi,18:20,14,11,3,0,27,24,55
+BLR,AI 2804,Air India,DEL,New Delhi,10:00,13,5,0,0,0,10,25
+BLR,AI 2808,Air India,DEL,New Delhi,08:00,4,0,0,0,,,
+BLR,AI 2810,Air India,DEL,New Delhi,06:00,14,9,0,0,0,12,20
+BLR,AI 2811,Air India,BOM,Mumbai,23:40,14,10,2,0,20,20,57
+BLR,AI 2814,Air India,DEL,New Delhi,22:00,14,5,1,0,20,19,32
+BLR,AI 2818,Air India,DEL,New Delhi,20:00,14,12,6,0,50,36,64
+BLR,AI 2820,Air India,DEL,New Delhi,17:25,14,7,0,0,0,14,28
+BLR,AI 2840,Air India,BOM,Mumbai,22:30,12,7,1,0,14,11,30
+BLR,AI 2846,Air India,BOM,Mumbai,08:20,11,8,0,0,0,10,16
+BLR,AI 2850,Air India,BOM,Mumbai,20:30,14,11,1,0,9,17,70
+BLR,AI 2852,Air India,BOM,Mumbai,10:30,14,13,0,0,0,8,18
+BLR,AI 2854,Air India,BOM,Mumbai,18:05,14,8,0,0,0,11,17
+BLR,AI 2858,Air India,BOM,Mumbai,02:20,14,13,2,0,15,19,56
+BLR,AI 2868,Air India,DEL,New Delhi,09:00,5,0,0,0,,,
 BLR,AI 3306,Air India,BOM,Mumbai,02:25,4,3,0,0,0,8,20
-BLR,AI 428,Air India,DEL,New Delhi,15:30,13,9,1,0,11,17,33
+BLR,AI 428,Air India,DEL,New Delhi,15:30,14,9,1,0,11,17,33
 BLR,AI 8JL,Air India,DEL,New Delhi,11:13,2,2,0,0,0,0,0
 BLR,AI 8XX,Air India,DEL,New Delhi,16:47,1,1,0,0,0,1,1
-BLR,AK 52,AirAsia,KUL,Kuala Lumpur,23:25,7,6,1,0,17,20,38
-BLR,BA 118,British,LHR,London,06:50,13,13,3,0,23,20,35
+BLR,AK 52,AirAsia,KUL,Kuala Lumpur,23:25,8,6,1,0,17,20,38
+BLR,BA 118,British,LHR,London,06:50,14,14,3,0,21,19,35
 BLR,BA 130,British,LHR,London,02:50,12,11,3,0,27,19,72
 BLR,BZ 304,Blue Dart Aviation,DEL,New Delhi,00:25,6,6,0,0,0,0,0
 BLR,BZ 354,Blue Dart Aviation,BOM,Mumbai,23:25,5,5,4,0,80,51,81
-BLR,CX 624,Cathay Pacific,HKG,Hong Kong,01:15,13,12,6,0,50,36,78
-BLR,EK 565,Emirates,DXB,Dubai,10:30,13,11,7,0,64,46,94
-BLR,EK 567,Emirates,DXB,Dubai,21:00,13,11,0,0,0,16,25
-BLR,EK 569,Emirates,DXB,Dubai,04:45,13,10,1,0,10,17,35
+BLR,CX 624,Cathay Pacific,HKG,Hong Kong,01:15,14,13,6,0,46,34,78
+BLR,EK 565,Emirates,DXB,Dubai,10:30,14,11,7,0,64,46,94
+BLR,EK 567,Emirates,DXB,Dubai,21:00,14,11,0,0,0,16,25
+BLR,EK 569,Emirates,DXB,Dubai,04:45,14,10,1,0,10,17,35
 BLR,EK 9711,Emirates,DWC,Jebel Ali,15:55,3,2,1,0,50,184,367
 BLR,EK 9811,Emirates,DWC,Jebel Ali,10:30,2,0,0,0,,,
 BLR,ET 3433,Ethiopian Airlines,ADD,Addis Ababa,00:20,4,1,0,0,0,0,0
 BLR,ET 691,Ethiopian,ADD,Addis Ababa,15:10,6,2,0,0,0,14,17
-BLR,EY 233,Etihad,AUH,Abu Dhabi,04:35,13,12,11,0,92,70,99
+BLR,EY 233,Etihad,AUH,Abu Dhabi,04:35,14,13,12,0,92,68,99
 BLR,EY 237,Etihad,AUH,Abu Dhabi,16:55,6,6,0,0,0,5,10
-BLR,EY 239,Etihad,AUH,Abu Dhabi,22:15,12,10,0,0,0,7,25
+BLR,EY 239,Etihad,AUH,Abu Dhabi,22:15,13,10,0,0,0,7,25
 BLR,EY 2MJ,Etihad Airways,AUH,Abu Dhabi,22:21,2,2,0,0,0,0,0
 BLR,EY 9608,Etihad,AUH,Abu Dhabi,05:30,2,0,0,0,,,
-BLR,FD 138,Thai AirAsia,DMK,Bangkok,23:20,7,6,3,0,50,29,51
-BLR,G9 497,Air Arabia,SHJ,Sharjah,04:20,13,11,8,0,73,49,100
-BLR,GF 281,Gulf Air,BAH,Manama,22:20,13,11,0,0,0,14,29
-BLR,GF 283,Gulf Air,BAH,Manama,05:45,13,12,0,0,0,10,22
+BLR,FD 138,Thai AirAsia,DMK,Bangkok,23:20,8,7,3,0,43,23,51
+BLR,G9 497,Air Arabia,SHJ,Sharjah,04:20,14,12,8,0,67,45,100
+BLR,GF 281,Gulf Air,BAH,Manama,22:20,14,11,0,0,0,14,29
+BLR,GF 283,Gulf Air,BAH,Manama,05:45,14,13,0,0,0,9,22
 BLR,GI 4374,China Central Longhao,CGO,Zhengzhou,16:15,1,1,0,0,0,25,25
-BLR,IX 1040,Air India Express,DEL,New Delhi,17:35,12,2,0,0,0,7,7
-BLR,IX 1089,Air India Express,IXC,Chandigarh,21:05,13,11,0,0,0,18,28
-BLR,IX 1131,Air India Express,CCU,Kolkata,07:05,13,13,1,0,8,14,35
-BLR,IX 1168,Air India Express,MAA,Chennai,19:40,12,11,1,0,9,32,203
-BLR,IX 1239,Air India Express,IXR,Ranchi,06:35,13,5,1,0,20,2,33
-BLR,IX 1250,Air India Express,HYD,Hyderabad,19:10,13,11,2,0,18,19,53
-BLR,IX 1360,Air India Express,NMI,Mumbai,20:55,13,3,1,0,33,25,30
+BLR,IX 1040,Air India Express,DEL,New Delhi,17:35,13,2,0,0,0,7,7
+BLR,IX 1089,Air India Express,IXC,Chandigarh,21:05,14,11,0,0,0,18,28
+BLR,IX 1131,Air India Express,CCU,Kolkata,07:05,14,13,1,0,8,14,35
+BLR,IX 1168,Air India Express,MAA,Chennai,19:40,13,11,1,0,9,32,203
+BLR,IX 1239,Air India Express,IXR,Ranchi,06:35,14,5,1,0,20,2,33
+BLR,IX 1250,Air India Express,HYD,Hyderabad,19:10,14,11,2,0,18,19,53
+BLR,IX 1360,Air India Express,NMI,Mumbai,20:55,14,3,1,0,33,25,30
 BLR,IX 1365,Air India Express,CCJ,Calicut,18:20,2,0,0,0,,,
-BLR,IX 1367,Air India Express,TRV,Trivandrum,21:20,13,2,0,0,0,19,25
-BLR,IX 1370,Air India Express,CCU,Kolkata,22:15,13,8,4,0,50,27,39
-BLR,IX 1385,Air India Express,SXR,Srinagar,10:55,13,12,0,0,0,13,22
-BLR,IX 1386,Air India Express,GOI,Vasco da Gama,13:05,13,10,1,0,10,18,32
+BLR,IX 1367,Air India Express,TRV,Trivandrum,21:20,14,2,0,0,0,19,25
+BLR,IX 1370,Air India Express,CCU,Kolkata,22:15,14,8,4,0,50,27,39
+BLR,IX 1385,Air India Express,SXR,Srinagar,10:55,14,12,0,0,0,13,22
+BLR,IX 1386,Air India Express,GOI,Vasco da Gama,13:05,14,11,1,0,9,16,32
 BLR,IX 13K,Air India Express,CCU,Kolkata,00:38,1,1,0,0,0,0,0
 BLR,IX 1405,Air India Express,LKO,Lucknow,11:45,1,0,0,0,,,
-BLR,IX 1407,Air India Express,IXB,Siliguri,13:30,10,7,2,0,29,24,80
+BLR,IX 1407,Air India Express,IXB,Siliguri,13:30,11,8,2,0,25,20,80
 BLR,IX 1410,Air India Express,LKO,Lucknow,12:50,1,0,0,0,,,
-BLR,IX 1470,Air India Express,VNS,Varanasi,05:35,3,0,0,0,,,
-BLR,IX 1472,Air India Express,MAA,Chennai,07:05,12,7,0,0,0,7,20
-BLR,IX 1479,Air India Express,LKO,Lucknow,05:55,13,3,0,0,0,9,18
-BLR,IX 1480,Air India Express,LKO,Lucknow,12:50,6,0,0,0,,,
-BLR,IX 1486,Air India Express,BBI,Bhubaneswar,06:05,3,0,0,0,,,
-BLR,IX 1489,Air India Express,CCJ,Calicut,08:25,13,2,0,0,0,13,14
-BLR,IX 1494,Air India Express,JAI,Jaipur,18:55,7,0,0,0,,,
-BLR,IX 1498,Air India Express,IXC,Chandigarh,10:40,13,11,2,0,18,25,70
-BLR,IX 1501,Air India Express,TRV,Trivandrum,10:45,3,0,0,0,,,
-BLR,IX 1502,Air India Express,GOX,Mopa,10:30,3,0,0,0,,,
-BLR,IX 1504,Air India Express,PAT,Patna,16:55,7,0,0,0,,,
-BLR,IX 1506,Air India Express,DED,Dehradun,09:10,9,1,0,0,0,-7,-7
-BLR,IX 1526,Air India Express,JAI,Jaipur,09:30,12,2,0,0,0,8,20
-BLR,IX 1527,Air India Express,DED,Dehradun,16:45,13,0,0,0,,,
-BLR,IX 1531,Air India Express,IXE,Mangalore,14:40,7,0,0,0,,,
-BLR,IX 1536,Air India Express,BBI,Bhubaneswar,15:00,13,1,0,0,0,21,21
-BLR,IX 1537,Air India Express,CCU,Kolkata,12:00,13,0,0,0,,,
-BLR,IX 1538,Air India Express,GOI,Vasco da Gama,17:05,13,11,2,0,18,22,56
-BLR,IX 1539,Air India Express,GOI,Vasco da Gama,05:20,10,6,1,0,17,21,90
-BLR,IX 1540,Air India Express,VNS,Varanasi,15:25,13,1,0,0,0,24,24
-BLR,IX 1541,Air India Express,LKO,Lucknow,19:15,7,0,0,0,,,
-BLR,IX 1543,Air India Express,NAG,Naqpur,18:40,13,11,0,0,0,20,28
-BLR,IX 1581,Air India Express,NMI,Mumbai,18:45,13,11,0,0,0,19,28
-BLR,IX 1871,Air India Express,CCU,Kolkata,18:55,7,0,0,0,,,
-BLR,IX 1893,Air India Express,COK,Kochi,08:40,12,2,0,0,0,17,19
-BLR,IX 1957,Air India Express,CNN,Kannur,06:20,3,0,0,0,,,
-BLR,IX 1971,Air India Express,PNQ,Pune,12:45,11,11,0,0,0,15,27
-BLR,IX 2001,Air India Express,AMD,Ahmedabad,14:30,7,0,0,0,,,
-BLR,IX 2013,Air India Express,AMD,Ahmedabad,06:10,13,3,0,0,0,-6,11
-BLR,IX 2014,Air India Express,IDR,Indore,14:25,12,7,0,0,0,14,19
-BLR,IX 2015,Air India Express,AMD,Ahmedabad,20:35,7,0,0,0,,,
-BLR,IX 2018,Air India Express,HYD,Hyderabad,06:05,13,4,0,0,0,5,13
-BLR,IX 2023,Air India Express,VTZ,Visakhapatnam,16:50,10,6,5,0,83,50,104
-BLR,IX 2051,Air India Express,HYD,Hyderabad,14:55,13,10,3,0,30,24,49
-BLR,IX 2052,Air India Express,STV,Surat Gujarat,16:10,13,2,0,0,0,13,15
-BLR,IX 2053,Air India Express,IXR,Ranchi,18:00,11,7,0,0,0,13,20
-BLR,IX 2056,Air India Express,VTZ,Visakhapatnam,05:55,3,1,0,0,0,14,14
+BLR,IX 1470,Air India Express,VNS,Varanasi,05:35,4,0,0,0,,,
+BLR,IX 1472,Air India Express,MAA,Chennai,07:05,13,8,0,0,0,5,20
+BLR,IX 1479,Air India Express,LKO,Lucknow,05:55,14,3,0,0,0,9,18
+BLR,IX 1480,Air India Express,LKO,Lucknow,12:50,7,0,0,0,,,
+BLR,IX 1486,Air India Express,BBI,Bhubaneswar,06:05,4,0,0,0,,,
+BLR,IX 1489,Air India Express,CCJ,Calicut,08:25,14,3,1,0,33,20,35
+BLR,IX 1494,Air India Express,JAI,Jaipur,18:55,8,0,0,0,,,
+BLR,IX 1498,Air India Express,IXC,Chandigarh,10:40,14,11,2,0,18,25,70
+BLR,IX 1501,Air India Express,TRV,Trivandrum,10:45,4,0,0,0,,,
+BLR,IX 1502,Air India Express,GOX,Mopa,10:30,4,0,0,0,,,
+BLR,IX 1504,Air India Express,PAT,Patna,16:55,8,0,0,0,,,
+BLR,IX 1506,Air India Express,DED,Dehradun,09:10,10,1,0,0,0,-7,-7
+BLR,IX 1526,Air India Express,JAI,Jaipur,09:30,13,2,0,0,0,8,20
+BLR,IX 1527,Air India Express,DED,Dehradun,16:45,14,0,0,0,,,
+BLR,IX 1531,Air India Express,IXE,Mangalore,14:40,8,0,0,0,,,
+BLR,IX 1536,Air India Express,BBI,Bhubaneswar,15:00,14,1,0,0,0,21,21
+BLR,IX 1537,Air India Express,CCU,Kolkata,12:00,14,0,0,0,,,
+BLR,IX 1538,Air India Express,GOI,Vasco da Gama,17:05,14,11,2,0,18,22,56
+BLR,IX 1539,Air India Express,GOI,Vasco da Gama,05:20,11,6,1,0,17,21,90
+BLR,IX 1540,Air India Express,VNS,Varanasi,15:25,14,1,0,0,0,24,24
+BLR,IX 1541,Air India Express,LKO,Lucknow,19:15,8,0,0,0,,,
+BLR,IX 1543,Air India Express,NAG,Naqpur,18:40,14,11,0,0,0,20,28
+BLR,IX 1581,Air India Express,NMI,Mumbai,18:45,14,11,0,0,0,19,28
+BLR,IX 1871,Air India Express,CCU,Kolkata,18:55,8,0,0,0,,,
+BLR,IX 1893,Air India Express,COK,Kochi,08:40,13,2,0,0,0,17,19
+BLR,IX 1957,Air India Express,CNN,Kannur,06:20,4,0,0,0,,,
+BLR,IX 1971,Air India Express,PNQ,Pune,12:45,12,11,0,0,0,15,27
+BLR,IX 2001,Air India Express,AMD,Ahmedabad,14:30,8,0,0,0,,,
+BLR,IX 2013,Air India Express,AMD,Ahmedabad,06:10,14,4,0,0,0,-9,11
+BLR,IX 2014,Air India Express,IDR,Indore,14:25,13,7,0,0,0,14,19
+BLR,IX 2015,Air India Express,AMD,Ahmedabad,20:35,8,0,0,0,,,
+BLR,IX 2018,Air India Express,HYD,Hyderabad,06:05,14,4,0,0,0,5,13
+BLR,IX 2023,Air India Express,VTZ,Visakhapatnam,16:50,11,6,5,0,83,50,104
+BLR,IX 2051,Air India Express,HYD,Hyderabad,14:55,14,10,3,0,30,24,49
+BLR,IX 2052,Air India Express,STV,Surat Gujarat,16:10,14,2,0,0,0,13,15
+BLR,IX 2053,Air India Express,IXR,Ranchi,18:00,12,7,0,0,0,13,20
+BLR,IX 2056,Air India Express,VTZ,Visakhapatnam,05:55,4,1,0,0,0,14,14
 BLR,IX 2063,Air India Express,VTZ,Visakhapatnam,20:35,2,0,0,0,,,
 BLR,IX 2064,Air India Express,VTZ,Visakhapatnam,05:55,9,7,0,0,0,13,29
-BLR,IX 2084,Air India Express,IXR,Ranchi,12:50,7,0,0,0,,,
-BLR,IX 2097,Air India Express,NAG,Naqpur,07:05,3,0,0,0,,,
-BLR,IX 2116,Air India Express,COK,Kochi,21:00,13,11,0,0,0,15,27
+BLR,IX 2084,Air India Express,IXR,Ranchi,12:50,8,0,0,0,,,
+BLR,IX 2097,Air India Express,NAG,Naqpur,07:05,4,0,0,0,,,
+BLR,IX 2116,Air India Express,COK,Kochi,21:00,14,11,0,0,0,15,27
 BLR,IX 2175,Air India Express,VTZ,Visakhapatnam,19:40,1,1,0,0,0,17,17
 BLR,IX 2361,Air India Express,GWL,Gwalior,05:30,5,4,1,0,25,21,31
 BLR,IX 2461,Air India Express,IXB,Siliguri,05:50,2,2,0,0,0,27,28
-BLR,IX 2505,Air India Express,MAA,Chennai,14:25,10,0,0,0,,,
-BLR,IX 2506,Air India Express,HYD,Hyderabad,17:10,13,2,0,0,0,4,5
-BLR,IX 2542,Air India Express,DEL,New Delhi,06:40,8,7,1,0,14,19,43
-BLR,IX 2608,Air India Express,COK,Kochi,16:15,13,11,3,0,27,28,79
-BLR,IX 2648,Air India Express,IXZ,Port Blair,11:20,13,13,2,0,15,21,32
-BLR,IX 2678,Air India Express,COK,Kochi,05:30,3,0,0,0,,,
-BLR,IX 2680,Air India Express,PNQ,Pune,21:50,13,10,1,0,10,17,30
-BLR,IX 2786,Air India Express,IXR,Ranchi,09:20,13,12,1,0,8,16,54
-BLR,IX 2787,Air India Express,MAA,Chennai,22:10,13,10,2,0,20,37,202
-BLR,IX 2816,Air India Express,PAT,Patna,10:20,13,9,2,0,22,17,43
-BLR,IX 2819,Air India Express,HYD,Hyderabad,12:30,12,2,1,0,50,33,80
-BLR,IX 2873,Air India Express,PNQ,Pune,04:00,12,9,0,0,0,15,23
-BLR,IX 2875,Air India Express,VGA,Vijayawada,05:40,12,6,0,0,0,5,22
-BLR,IX 2881,Air India Express,GAU,Guwahati,05:50,13,10,1,0,10,20,31
-BLR,IX 2892,Air India Express,IXB,Siliguri,09:10,11,10,0,0,0,17,29
-BLR,IX 2913,Air India Express,PNQ,Pune,17:25,13,10,1,0,10,24,85
-BLR,IX 2914,Air India Express,NMI,Mumbai,06:05,3,0,0,0,,,
-BLR,IX 2924,Air India Express,IXE,Mangalore,16:40,11,3,0,0,0,15,20
-BLR,IX 2926,Air India Express,MAA,Chennai,08:40,13,0,0,0,,,
-BLR,IX 2931,Air India Express,GAU,Guwahati,08:45,13,12,0,0,0,14,24
-BLR,IX 2935,Air India Express,HYD,Hyderabad,08:25,3,0,0,0,,,
-BLR,IX 2942,Air India Express,MAA,Chennai,12:40,7,0,0,0,,,
-BLR,IX 2945,Air India Express,GAU,Guwahati,16:35,13,11,0,0,0,16,28
+BLR,IX 2505,Air India Express,MAA,Chennai,14:25,11,0,0,0,,,
+BLR,IX 2506,Air India Express,HYD,Hyderabad,17:10,14,3,0,0,0,4,5
+BLR,IX 2542,Air India Express,DEL,New Delhi,06:40,9,7,1,0,14,19,43
+BLR,IX 2608,Air India Express,COK,Kochi,16:15,14,11,3,0,27,28,79
+BLR,IX 2648,Air India Express,IXZ,Port Blair,11:20,14,14,2,0,14,20,32
+BLR,IX 2678,Air India Express,COK,Kochi,05:30,4,0,0,0,,,
+BLR,IX 2680,Air India Express,PNQ,Pune,21:50,14,10,1,0,10,17,30
+BLR,IX 2786,Air India Express,IXR,Ranchi,09:20,14,12,1,0,8,16,54
+BLR,IX 2787,Air India Express,MAA,Chennai,22:10,14,11,2,0,18,33,202
+BLR,IX 2816,Air India Express,PAT,Patna,10:20,14,9,2,0,22,17,43
+BLR,IX 2819,Air India Express,HYD,Hyderabad,12:30,13,3,1,0,33,18,80
+BLR,IX 2873,Air India Express,PNQ,Pune,04:00,13,10,0,0,0,12,23
+BLR,IX 2875,Air India Express,VGA,Vijayawada,05:40,13,7,0,0,0,2,22
+BLR,IX 2881,Air India Express,GAU,Guwahati,05:50,14,10,1,0,10,20,31
+BLR,IX 2892,Air India Express,IXB,Siliguri,09:10,12,10,0,0,0,17,29
+BLR,IX 2913,Air India Express,PNQ,Pune,17:25,14,10,1,0,10,24,85
+BLR,IX 2914,Air India Express,NMI,Mumbai,06:05,4,0,0,0,,,
+BLR,IX 2924,Air India Express,IXE,Mangalore,16:40,12,3,0,0,0,15,20
+BLR,IX 2926,Air India Express,MAA,Chennai,08:40,14,0,0,0,,,
+BLR,IX 2931,Air India Express,GAU,Guwahati,08:45,14,12,0,0,0,14,24
+BLR,IX 2935,Air India Express,HYD,Hyderabad,08:25,4,0,0,0,,,
+BLR,IX 2942,Air India Express,MAA,Chennai,12:40,8,0,0,0,,,
+BLR,IX 2945,Air India Express,GAU,Guwahati,16:35,14,11,0,0,0,16,28
 BLR,IX 36L,Air India Express,TRZ,Tiruchirappally,21:08,7,7,0,0,0,0,0
-BLR,IX 5203,Air India Express,CCJ,Calicut,21:45,8,5,0,0,0,19,27
+BLR,IX 5203,Air India Express,CCJ,Calicut,21:45,9,5,0,0,0,19,27
 BLR,IX 5303,Air India Express,TRZ,Tiruchirappally,23:00,4,3,0,0,0,9,19
 BLR,IX 5306,Air India Express,TRZ,Tiruchirappally,11:10,8,3,1,0,33,22,36
-BLR,IX 5313,Air India Express,CCJ,Calicut,18:20,6,2,0,0,0,23,26
+BLR,IX 5313,Air India Express,CCJ,Calicut,18:20,7,2,0,0,0,23,26
+BLR,IX 5702,Air India Express,COK,Kochi,08:25,1,1,0,0,0,-5,-5
 BLR,IX 588,Air India Express,NAG,Naqpur,17:30,1,0,0,0,,,
 BLR,IX 5906,Air India Express,COK,Kochi,08:25,1,0,0,0,,,
 BLR,IX 5937,Air India Express,BOM,Mumbai,23:50,3,1,0,0,0,19,19
@@ -383,608 +384,623 @@ BLR,IX 5952,Air India Express,CNN,Kannur,13:00,4,0,0,0,,,
 BLR,IX 5976,Air India Express,DEL,New Delhi,01:15,9,7,2,0,29,28,49
 BLR,IX 5985,Air India Express,BOM,Mumbai,23:50,5,2,0,0,0,15,18
 BLR,IX 863,Air India Express,DMM,Ad Dammam,11:30,6,3,0,0,0,23,28
-BLR,IX 865,Air India Express,AUH,Abu Dhabi,22:00,10,4,1,0,25,33,52
-BLR,IX 882,Air India Express,BKK,Bangkok,10:00,7,7,2,0,29,27,53
+BLR,IX 865,Air India Express,AUH,Abu Dhabi,22:00,11,4,1,0,25,33,52
+BLR,IX 874,Air India Express,KTM,Kathmandu,10:30,1,0,0,0,,,
+BLR,IX 882,Air India Express,BKK,Bangkok,10:00,8,7,2,0,29,27,53
 BLR,IX 895,Air India Express,RUH,Riyadh,07:55,1,1,0,0,0,15,15
-BLR,IX 904,Air India Express,HKT,Phuket,09:35,5,4,2,0,50,28,47
-BLR,IX 921,Air India Express,DXB,Dubai,18:15,9,4,2,0,50,26,33
+BLR,IX 904,Air India Express,HKT,Phuket,09:35,6,4,2,0,50,28,47
+BLR,IX 921,Air India Express,DXB,Dubai,18:15,10,4,2,0,50,26,33
 BLR,IX 927,Air India Express,KWI,Kuwait City,11:50,6,4,2,0,50,26,37
-BLR,IX 931,Air India Express,DOH,Doha,01:05,12,8,2,0,25,23,39
+BLR,IX 931,Air India Express,DOH,Doha,01:05,13,8,2,0,25,23,39
 BLR,IX 935,Air India Express,DOH,Doha,20:35,1,0,0,0,,,
 BLR,IX 941,Air India Express,JED,Jeddah,08:00,7,3,2,0,67,45,67
-BLR,J9 432,Jazeera,KWI,Kuwait City,02:40,3,3,1,0,33,31,40
-BLR,JL 754,Japan Airlines,NRT,Tokyo,02:55,13,10,1,0,10,18,30
-BLR,KL 880,KLM,AMS,Amsterdam,01:00,9,8,3,0,38,29,53
-BLR,KU 354,Kuwait,KWI,Kuwait City,03:50,13,12,0,0,0,12,24
-BLR,LH 755,Lufthansa,FRA,Frankfurt-am-Main,03:00,13,8,4,0,50,27,53
+BLR,J9 432,Jazeera,KWI,Kuwait City,02:40,4,3,1,0,33,31,40
+BLR,JL 754,Japan Airlines,NRT,Tokyo,02:55,14,10,1,0,10,18,30
+BLR,KL 880,KLM,AMS,Amsterdam,01:00,10,9,4,0,44,31,53
+BLR,KU 354,Kuwait,KWI,Kuwait City,03:50,14,12,0,0,0,12,24
+BLR,LH 755,Lufthansa,FRA,Frankfurt-am-Main,03:00,14,9,5,0,56,28,53
 BLR,LH 755D,Lufthansa,FRA,Frankfurt-am-Main,07:35,1,1,0,0,0,0,0
-BLR,LH 765,Lufthansa,MUC,Munich,02:10,13,12,3,0,25,25,60
+BLR,LH 765,Lufthansa,MUC,Munich,02:10,14,13,3,0,23,23,60
 BLR,LH 8375,Lufthansa,FRA,Frankfurt-am-Main,22:55,1,0,0,0,,,
-BLR,MH 105,Malaysia,KUL,Kuala Lumpur,11:55,4,3,1,0,33,18,30
-BLR,MH 193,Malaysia,KUL,Kuala Lumpur,00:40,13,6,4,0,67,34,47
+BLR,MH 105,Malaysia,KUL,Kuala Lumpur,11:55,5,3,1,0,33,18,30
+BLR,MH 193,Malaysia,KUL,Kuala Lumpur,00:40,14,6,4,0,67,34,47
 BLR,O3 174,SF Airlines,EHU,Ezhou,22:10,2,2,0,0,0,12,23
-BLR,OD 242,Malindo Air,KUL,Kuala Lumpur,23:20,4,0,0,0,,,
+BLR,OD 242,Malindo Air,KUL,Kuala Lumpur,23:20,5,0,0,0,,,
 BLR,OG 117,Ghodawat Enterprises,GBI,Kalaburagi,17:59,11,11,0,0,0,0,0
 BLR,OG 151,Ghodawat Enterprises,HYD,Hyderabad,20:00,6,6,2,0,33,25,80
 BLR,OG 155,Ghodawat Enterprises,HYD,Hyderabad,06:16,6,6,0,0,0,0,0
 BLR,OG 160,Ghodawat Enterprises,BLR,Bangalore,10:38,1,1,0,0,0,0,0
 BLR,OG 183,Ghodawat Enterprises,NDC,Nanded,06:49,12,12,0,0,0,0,0
 BLR,OG 701,Ghodawat Enterprises,VDY,VDY,10:27,11,11,0,0,0,0,0
-BLR,OV 784,SalamAir,MCT,Muscat,05:00,10,8,3,0,38,26,58
+BLR,OV 784,SalamAir,MCT,Muscat,05:00,11,8,3,0,38,26,58
 BLR,QO 378,Quikjet,DEL,New Delhi,01:45,11,10,0,0,0,3,11
 BLR,QP 1130,Akasa Air,BOM,Mumbai,11:20,2,0,0,0,,,
-BLR,QP 1134,Akasa Air,BOM,Mumbai,22:55,13,0,0,0,,,
+BLR,QP 1134,Akasa Air,BOM,Mumbai,22:55,14,1,0,0,0,-7,-7
 BLR,QP 1144,Akasa Air,BOM,Mumbai,13:35,2,0,0,0,,,
 BLR,QP 1150,Akasa Air,BOM,Mumbai,16:05,6,0,0,0,,,
 BLR,QP 1154,Akasa Air,BOM,Mumbai,12:05,5,0,0,0,,,
-BLR,QP 1262,Akasa Air,CCU,Kolkata,19:40,13,0,0,0,,,
-BLR,QP 1264,Akasa Air,CCU,Kolkata,21:10,13,0,0,0,,,
-BLR,QP 1311,Akasa Air,PNQ,Pune,05:10,13,0,0,0,,,
-BLR,QP 1313,Akasa Air,PNQ,Pune,10:00,13,0,0,0,,,
-BLR,QP 1315,Akasa Air,PNQ,Pune,15:15,13,0,0,0,,,
-BLR,QP 1317,Akasa Air,PNQ,Pune,19:55,13,0,0,0,,,
+BLR,QP 1262,Akasa Air,CCU,Kolkata,19:40,14,1,0,0,0,-5,-5
+BLR,QP 1264,Akasa Air,CCU,Kolkata,21:10,14,0,0,0,,,
+BLR,QP 1311,Akasa Air,PNQ,Pune,05:10,14,0,0,0,,,
+BLR,QP 1313,Akasa Air,PNQ,Pune,10:00,14,0,0,0,,,
+BLR,QP 1315,Akasa Air,PNQ,Pune,15:15,14,1,0,0,0,-10,-10
+BLR,QP 1317,Akasa Air,PNQ,Pune,19:55,14,1,0,0,0,-5,-5
 BLR,QP 1323,Akasa Air,GAU,Guwahati,09:45,4,0,0,0,,,
 BLR,QP 1336,Akasa Air,DEL,New Delhi,18:35,2,0,0,0,,,
-BLR,QP 1359,Akasa Air,DEL,New Delhi,05:00,13,0,0,0,,,
+BLR,QP 1359,Akasa Air,DEL,New Delhi,05:00,14,0,0,0,,,
 BLR,QP 1361,Akasa Air,COK,Kochi,14:45,4,0,0,0,,,
-BLR,QP 1372,Akasa Air,IXB,Siliguri,05:25,13,0,0,0,,,
-BLR,QP 1421,Akasa Air,VNS,Varanasi,07:25,13,1,0,0,0,-15,-15
-BLR,QP 1423,Akasa Air,VNS,Varanasi,14:45,13,1,0,0,0,-6,-6
+BLR,QP 1372,Akasa Air,IXB,Siliguri,05:25,14,0,0,0,,,
+BLR,QP 1421,Akasa Air,VNS,Varanasi,07:25,14,1,0,0,0,-15,-15
+BLR,QP 1423,Akasa Air,VNS,Varanasi,14:45,14,2,0,0,0,-8,-6
 BLR,QP 1431,Akasa Air,IXB,Siliguri,12:25,1,1,0,0,0,-10,-10
-BLR,QP 1501,Akasa Air,LKO,Lucknow,06:15,13,0,0,0,,,
-BLR,QP 1503,Akasa Air,BBI,Bhubaneswar,16:55,13,0,0,0,,,
-BLR,QP 1511,Akasa Air,BBI,Bhubaneswar,05:35,13,0,0,0,,,
-BLR,QP 1513,Akasa Air,DBR,Darbhanga,09:25,12,1,0,0,0,-10,-10
-BLR,QP 1515,Akasa Air,BOM,Mumbai,05:40,13,0,0,0,,,
-BLR,QP 1517,Akasa Air,BOM,Mumbai,04:55,13,0,0,0,,,
-BLR,QP 1523,Akasa Air,VNS,Varanasi,09:45,5,1,0,0,0,-10,-10
-BLR,QP 1525,Akasa Air,DXN,Gautam Buddha Nagar,07:00,10,0,0,0,,,
-BLR,QP 1527,Akasa Air,UDR,Udaipur,08:40,3,0,0,0,,,
-BLR,QP 1529,Akasa Air,JAI,Jaipur,08:00,7,0,0,0,,,
-BLR,QP 1561,Akasa Air,CCU,Kolkata,06:15,11,0,0,0,,,
+BLR,QP 1501,Akasa Air,LKO,Lucknow,06:15,14,0,0,0,,,
+BLR,QP 1503,Akasa Air,BBI,Bhubaneswar,16:55,14,1,0,0,0,9,9
+BLR,QP 1511,Akasa Air,BBI,Bhubaneswar,05:35,14,0,0,0,,,
+BLR,QP 1513,Akasa Air,DBR,Darbhanga,09:25,13,1,0,0,0,-10,-10
+BLR,QP 1515,Akasa Air,BOM,Mumbai,05:40,14,0,0,0,,,
+BLR,QP 1517,Akasa Air,BOM,Mumbai,04:55,14,0,0,0,,,
+BLR,QP 1523,Akasa Air,VNS,Varanasi,09:45,6,1,0,0,0,-10,-10
+BLR,QP 1525,Akasa Air,DXN,Gautam Buddha Nagar,07:00,11,0,0,0,,,
+BLR,QP 1527,Akasa Air,UDR,Udaipur,08:40,4,1,0,0,0,-15,-15
+BLR,QP 1529,Akasa Air,JAI,Jaipur,08:00,8,0,0,0,,,
+BLR,QP 1561,Akasa Air,CCU,Kolkata,06:15,12,0,0,0,,,
 BLR,QP 1565,Akasa Air,PNQ,Pune,08:10,2,0,0,0,,,
 BLR,QP 1571,Akasa Air,DEL,New Delhi,05:30,6,0,0,0,,,
-BLR,QP 1577,Akasa Air,LKO,Lucknow,14:30,7,0,0,0,,,
-BLR,QP 1579,Akasa Air,LKO,Lucknow,17:00,8,0,0,0,,,
-BLR,QP 1581,Akasa Air,AMD,Ahmedabad,17:45,12,0,0,0,,,
-BLR,QP 1743,Akasa Air,CCJ,Calicut,20:05,13,0,0,0,,,
-BLR,QP 1811,Akasa Air,DEL,New Delhi,03:55,13,0,0,0,,,
-BLR,QP 1821,Akasa Air,DEL,New Delhi,13:05,13,1,0,0,0,-9,-9
-BLR,QP 1823,Akasa Air,DEL,New Delhi,06:05,13,0,0,0,,,
-BLR,QP 1850,Akasa Air,IXB,Siliguri,05:30,9,0,0,0,,,
-BLR,QP 1880,Akasa Air,GOP,Gorakhpur,11:20,13,1,0,0,0,-10,-10
-BLR,QP 1902,Akasa Air,AMD,Ahmedabad,07:50,13,0,0,0,,,
+BLR,QP 1577,Akasa Air,LKO,Lucknow,14:30,8,0,0,0,,,
+BLR,QP 1579,Akasa Air,LKO,Lucknow,17:00,9,1,0,0,0,-10,-10
+BLR,QP 1581,Akasa Air,AMD,Ahmedabad,17:45,13,0,0,0,,,
+BLR,QP 1743,Akasa Air,CCJ,Calicut,20:05,14,1,0,0,0,-5,-5
+BLR,QP 1811,Akasa Air,DEL,New Delhi,03:55,14,0,0,0,,,
+BLR,QP 1821,Akasa Air,DEL,New Delhi,13:05,14,2,0,0,0,1,10
+BLR,QP 1823,Akasa Air,DEL,New Delhi,06:05,14,0,0,0,,,
+BLR,QP 1850,Akasa Air,IXB,Siliguri,05:30,10,0,0,0,,,
+BLR,QP 1880,Akasa Air,GOP,Gorakhpur,11:20,14,2,0,0,0,-8,-5
+BLR,QP 1902,Akasa Air,AMD,Ahmedabad,07:50,14,1,0,0,0,-10,-10
 BLR,QP 1904,Akasa Air,AMD,Ahmedabad,15:10,2,0,0,0,,,
-BLR,QP 1906,Akasa Air,AMD,Ahmedabad,21:40,13,1,0,0,0,20,20
+BLR,QP 1906,Akasa Air,AMD,Ahmedabad,21:40,14,2,0,0,0,8,20
 BLR,QP 1986,Akasa Air,BOM,Mumbai,17:45,2,0,0,0,,,
-BLR,QP 2002,Akasa Air,NMI,Mumbai,21:15,13,0,0,0,,,
-BLR,QP 2006,Akasa Air,NMI,Mumbai,14:45,7,1,0,0,0,-5,-5
-BLR,QP 2008,Akasa Air,NMI,Mumbai,20:00,9,0,0,0,,,
+BLR,QP 2002,Akasa Air,NMI,Mumbai,21:15,14,0,0,0,,,
+BLR,QP 2006,Akasa Air,NMI,Mumbai,14:45,8,2,0,0,0,-8,-5
+BLR,QP 2008,Akasa Air,NMI,Mumbai,20:00,10,0,0,0,,,
 BLR,QP 576,Akasa Air,JED,Jeddah,19:15,2,0,0,0,,,
-BLR,QP 590,Akasa Air,AUH,Abu Dhabi,10:00,10,1,0,0,0,-10,-10
+BLR,QP 590,Akasa Air,AUH,Abu Dhabi,10:00,11,1,0,0,0,-10,-10
 BLR,QP 595,Akasa Air,CCJ,Calicut,22:00,1,0,0,0,,,
-BLR,QP 623,Akasa Air,HKT,Phuket,09:50,13,1,0,0,0,-10,-10
+BLR,QP 623,Akasa Air,HKT,Phuket,09:50,14,1,0,0,0,-10,-10
 BLR,QP 6503,Akasa Air,IXR,Ranchi,08:30,1,0,0,0,,,
 BLR,QP 6511,Akasa Air,LKO,Lucknow,11:00,1,0,0,0,,,
 BLR,QP 6530,Akasa Air,HYD,Hyderabad,09:25,1,0,0,0,,,
 BLR,QR 536,Qatar,CCJ,Calicut,04:30,1,0,0,0,,,
-BLR,QR 573,Qatar,DOH,Doha,04:00,13,0,0,0,,,
+BLR,QR 573,Qatar,DOH,Doha,04:00,14,1,0,0,0,-15,-15
 BLR,QR 8693,Qatar,DOH,Doha,05:35,2,0,0,0,,,
 BLR,QR 8695,Qatar,DOH,Doha,11:45,2,0,0,0,,,
 BLR,QY 671,EAT Leipzig,LEJ,Leipzig,22:25,1,0,0,0,,,
 BLR,QY 694,EAT Leipzig,HKG,Hong Kong,22:25,1,0,0,0,,,
 BLR,RA 226,Nepal,KTM,Kathmandu,17:30,3,3,3,0,100,88,129
-BLR,S5 117,Star Air,GBI,Kalaburagi,17:50,10,1,0,0,0,10,10
+BLR,S5 117,Star Air,GBI,Kalaburagi,17:50,11,2,0,0,0,3,10
 BLR,S5 155,Star Air,HYD,Hyderabad,06:00,4,0,0,0,,,
 BLR,S5 171,Star Air,HYD,Hyderabad,21:20,2,0,0,0,,,
-BLR,S5 181,Star Air,GOX,Mopa,06:00,6,0,0,0,,,
-BLR,S5 183,Star Air,NDC,Nanded,06:40,10,1,0,0,0,-15,-15
-BLR,S5 701,Star Air,VDY,Vijaynagar,10:25,13,0,0,0,,,
+BLR,S5 181,Star Air,GOX,Mopa,05:10,7,0,0,0,,,
+BLR,S5 183,Star Air,NDC,Nanded,06:40,11,1,0,0,0,-15,-15
+BLR,S5 701,Star Air,VDY,Vijaynagar,10:25,14,1,1,0,100,240,240
 BLR,S5 9105,Star Air,HYD,Hyderabad,17:00,1,0,0,0,,,
-BLR,SG 115,SpiceJet,BOM,Mumbai,05:00,3,0,0,0,,,
-BLR,SG 158,SpiceJet,CCU,Kolkata,13:20,7,0,0,0,,,
-BLR,SG 171,SpiceJet,IXB,Siliguri,07:05,4,0,0,0,,,
-BLR,SG 369,SpiceJet,BOM,Mumbai,00:30,3,0,0,0,,,
-BLR,SG 573,SpiceJet,CCU,Kolkata,16:00,7,0,0,0,,,
+BLR,SG 115,SpiceJet,DBR,Mumbai,05:00,4,0,0,0,,,
+BLR,SG 141,SpiceJet,DEL,New Delhi,06:05,1,0,0,0,,,
+BLR,SG 158,SpiceJet,CCU,Kolkata,13:20,8,1,1,0,100,105,105
+BLR,SG 171,SpiceJet,IXB,Siliguri,07:05,5,0,0,0,,,
+BLR,SG 269,SpiceJet,BOM,Mumbai,22:05,1,1,1,0,100,35,35
+BLR,SG 369,SpiceJet,BOM,Mumbai,00:30,4,0,0,0,,,
+BLR,SG 573,SpiceJet,CCU,Kolkata,16:00,8,0,0,0,,,
+BLR,SG 633,SpiceJet,BOM,Mumbai,23:45,1,1,1,0,100,225,225
+BLR,SG 634,SpiceJet,AMD,Ahmedabad,06:00,1,0,0,0,,,
+BLR,SG 640,SpiceJet,BOM,Mumbai,06:20,1,1,0,0,0,-10,-10
+BLR,SG 645,SpiceJet,CCU,Kolkata,05:20,1,1,1,0,100,40,40
+BLR,SG 647,SpiceJet,CCU,Kolkata,19:35,1,1,1,0,100,135,135
+BLR,SG 649,SpiceJet,DEL,New Delhi,12:20,1,0,0,0,,,
+BLR,SG 751,SpiceJet,IXB,Siliguri,06:40,1,0,0,0,,,
+BLR,SG 753,SpiceJet,CCU,Kolkata,14:05,1,1,1,0,100,64,64
 BLR,SL 217,Thai Lion Air,DMK,Bangkok,00:30,1,0,0,1,,,
 BLR,SQ 424,Singapore,BOM,Mumbai,22:35,1,0,0,0,,,
-BLR,SQ 509,Singapore,SIN,Singapore,11:35,13,13,8,0,62,32,51
-BLR,SQ 511,Singapore,SIN,Singapore,23:05,13,12,5,0,42,29,66
+BLR,SQ 509,Singapore,SIN,Singapore,11:35,14,14,8,0,57,31,51
+BLR,SQ 511,Singapore,SIN,Singapore,23:05,14,12,5,0,42,29,66
 BLR,SV 815,Saudi Arabian,JED,Jeddah,03:30,6,4,2,0,50,42,97
-BLR,SV 867,Saudi Arabian,JED,Jeddah,11:25,7,5,2,0,40,46,128
-BLR,TG 326,Thai  International,BKK,Bangkok,00:55,13,10,9,0,90,40,48
+BLR,SV 867,Saudi Arabian,JED,Jeddah,11:25,8,6,3,0,50,44,128
+BLR,TG 326,Thai  International,BKK,Bangkok,00:55,14,11,9,0,82,38,48
 BLR,TK 6103,Turkish,IST,Istanbul,06:10,2,1,1,0,100,179,179
 BLR,TK 6657,Turkish,IST,Istanbul,05:55,1,0,0,0,,,
 BLR,UL 1174,SriLankan,CMB,Colombo,10:00,6,6,2,0,33,42,101
-BLR,UL 172,SriLankan,CMB,Colombo,21:20,5,5,3,0,60,37,76
+BLR,UL 172,SriLankan,CMB,Colombo,21:20,6,5,3,0,60,37,76
 BLR,UL 174,SriLankan Airlines,CMB,Colombo,03:25,8,8,2,0,25,26,96
-BLR,VJ 1802,VietJetAir,SGN,Ho Chi Minh City,23:35,7,6,5,0,83,80,271
-BLR,VN 982,Vietnam,HAN,Hanoi,23:45,6,4,0,0,0,17,28
-BLR,VS 317,Virgin Atlantic,LHR,London,08:20,13,11,2,0,18,24,68
-BLR,WY 282,Oman Air,MCT,Muscat,09:55,5,5,0,0,0,10,25
+BLR,VJ 1802,VietJetAir,SGN,Ho Chi Minh City,23:35,8,6,5,0,83,80,271
+BLR,VN 982,Vietnam,HAN,Hanoi,23:45,7,4,0,0,0,17,28
+BLR,VS 317,Virgin Atlantic,LHR,London,08:20,14,11,2,0,18,24,68
+BLR,WY 282,Oman Air,MCT,Muscat,09:55,6,5,0,0,0,10,25
 BLR,WY 284,Oman Air,MCT,Muscat,15:00,3,2,0,0,0,14,16
-BOM,6E 1,IndiGo,LHR,London,11:40,13,12,12,0,100,57,92
-BOM,6E 102,IndiGo,DEL,New Delhi,21:15,14,10,5,0,50,30,47
-BOM,6E 1049,IndiGo,BKK,Bangkok,00:45,13,13,3,0,23,25,56
-BOM,6E 1059,IndiGo,BKK,Bangkok,13:05,14,13,4,0,31,25,63
-BOM,6E 1071,IndiGo,HKT,Phuket,03:55,13,12,7,0,58,30,42
+BOM,6E 1,IndiGo,LHR,London,11:40,14,13,13,0,100,57,92
+BOM,6E 102,IndiGo,DEL,New Delhi,21:15,15,11,5,0,45,29,47
+BOM,6E 1049,IndiGo,BKK,Bangkok,00:45,14,14,4,0,29,25,56
+BOM,6E 1059,IndiGo,BKK,Bangkok,13:05,15,14,4,0,29,25,63
+BOM,6E 1071,IndiGo,HKT,Phuket,03:55,14,13,7,0,54,30,42
 BOM,6E 1115,IndiGo,DAC,Dhaka,08:30,10,9,2,0,22,14,32
-BOM,6E 1131,IndiGo,MLE,Malé,10:50,13,12,4,0,33,26,59
-BOM,6E 1157,IndiGo,KTM,Kathmandu,11:10,13,12,10,0,83,67,194
-BOM,6E 1163,IndiGo,SIN,Singapore,08:55,13,12,4,0,33,23,42
-BOM,6E 1185,IndiGo,CMB,Colombo,06:10,13,12,1,0,8,15,38
-BOM,6E 1201,IndiGo,BAH,Manama,20:50,14,10,8,0,80,38,60
+BOM,6E 1131,IndiGo,MLE,Malé,10:50,14,13,5,0,38,27,59
+BOM,6E 1157,IndiGo,KTM,Kathmandu,11:10,14,13,11,0,85,65,194
+BOM,6E 1163,IndiGo,SIN,Singapore,08:55,14,13,5,0,38,26,58
+BOM,6E 1185,IndiGo,CMB,Colombo,06:10,14,13,1,0,8,14,38
+BOM,6E 1201,IndiGo,BAH,Manama,20:50,15,11,8,0,73,37,60
 BOM,6E 1235,IndiGo,KWI,Kuwait City,04:55,4,0,0,4,,,
-BOM,6E 1267,IndiGo,MCT,Muscat,21:50,14,10,6,0,60,36,70
+BOM,6E 1267,IndiGo,MCT,Muscat,21:50,15,11,6,0,55,34,70
 BOM,6E 1269,IndiGo,MCT,Muscat,05:55,1,0,0,1,,,
-BOM,6E 1303,IndiGo,DOH,Doha,04:25,13,12,3,0,25,17,44
-BOM,6E 1311,IndiGo,HKT,Phuket,15:55,13,11,4,0,36,26,49
-BOM,6E 1339,IndiGo,SIN,Singapore,01:20,13,12,6,0,50,35,89
-BOM,6E 1341,IndiGo,DOH,Doha,22:15,14,10,6,0,60,37,52
-BOM,6E 136,IndiGo,MAA,Chennai,04:05,13,11,0,0,0,3,10
-BOM,6E 138,IndiGo,CCU,Kolkata,02:45,8,7,0,0,0,10,23
-BOM,6E 1401,IndiGo,AUH,Abu Dhabi,19:20,14,11,9,0,82,40,84
-BOM,6E 1413,IndiGo,AUH,Abu Dhabi,01:05,13,13,4,0,31,28,42
+BOM,6E 1303,IndiGo,DOH,Doha,04:25,14,13,3,0,23,17,44
+BOM,6E 1311,IndiGo,HKT,Phuket,15:55,14,12,4,0,33,26,49
+BOM,6E 1339,IndiGo,SIN,Singapore,01:20,14,13,7,0,54,37,89
+BOM,6E 1341,IndiGo,DOH,Doha,22:15,15,11,6,0,55,35,52
+BOM,6E 136,IndiGo,MAA,Chennai,04:05,14,12,0,0,0,3,10
+BOM,6E 138,IndiGo,CCU,Kolkata,02:45,9,8,0,0,0,9,23
+BOM,6E 1401,IndiGo,AUH,Abu Dhabi,19:20,15,12,9,0,75,39,84
+BOM,6E 1413,IndiGo,AUH,Abu Dhabi,01:05,14,14,4,0,29,28,42
 BOM,6E 1429,IndiGo,AUH,Abu Dhabi,06:05,6,6,1,0,17,17,30
-BOM,6E 1451,IndiGo,DXB,Dubai,08:10,13,12,3,0,25,26,43
-BOM,6E 1453,IndiGo,DXB,Dubai,15:05,14,13,7,0,54,30,50
-BOM,6E 1455,IndiGo,DXB,Dubai,17:15,14,12,4,0,33,31,74
-BOM,6E 1491,IndiGo,RKT,Ras Al Khaimah,21:10,14,10,3,0,30,28,62
-BOM,6E 1501,IndiGo,FJR,Fujairah,22:10,14,10,3,0,30,24,39
+BOM,6E 1451,IndiGo,DXB,Dubai,08:10,14,13,4,0,31,29,54
+BOM,6E 1453,IndiGo,DXB,Dubai,15:05,15,14,8,0,57,32,50
+BOM,6E 1455,IndiGo,DXB,Dubai,17:15,15,13,5,0,38,31,74
+BOM,6E 1491,IndiGo,RKT,Ras Al Khaimah,21:10,15,11,3,0,27,27,62
+BOM,6E 1501,IndiGo,FJR,Fujairah,22:10,15,11,3,0,27,24,39
 BOM,6E 1601,IndiGo,CGK,Jakarta,06:35,12,9,5,2,56,55,128
-BOM,6E 1603,IndiGo,BKK,Bangkok,04:40,13,12,2,0,17,18,44
-BOM,6E 1607,IndiGo,MAA,Chennai,05:15,11,8,0,0,0,9,14
-BOM,6E 17,IndiGo,IST,Istanbul,08:35,13,12,1,0,8,13,33
+BOM,6E 1603,IndiGo,BKK,Bangkok,04:40,14,13,2,0,15,17,44
+BOM,6E 1607,IndiGo,MAA,Chennai,05:15,12,9,0,0,0,9,14
+BOM,6E 17,IndiGo,IST,Istanbul,08:35,14,13,2,0,15,16,45
 BOM,6E 1823,IndiGo,TBS,Tbilisi,02:50,1,0,0,1,,,
-BOM,6E 1853,IndiGo,NBO,Nairobi,01:55,13,12,1,0,8,15,48
-BOM,6E 1855,IndiGo,SEZ,Mahe Island,10:10,7,6,1,0,17,20,35
+BOM,6E 1853,IndiGo,NBO,Nairobi,01:55,14,13,1,0,8,14,48
+BOM,6E 1855,IndiGo,SEZ,Mahe Island,10:10,8,7,2,0,29,22,35
 BOM,6E 1903,IndiGo,ATH,Athens,07:55,6,5,1,0,20,24,39
-BOM,6E 2011,IndiGo,CNN,Kannur,13:35,8,8,2,0,25,27,58
+BOM,6E 2011,IndiGo,CNN,Kannur,13:35,9,9,3,0,33,27,58
 BOM,6E 2016,IndiGo,TRZ,Tiruchirappally,13:35,7,6,2,0,33,29,64
-BOM,6E 2024,IndiGo,PAT,Patna,09:15,13,12,1,0,8,21,40
-BOM,6E 2034,IndiGo,KNU,Kanpur,09:35,13,12,1,0,8,29,178
-BOM,6E 204,IndiGo,DED,Dehradun,08:40,13,12,1,0,8,13,36
+BOM,6E 2024,IndiGo,PAT,Patna,09:15,14,13,2,0,15,23,47
+BOM,6E 2034,IndiGo,KNU,Kanpur,09:35,14,13,2,0,15,30,178
+BOM,6E 204,IndiGo,DED,Dehradun,08:40,14,13,2,0,15,16,57
 BOM,6E 2043,IndiGo,PAT,Patna,12:46,1,1,0,0,0,0,0
-BOM,6E 2060,IndiGo,NAG,Naqpur,10:05,13,12,3,0,25,41,277
-BOM,6E 2093,IndiGo,COK,Kochi,22:45,14,10,6,0,60,36,76
-BOM,6E 21,IndiGo,AMS,Amsterdam,12:15,14,13,7,0,54,42,124
-BOM,6E 2100,IndiGo,HSR,Rajkot,17:50,14,12,10,0,83,52,163
-BOM,6E 214,IndiGo,SXR,Srinagar,12:40,14,13,8,0,62,42,94
-BOM,6E 2237,IndiGo,AMD,Ahmedabad,18:40,14,12,7,0,58,32,53
-BOM,6E 2247,IndiGo,JDH,Jodhpur,12:15,14,13,8,0,62,44,139
-BOM,6E 2280,IndiGo,GOP,Gorakhpur,13:55,14,13,8,0,62,36,77
-BOM,6E 2284,IndiGo,HSR,Rajkot,12:05,14,13,4,0,31,27,56
-BOM,6E 230,IndiGo,GOI,Vasco da Gama,13:55,14,13,7,0,54,35,87
-BOM,6E 2347,IndiGo,AMD,Ahmedabad,08:15,13,12,2,0,17,22,32
+BOM,6E 2060,IndiGo,NAG,Naqpur,10:05,14,13,4,0,31,40,277
+BOM,6E 2093,IndiGo,COK,Kochi,22:45,15,11,6,0,55,33,76
+BOM,6E 21,IndiGo,AMS,Amsterdam,12:15,15,14,8,0,57,41,124
+BOM,6E 2100,IndiGo,HSR,Rajkot,17:50,15,13,10,0,77,50,163
+BOM,6E 214,IndiGo,SXR,Srinagar,12:40,15,14,9,0,64,43,94
+BOM,6E 2237,IndiGo,AMD,Ahmedabad,18:40,15,13,8,0,62,33,53
+BOM,6E 2247,IndiGo,JDH,Jodhpur,12:15,15,14,9,0,64,43,139
+BOM,6E 2280,IndiGo,GOP,Gorakhpur,13:55,15,14,9,0,64,36,77
+BOM,6E 2284,IndiGo,HSR,Rajkot,12:05,15,14,5,0,36,28,56
+BOM,6E 230,IndiGo,GOI,Vasco da Gama,13:55,15,14,7,0,50,35,87
+BOM,6E 2347,IndiGo,AMD,Ahmedabad,08:15,14,13,3,0,23,24,49
 BOM,6E 2371,IndiGo,RPR,Raipur,20:04,1,1,0,0,0,0,0
-BOM,6E 2387,IndiGo,RPR,Raipur,07:15,13,12,0,0,0,15,24
-BOM,6E 240,IndiGo,CJB,Coimbatore,15:45,14,12,7,0,58,31,58
-BOM,6E 261,IndiGo,GOI,Vasco da Gama,11:20,12,12,8,0,67,46,157
-BOM,6E 272,IndiGo,VNS,Varanasi,17:45,14,12,7,0,58,32,51
-BOM,6E 273,IndiGo,HSR,Rajkot,14:40,14,13,6,0,46,31,57
-BOM,6E 294,IndiGo,IDR,Indore,07:05,13,11,1,0,9,18,42
-BOM,6E 301,IndiGo,DEL,New Delhi,07:00,13,12,0,0,0,14,26
-BOM,6E 310,IndiGo,DEL,New Delhi,10:35,13,12,7,0,58,41,86
-BOM,6E 313,IndiGo,DEL,New Delhi,16:00,14,12,7,0,58,30,63
-BOM,6E 315,IndiGo,DEL,New Delhi,17:20,14,12,8,0,67,39,76
-BOM,6E 317,IndiGo,DEL,New Delhi,19:00,14,11,3,0,27,28,89
-BOM,6E 330,IndiGo,DEL,New Delhi,20:20,14,11,7,0,64,36,86
-BOM,6E 333,IndiGo,DEL,New Delhi,08:00,12,12,5,0,42,32,50
-BOM,6E 349,IndiGo,DEL,New Delhi,15:00,14,13,4,0,31,28,81
+BOM,6E 2387,IndiGo,RPR,Raipur,07:15,14,13,1,0,8,17,35
+BOM,6E 240,IndiGo,CJB,Coimbatore,15:45,15,13,8,0,62,31,58
+BOM,6E 261,IndiGo,GOI,Vasco da Gama,11:20,13,13,9,0,69,45,157
+BOM,6E 272,IndiGo,VNS,Varanasi,17:45,15,13,8,0,62,32,51
+BOM,6E 273,IndiGo,HSR,Rajkot,14:40,15,14,7,0,50,31,57
+BOM,6E 294,IndiGo,IDR,Indore,07:05,14,12,2,0,17,22,62
+BOM,6E 301,IndiGo,DEL,New Delhi,07:00,14,13,0,0,0,14,26
+BOM,6E 310,IndiGo,DEL,New Delhi,10:35,14,13,8,0,62,42,86
+BOM,6E 313,IndiGo,DEL,New Delhi,16:00,15,13,7,0,54,29,63
+BOM,6E 315,IndiGo,DEL,New Delhi,17:20,15,13,8,0,62,38,76
+BOM,6E 317,IndiGo,DEL,New Delhi,19:00,15,12,3,0,25,27,89
+BOM,6E 330,IndiGo,DEL,New Delhi,20:20,15,12,8,0,67,36,86
+BOM,6E 333,IndiGo,DEL,New Delhi,08:00,13,13,6,0,46,33,50
+BOM,6E 349,IndiGo,DEL,New Delhi,15:00,15,14,4,0,29,28,81
 BOM,6E 350,IndiGo,DEL,New Delhi,23:45,14,13,7,0,54,32,84
-BOM,6E 355,IndiGo,DEL,New Delhi,09:00,13,12,2,0,17,22,50
-BOM,6E 437,IndiGo,COK,Kochi,17:10,14,12,6,0,50,33,94
-BOM,6E 463,IndiGo,BBI,Bhubaneswar,16:50,14,12,1,0,8,25,45
-BOM,6E 5028,IndiGo,ATQ,Amritsar,19:35,14,10,2,0,20,24,69
-BOM,6E 5032,IndiGo,BLR,Bangalore,19:50,13,10,8,0,80,45,90
-BOM,6E 5047,IndiGo,BLR,Bangalore,18:30,14,12,8,0,67,36,59
-BOM,6E 5048,IndiGo,MAA,Chennai,17:25,14,12,4,0,33,33,80
-BOM,6E 5056,IndiGo,HYD,Hyderabad,21:10,14,11,8,0,73,40,68
-BOM,6E 5059,IndiGo,BDQ,Vadodara,05:45,13,12,0,0,0,6,14
-BOM,6E 5071,IndiGo,BLR,Bangalore,15:35,12,10,3,0,30,22,40
-BOM,6E 5081,IndiGo,IXU,Aurangabad,05:35,13,12,1,0,8,11,49
-BOM,6E 5082,IndiGo,HBX,Hubli,18:05,14,12,2,0,17,9,61
-BOM,6E 5086,IndiGo,CCU,Kolkata,18:00,14,12,2,0,17,21,58
-BOM,6E 5091,IndiGo,BBI,Bhubaneswar,07:50,13,12,3,0,25,24,63
-BOM,6E 5092,IndiGo,BLR,Bangalore,09:50,13,12,0,0,0,17,29
-BOM,6E 5105,IndiGo,MAA,Chennai,19:25,14,11,6,0,55,45,153
-BOM,6E 5106,IndiGo,GOI,Vasco da Gama,22:10,14,10,5,0,50,28,52
-BOM,6E 5107,IndiGo,AMD,Ahmedabad,20:00,14,11,7,0,64,36,72
-BOM,6E 5109,IndiGo,CJB,Coimbatore,09:35,13,12,0,0,0,17,26
-BOM,6E 5123,IndiGo,VGA,Rajahmundry,14:40,14,13,6,0,46,28,52
+BOM,6E 355,IndiGo,DEL,New Delhi,09:00,14,13,3,0,23,24,50
+BOM,6E 437,IndiGo,COK,Kochi,17:10,15,13,6,0,46,32,94
+BOM,6E 463,IndiGo,BBI,Bhubaneswar,16:50,15,13,1,0,8,24,45
+BOM,6E 5028,IndiGo,ATQ,Amritsar,19:35,15,11,2,0,18,22,69
+BOM,6E 5032,IndiGo,BLR,Bangalore,19:50,14,11,9,0,82,45,90
+BOM,6E 5047,IndiGo,BLR,Bangalore,18:30,15,13,8,0,62,34,59
+BOM,6E 5048,IndiGo,MAA,Chennai,17:25,15,13,4,0,31,32,80
+BOM,6E 5056,IndiGo,HYD,Hyderabad,21:10,15,12,9,0,75,40,68
+BOM,6E 5059,IndiGo,BDQ,Vadodara,05:45,14,13,0,0,0,6,14
+BOM,6E 5071,IndiGo,BLR,Bangalore,15:35,13,11,3,0,27,22,40
+BOM,6E 5081,IndiGo,IXU,Aurangabad,05:35,14,13,1,0,8,11,49
+BOM,6E 5082,IndiGo,HBX,Hubli,18:05,15,13,2,0,15,5,61
+BOM,6E 5086,IndiGo,CCU,Kolkata,18:00,15,13,2,0,15,21,58
+BOM,6E 5091,IndiGo,BBI,Bhubaneswar,07:50,14,13,4,0,31,25,63
+BOM,6E 5092,IndiGo,BLR,Bangalore,09:50,14,13,1,0,8,18,30
+BOM,6E 5105,IndiGo,MAA,Chennai,19:25,15,12,7,0,58,44,153
+BOM,6E 5106,IndiGo,GOI,Vasco da Gama,22:10,15,11,5,0,45,25,52
+BOM,6E 5107,IndiGo,AMD,Ahmedabad,20:00,15,12,7,0,58,35,72
+BOM,6E 5109,IndiGo,CJB,Coimbatore,09:35,14,13,1,0,8,18,30
+BOM,6E 5123,IndiGo,VGA,Rajahmundry,14:40,15,14,7,0,50,28,52
 BOM,6E 5125,IndiGo,IXJ,Jammu,11:10,4,4,2,0,50,24,36
-BOM,6E 5126,IndiGo,IXM,Madurai,18:15,14,12,2,0,17,21,53
-BOM,6E 5131,IndiGo,BHO,Bhopal,15:50,14,12,4,0,33,40,150
+BOM,6E 5126,IndiGo,IXM,Madurai,18:15,15,13,2,0,15,21,53
+BOM,6E 5131,IndiGo,BHO,Bhopal,15:50,15,13,4,0,31,38,150
 BOM,6E 5135,IndiGo,JAI,Jaipur,23:20,14,11,4,0,36,30,75
-BOM,6E 5144,IndiGo,AMD,Ahmedabad,06:10,13,12,0,0,0,5,26
-BOM,6E 5145,IndiGo,LKO,Lucknow,20:45,14,11,3,0,27,29,65
-BOM,6E 5147,IndiGo,NAG,Naqpur,18:35,14,12,4,0,33,31,81
-BOM,6E 5150,IndiGo,JGA,Jamnagar,08:55,13,12,0,0,0,7,17
-BOM,6E 5152,IndiGo,AMD,Ahmedabad,23:10,15,12,3,0,25,25,75
-BOM,6E 5154,IndiGo,UDR,Udaipur,15:45,14,12,2,0,17,27,180
-BOM,6E 5156,IndiGo,HSR,Rajkot,07:20,13,12,1,0,8,22,92
-BOM,6E 5164,IndiGo,IDR,Indore,20:20,14,10,5,0,50,35,94
-BOM,6E 5165,IndiGo,CCU,Kolkata,10:05,13,12,3,0,25,26,85
-BOM,6E 5177,IndiGo,GOX,Mopa,19:10,14,11,2,0,18,21,71
-BOM,6E 5178,IndiGo,HYD,Hyderabad,11:40,14,13,8,0,62,33,51
-BOM,6E 5179,IndiGo,HYD,Hyderabad,02:45,13,12,0,0,0,0,9
-BOM,6E 5181,IndiGo,IDR,Indore,10:25,13,12,6,0,50,34,80
-BOM,6E 5182,IndiGo,BBI,Bhubaneswar,20:40,14,10,4,0,40,28,70
-BOM,6E 5184,IndiGo,BLR,Bangalore,12:30,14,13,3,0,23,30,92
-BOM,6E 5188,IndiGo,MAA,Chennai,06:15,13,12,0,0,0,2,12
+BOM,6E 5144,IndiGo,AMD,Ahmedabad,06:10,14,13,0,0,0,5,26
+BOM,6E 5145,IndiGo,LKO,Lucknow,20:45,15,12,3,0,25,28,65
+BOM,6E 5147,IndiGo,NAG,Naqpur,18:35,15,13,4,0,31,30,81
+BOM,6E 5150,IndiGo,JGA,Jamnagar,08:55,14,13,1,0,8,10,46
+BOM,6E 5152,IndiGo,AMD,Ahmedabad,23:10,16,13,4,0,31,26,75
+BOM,6E 5154,IndiGo,UDR,Udaipur,15:45,15,13,2,0,15,27,180
+BOM,6E 5156,IndiGo,HSR,Rajkot,07:20,14,13,1,0,8,21,92
+BOM,6E 5164,IndiGo,IDR,Indore,20:20,15,11,5,0,45,34,94
+BOM,6E 5165,IndiGo,CCU,Kolkata,10:05,14,13,4,0,31,27,85
+BOM,6E 5177,IndiGo,GOX,Mopa,19:10,15,12,2,0,17,21,71
+BOM,6E 5178,IndiGo,HYD,Hyderabad,11:40,15,14,9,0,64,34,51
+BOM,6E 5179,IndiGo,HYD,Hyderabad,02:45,14,13,0,0,0,0,9
+BOM,6E 5181,IndiGo,IDR,Indore,10:25,14,13,7,0,54,34,80
+BOM,6E 5182,IndiGo,BBI,Bhubaneswar,20:40,15,11,4,0,36,28,70
+BOM,6E 5184,IndiGo,BLR,Bangalore,12:30,15,14,4,0,29,30,92
+BOM,6E 5188,IndiGo,MAA,Chennai,06:15,14,13,0,0,0,2,12
 BOM,6E 519,IndiGo,CCU,Kolkata,20:50,1,0,0,1,,,
-BOM,6E 5193,IndiGo,BLR,Bangalore,07:45,13,12,2,0,17,23,35
-BOM,6E 5196,IndiGo,MAA,Chennai,15:25,14,13,3,0,23,21,45
-BOM,6E 5197,IndiGo,SXR,Srinagar,06:40,13,12,1,0,8,15,36
-BOM,6E 5201,IndiGo,AMD,Ahmedabad,14:55,10,10,2,0,20,18,41
-BOM,6E 5204,IndiGo,MAA,Chennai,08:15,13,12,3,0,25,27,70
-BOM,6E 5217,IndiGo,BLR,Bangalore,11:00,13,12,5,0,42,32,68
-BOM,6E 5221,IndiGo,BLR,Bangalore,17:00,14,12,2,0,17,11,33
-BOM,6E 5228,IndiGo,HYD,Hyderabad,16:45,14,12,2,0,17,23,59
-BOM,6E 5233,IndiGo,IXC,Chandigarh,20:15,13,10,4,0,40,46,156
-BOM,6E 5239,IndiGo,CCU,Kolkata,12:45,14,13,9,0,69,41,112
-BOM,6E 5241,IndiGo,GOI,Vasco da Gama,16:40,14,10,0,0,0,9,24
-BOM,6E 5243,IndiGo,GAU,Guwahati,05:00,13,12,0,0,0,2,12
-BOM,6E 5246,IndiGo,HYD,Hyderabad,07:15,13,12,1,0,8,18,50
-BOM,6E 5251,IndiGo,LKO,Lucknow,12:10,12,11,4,0,36,26,50
-BOM,6E 5268,IndiGo,LKO,Lucknow,08:25,13,12,3,0,25,30,124
-BOM,6E 5273,IndiGo,IDR,Indore,18:35,14,12,5,0,42,25,56
-BOM,6E 5276,IndiGo,GWL,Gwalior,13:30,14,13,4,0,31,23,73
-BOM,6E 5281,IndiGo,JAI,Jaipur,08:40,13,12,0,0,0,16,24
-BOM,6E 5283,IndiGo,AMD,Ahmedabad,21:50,14,11,3,0,27,30,96
-BOM,6E 5291,IndiGo,MAA,Chennai,21:00,14,10,3,0,30,30,69
-BOM,6E 5294,IndiGo,BLR,Bangalore,04:30,13,9,0,0,0,5,15
-BOM,6E 5296,IndiGo,BLR,Bangalore,06:15,13,12,0,0,0,10,27
-BOM,6E 5305,IndiGo,IXB,Siliguri,07:50,13,12,5,0,42,28,40
-BOM,6E 5313,IndiGo,MAA,Chennai,09:50,13,12,1,0,8,15,46
-BOM,6E 5318,IndiGo,HYD,Hyderabad,10:15,13,12,4,0,33,27,39
-BOM,6E 5323,IndiGo,BLR,Bangalore,01:10,13,13,2,0,15,13,35
-BOM,6E 5326,IndiGo,HYD,Hyderabad,19:40,14,11,8,0,73,45,90
-BOM,6E 5328,IndiGo,NAG,Naqpur,22:45,14,11,1,0,9,22,76
-BOM,6E 5329,IndiGo,CCU,Kolkata,07:45,13,12,0,0,0,19,26
-BOM,6E 5337,IndiGo,MAA,Chennai,13:45,14,12,3,0,25,27,66
-BOM,6E 5345,IndiGo,RPR,Raipur,14:25,15,13,3,0,23,23,59
-BOM,6E 535,IndiGo,DGH,Deoghar,10:10,13,12,3,0,25,24,46
-BOM,6E 5354,IndiGo,CCU,Kolkata,15:15,13,12,1,0,8,21,33
-BOM,6E 5382,IndiGo,BLR,Bangalore,14:30,14,13,3,0,23,17,38
-BOM,6E 5386,IndiGo,HYD,Hyderabad,15:10,14,13,5,0,38,27,54
-BOM,6E 5388,IndiGo,BLR,Bangalore,22:20,14,11,6,0,55,34,115
-BOM,6E 544,IndiGo,LKO,Lucknow,19:20,14,11,5,0,45,35,133
+BOM,6E 5193,IndiGo,BLR,Bangalore,07:45,14,13,3,0,23,25,56
+BOM,6E 5196,IndiGo,MAA,Chennai,15:25,15,14,3,0,21,21,45
+BOM,6E 5197,IndiGo,SXR,Srinagar,06:40,14,13,1,0,8,14,36
+BOM,6E 5201,IndiGo,AMD,Ahmedabad,14:55,11,11,2,0,18,18,41
+BOM,6E 5204,IndiGo,MAA,Chennai,08:15,14,13,4,0,31,28,70
+BOM,6E 5217,IndiGo,BLR,Bangalore,11:00,14,13,5,0,38,31,68
+BOM,6E 5221,IndiGo,BLR,Bangalore,17:00,15,13,2,0,15,10,33
+BOM,6E 5228,IndiGo,HYD,Hyderabad,16:45,15,13,2,0,15,24,59
+BOM,6E 5233,IndiGo,IXC,Chandigarh,20:15,14,11,4,0,36,44,156
+BOM,6E 5239,IndiGo,CCU,Kolkata,12:45,15,14,10,0,71,42,112
+BOM,6E 5241,IndiGo,GOI,Vasco da Gama,16:40,15,11,0,0,0,9,24
+BOM,6E 5243,IndiGo,GAU,Guwahati,05:00,14,13,0,0,0,3,17
+BOM,6E 5246,IndiGo,HYD,Hyderabad,07:15,14,13,1,0,8,18,50
+BOM,6E 5251,IndiGo,LKO,Lucknow,12:10,13,12,5,0,42,27,50
+BOM,6E 5268,IndiGo,LKO,Lucknow,08:25,14,13,4,0,31,31,124
+BOM,6E 5273,IndiGo,IDR,Indore,18:35,15,13,6,0,46,26,56
+BOM,6E 5276,IndiGo,GWL,Gwalior,13:30,15,14,4,0,29,23,73
+BOM,6E 5281,IndiGo,JAI,Jaipur,08:40,14,13,1,0,8,18,37
+BOM,6E 5283,IndiGo,AMD,Ahmedabad,21:50,15,12,3,0,25,28,96
+BOM,6E 5291,IndiGo,MAA,Chennai,21:00,15,11,3,0,27,29,69
+BOM,6E 5294,IndiGo,BLR,Bangalore,04:30,14,10,0,0,0,5,15
+BOM,6E 5296,IndiGo,BLR,Bangalore,06:15,14,13,0,0,0,9,27
+BOM,6E 5305,IndiGo,IXB,Siliguri,07:50,14,13,6,0,46,30,52
+BOM,6E 5313,IndiGo,MAA,Chennai,09:50,14,13,1,0,8,15,46
+BOM,6E 5318,IndiGo,HYD,Hyderabad,10:15,14,13,5,0,38,28,39
+BOM,6E 5323,IndiGo,BLR,Bangalore,01:10,14,14,2,0,14,12,35
+BOM,6E 5326,IndiGo,HYD,Hyderabad,19:40,15,12,9,0,75,48,90
+BOM,6E 5328,IndiGo,NAG,Naqpur,22:45,15,12,1,0,8,21,76
+BOM,6E 5329,IndiGo,CCU,Kolkata,07:45,14,13,1,0,8,20,35
+BOM,6E 5337,IndiGo,MAA,Chennai,13:45,15,13,3,0,23,27,66
+BOM,6E 5345,IndiGo,RPR,Raipur,14:25,16,14,4,0,29,24,59
+BOM,6E 535,IndiGo,DGH,Deoghar,10:10,14,13,4,0,31,26,53
+BOM,6E 5354,IndiGo,CCU,Kolkata,15:15,14,13,1,0,8,21,33
+BOM,6E 5382,IndiGo,BLR,Bangalore,14:30,15,14,3,0,21,17,38
+BOM,6E 5386,IndiGo,HYD,Hyderabad,15:10,15,14,6,0,43,28,54
+BOM,6E 5388,IndiGo,BLR,Bangalore,22:20,15,12,6,0,50,31,115
+BOM,6E 544,IndiGo,LKO,Lucknow,19:20,15,12,6,0,50,36,133
 BOM,6E 59,IndiGo,MED,Medina,22:50,11,6,4,3,67,58,128
-BOM,6E 6027,IndiGo,UDR,Udaipur,17:35,14,12,5,0,42,25,57
-BOM,6E 6028,IndiGo,DEL,New Delhi,12:15,14,13,8,0,62,38,107
-BOM,6E 6045,IndiGo,DEL,New Delhi,03:00,13,12,0,0,0,9,19
-BOM,6E 6049,IndiGo,DEL,New Delhi,19:45,14,11,3,0,27,28,47
-BOM,6E 6052,IndiGo,DEL,New Delhi,10:00,13,12,5,0,42,31,68
-BOM,6E 6057,IndiGo,GOX,Mopa,09:15,13,12,2,0,17,22,40
-BOM,6E 6058,IndiGo,NAG,Naqpur,08:05,13,12,0,0,0,17,27
-BOM,6E 6082,IndiGo,DEL,New Delhi,16:45,14,12,1,0,8,20,71
-BOM,6E 6087,IndiGo,IXR,Ranchi,10:45,13,12,4,0,33,27,55
+BOM,6E 6027,IndiGo,UDR,Udaipur,17:35,15,13,5,0,38,25,57
+BOM,6E 6028,IndiGo,DEL,New Delhi,12:15,15,14,9,0,64,38,107
+BOM,6E 6045,IndiGo,DEL,New Delhi,03:00,14,13,0,0,0,9,19
+BOM,6E 6049,IndiGo,DEL,New Delhi,19:45,15,12,3,0,25,26,47
+BOM,6E 6052,IndiGo,DEL,New Delhi,10:00,14,13,5,0,38,30,68
+BOM,6E 6057,IndiGo,GOX,Mopa,09:15,14,13,3,0,23,23,42
+BOM,6E 6058,IndiGo,NAG,Naqpur,08:05,14,13,1,0,8,18,32
+BOM,6E 6082,IndiGo,DEL,New Delhi,16:45,15,13,1,0,8,19,71
+BOM,6E 6087,IndiGo,IXR,Ranchi,10:45,14,13,5,0,38,29,55
 BOM,6E 61,IndiGo,JED,Jeddah,21:30,12,6,2,3,33,24,41
-BOM,6E 6118,IndiGo,ATQ,Amritsar,05:15,13,12,0,0,0,12,18
-BOM,6E 6122,IndiGo,RPR,Raipur,12:25,14,13,7,0,54,32,63
-BOM,6E 6128,IndiGo,BHO,Bhopal,07:25,13,12,2,0,17,20,37
-BOM,6E 6137,IndiGo,MAA,Chennai,23:00,14,11,4,0,36,32,117
-BOM,6E 615,IndiGo,DEL,New Delhi,13:00,13,13,8,0,62,40,90
-BOM,6E 618,IndiGo,BDQ,Vadodara,19:15,14,11,5,0,45,26,61
-BOM,6E 6187,IndiGo,HYD,Hyderabad,00:30,13,12,1,0,8,11,55
-BOM,6E 6188,IndiGo,BLR,Bangalore,21:30,14,10,7,0,70,34,50
-BOM,6E 6195,IndiGo,HYD,Hyderabad,23:00,14,11,6,0,55,40,116
-BOM,6E 624,IndiGo,TRV,Trivandrum,15:10,14,13,3,0,23,22,46
+BOM,6E 6118,IndiGo,ATQ,Amritsar,05:15,14,13,0,0,0,13,18
+BOM,6E 6122,IndiGo,RPR,Raipur,12:25,15,14,8,0,57,33,63
+BOM,6E 6128,IndiGo,BHO,Bhopal,07:25,14,13,3,0,23,20,37
+BOM,6E 6137,IndiGo,MAA,Chennai,23:00,15,12,5,0,42,33,117
+BOM,6E 615,IndiGo,DEL,New Delhi,13:00,14,14,8,0,57,38,90
+BOM,6E 618,IndiGo,BDQ,Vadodara,19:15,15,12,5,0,42,24,61
+BOM,6E 6187,IndiGo,HYD,Hyderabad,00:30,14,12,1,0,8,11,55
+BOM,6E 6188,IndiGo,BLR,Bangalore,21:30,15,11,7,0,64,33,50
+BOM,6E 6195,IndiGo,HYD,Hyderabad,23:00,15,12,6,0,50,38,116
+BOM,6E 624,IndiGo,TRV,Trivandrum,15:10,15,14,3,0,21,23,46
 BOM,6E 6284,IndiGo,BLR,Bangalore,02:45,1,0,0,1,,,
-BOM,6E 6287,IndiGo,CCU,Kolkata,19:50,14,11,10,0,91,67,259
-BOM,6E 632,IndiGo,AMD,Ahmedabad,04:00,13,12,0,0,0,10,26
-BOM,6E 6349,IndiGo,MAA,Chennai,11:40,14,13,9,0,69,35,56
-BOM,6E 6361,IndiGo,GOI,Vasco da Gama,05:00,13,11,1,0,9,10,32
-BOM,6E 6362,IndiGo,HYD,Hyderabad,05:45,13,12,0,0,0,7,14
-BOM,6E 6367,IndiGo,CCU,Kolkata,05:30,13,12,1,0,8,16,36
+BOM,6E 6287,IndiGo,CCU,Kolkata,19:50,15,12,11,0,92,65,259
+BOM,6E 632,IndiGo,AMD,Ahmedabad,04:00,14,13,0,0,0,9,26
+BOM,6E 6349,IndiGo,MAA,Chennai,11:40,15,14,10,0,71,36,56
+BOM,6E 6361,IndiGo,GOI,Vasco da Gama,05:00,14,12,1,0,8,11,32
+BOM,6E 6362,IndiGo,HYD,Hyderabad,05:45,14,13,0,0,0,7,14
+BOM,6E 6367,IndiGo,CCU,Kolkata,05:30,14,13,1,0,8,16,36
 BOM,6E 6386,IndiGo,IDR,Indore,13:20,1,0,0,1,,,
-BOM,6E 6393,IndiGo,IXC,Chandigarh,14:15,14,13,11,0,85,49,116
-BOM,6E 643,IndiGo,LKO,Lucknow,04:30,13,12,0,0,0,5,13
-BOM,6E 651,IndiGo,DEL,New Delhi,22:15,14,11,6,0,55,53,203
-BOM,6E 6543,IndiGo,VNS,Varanasi,07:50,13,12,4,0,33,26,37
-BOM,6E 6549,IndiGo,IXE,Mangalore,18:25,14,12,7,0,58,52,138
-BOM,6E 656,IndiGo,DEL,New Delhi,05:00,13,11,0,0,0,7,14
-BOM,6E 6599,IndiGo,IDR,Indore,16:50,14,12,8,0,67,40,95
-BOM,6E 6613,IndiGo,DEL,New Delhi,18:15,14,12,2,0,17,22,51
-BOM,6E 6674,IndiGo,IXE,Mangalore,09:05,13,12,0,0,0,17,26
-BOM,6E 6701,IndiGo,COK,Kochi,05:35,13,11,0,0,0,7,22
-BOM,6E 6704,IndiGo,DEL,New Delhi,13:50,14,13,5,0,38,31,60
-BOM,6E 673,IndiGo,IXE,Mangalore,12:30,14,13,7,0,54,33,60
-BOM,6E 6794,IndiGo,UDR,Udaipur,06:15,13,12,1,0,8,18,45
-BOM,6E 6802,IndiGo,NAG,Naqpur,16:55,14,12,6,0,50,31,56
-BOM,6E 6827,IndiGo,DEL,New Delhi,11:30,14,13,10,0,77,41,68
-BOM,6E 6931,IndiGo,CCJ,Calicut,16:10,14,12,4,0,33,30,90
-BOM,6E 6937,IndiGo,LKO,Lucknow,11:30,13,12,9,0,75,37,53
+BOM,6E 6393,IndiGo,IXC,Chandigarh,14:15,15,14,12,0,86,49,116
+BOM,6E 643,IndiGo,LKO,Lucknow,04:30,14,13,0,0,0,5,13
+BOM,6E 651,IndiGo,DEL,New Delhi,22:15,15,12,7,0,58,51,203
+BOM,6E 6543,IndiGo,VNS,Varanasi,07:50,14,13,5,0,38,27,37
+BOM,6E 6549,IndiGo,IXE,Mangalore,18:25,15,13,8,0,62,52,138
+BOM,6E 656,IndiGo,DEL,New Delhi,05:00,14,12,0,0,0,7,14
+BOM,6E 6599,IndiGo,IDR,Indore,16:50,15,13,9,0,69,41,95
+BOM,6E 6613,IndiGo,DEL,New Delhi,18:15,15,13,3,0,23,23,51
+BOM,6E 6674,IndiGo,IXE,Mangalore,09:05,14,13,1,0,8,19,49
+BOM,6E 6701,IndiGo,COK,Kochi,05:35,14,12,0,0,0,7,22
+BOM,6E 6704,IndiGo,DEL,New Delhi,13:50,15,14,5,0,36,31,60
+BOM,6E 673,IndiGo,IXE,Mangalore,12:30,15,14,8,0,57,33,60
+BOM,6E 6794,IndiGo,UDR,Udaipur,06:15,14,13,2,0,15,19,45
+BOM,6E 6802,IndiGo,NAG,Naqpur,16:55,15,13,6,0,46,29,56
+BOM,6E 6827,IndiGo,DEL,New Delhi,11:30,15,14,11,0,79,42,68
+BOM,6E 6931,IndiGo,CCJ,Calicut,16:10,15,13,4,0,31,29,90
+BOM,6E 6937,IndiGo,LKO,Lucknow,11:30,14,13,10,0,77,38,53
 BOM,6E 73,IndiGo,RUH,Riyadh,04:45,11,4,2,7,50,29,34
-BOM,6E 762,IndiGo,DEL,New Delhi,06:00,13,12,2,0,17,19,53
-BOM,6E 802,IndiGo,IXZ,Port Blair,06:20,13,12,0,0,0,13,27
+BOM,6E 762,IndiGo,DEL,New Delhi,06:00,14,13,2,0,15,18,53
+BOM,6E 802,IndiGo,IXZ,Port Blair,06:20,14,13,0,0,0,13,27
 BOM,6E 81,IndiGo,DMM,Ad Dammam,18:00,11,6,4,3,67,27,37
-BOM,6E 825,IndiGo,PAT,Patna,18:45,14,11,8,0,73,41,97
-BOM,6E 843,IndiGo,GAU,Guwahati,17:15,14,12,10,0,83,66,157
+BOM,6E 825,IndiGo,PAT,Patna,18:45,15,12,9,0,75,41,97
+BOM,6E 843,IndiGo,GAU,Guwahati,17:15,15,13,11,0,85,65,157
 BOM,6E 91,IndiGo,JED,Jeddah,00:25,11,8,2,3,25,25,38
-BOM,6E 911,IndiGo,AMD,Ahmedabad,01:30,13,12,0,0,0,11,26
+BOM,6E 911,IndiGo,AMD,Ahmedabad,01:30,14,13,0,0,0,11,26
 BOM,9I 611,Alliance Air,AMD,Ahmedabad,07:05,3,1,0,0,0,20,20
 BOM,9I 617,Alliance Air,NMB,Daman,11:40,3,1,1,2,100,45,45
-BOM,9I 623,Alliance Air,IXK,Keshod,11:40,8,3,0,4,0,19,20
+BOM,9I 623,Alliance Air,IXK,Keshod,11:40,9,3,0,5,0,19,20
 BOM,9I 635,Alliance Air,PBD,Porbandar,06:50,3,1,1,1,100,89,89
 BOM,9I 653,Alliance Air,IXK,Keshod,07:30,3,1,1,2,100,56,56
 BOM,9I 926,Alliance Air,HYD,Hyderabad,01:15,3,2,1,1,50,48,66
 BOM,9I 932,Alliance Air,DEL,New Delhi,20:30,1,0,0,0,,,
-BOM,AF 217,Air France,CDG,Paris,01:20,13,12,11,0,92,44,70
-BOM,AI 119,Air India,JFK,Rome,22:20,11,8,4,0,50,29,39
-BOM,AI 129,Air India,LHR,London,04:35,11,11,3,0,27,26,51
-BOM,AI 131,Air India,LHR,London,13:25,14,12,7,0,58,32,56
+BOM,AF 217,Air France,CDG,Paris,01:20,14,13,12,0,92,46,70
+BOM,AI 119,Air India,JFK,Rome,22:20,12,9,5,0,56,29,39
+BOM,AI 129,Air India,LHR,London,04:35,12,12,3,0,25,25,51
+BOM,AI 131,Air India,LHR,London,13:25,15,13,8,0,62,32,56
 BOM,AI 163,Air India,LHR,London,05:35,2,1,1,0,100,30,30
-BOM,AI 1851,Air India,DEL,New Delhi,15:30,11,9,4,1,44,32,68
-BOM,AI 1882,Air India,DEL,New Delhi,23:55,13,12,4,0,33,28,69
-BOM,AI 1891,Air India,IDR,Indore,08:10,13,12,2,0,17,24,46
-BOM,AI 1895,Air India,DEL,New Delhi,21:30,14,10,3,0,30,26,53
+BOM,AI 1851,Air India,DEL,New Delhi,15:30,12,10,4,1,40,30,68
+BOM,AI 1882,Air India,DEL,New Delhi,23:55,14,13,4,0,31,28,69
+BOM,AI 1891,Air India,IDR,Indore,08:10,14,13,3,0,23,26,46
+BOM,AI 1895,Air India,DEL,New Delhi,21:30,15,11,4,0,36,27,53
 BOM,AI 191,Air India,FCO,Rome,21:40,7,4,4,0,100,39,55
-BOM,AI 2027,Air India,FRA,Frankfurt-am-Main,12:10,10,9,5,0,56,33,48
-BOM,AI 2105,Air India,SIN,Singapore,23:25,9,8,4,0,50,51,117
-BOM,AI 2107,Air India,SIN,Singapore,10:05,5,5,1,0,20,24,35
-BOM,AI 2183,Air India,DAC,Dhaka,06:45,13,12,0,0,0,15,27
+BOM,AI 2027,Air India,FRA,Frankfurt-am-Main,12:10,11,10,6,0,60,34,48
+BOM,AI 2105,Air India,SIN,Singapore,23:25,10,9,5,0,56,50,117
+BOM,AI 2107,Air India,SIN,Singapore,10:05,6,6,2,0,33,25,35
+BOM,AI 2183,Air India,DAC,Dhaka,06:45,14,13,0,0,0,15,27
 BOM,AI 2213,Air India,RUH,Riyadh,04:20,9,3,0,5,0,13,29
-BOM,AI 2217,Air India,DXB,Dubai,16:10,3,0,0,2,,,
-BOM,AI 2241,Air India,MRU,Port Louis,02:00,13,12,1,0,8,18,39
-BOM,AI 2245,Air India,JED,Jeddah,09:45,12,7,0,3,0,14,24
-BOM,AI 2249,Air India,DMM,Ad Dammam,20:40,2,0,0,2,,,
+BOM,AI 2217,Air India,DXB,Dubai,16:10,4,0,0,3,,,
+BOM,AI 2241,Air India,MRU,Port Louis,02:00,14,13,1,0,8,18,39
+BOM,AI 2245,Air India,JED,Jeddah,09:45,13,7,0,4,0,14,24
+BOM,AI 2249,Air India,DMM,Ad Dammam,20:40,3,0,0,3,,,
 BOM,AI 2251,Air India,JED,Jeddah,17:45,4,4,4,0,100,927,1229
-BOM,AI 2276,Air India,CMB,Colombo,06:10,14,13,9,0,69,37,68
-BOM,AI 2289,Air India,DOH,Doha,20:00,14,10,3,0,30,28,58
-BOM,AI 2337,Air India,BKK,Bangkok,13:30,12,10,4,0,40,23,51
-BOM,AI 2354,Air India,BKK,Bangkok,07:20,13,12,1,0,8,19,37
-BOM,AI 2401,Air India,BLR,Bangalore,20:45,14,10,4,0,40,26,46
-BOM,AI 2408,Air India,DEL,New Delhi,19:30,14,11,8,1,73,40,81
-BOM,AI 2419,Air India,DEL,New Delhi,12:00,5,5,1,0,20,27,56
-BOM,AI 2422,Air India,DEL,New Delhi,01:00,12,11,1,0,9,14,36
-BOM,AI 2424,Air India,DEL,New Delhi,07:00,13,10,1,2,10,23,34
-BOM,AI 2428,Air India,DEL,New Delhi,08:00,9,8,4,1,50,26,41
-BOM,AI 2430,Air India,DEL,New Delhi,10:00,9,9,3,0,33,26,52
-BOM,AI 2432,Air India,DEL,New Delhi,09:30,13,12,1,0,8,19,78
-BOM,AI 2440,Air India,DEL,New Delhi,18:00,14,11,6,1,55,39,98
-BOM,AI 2442,Air India,DEL,New Delhi,15:00,11,11,3,0,27,25,74
-BOM,AI 2444,Air India,HYD,Hyderabad,10:50,13,12,6,0,50,31,98
+BOM,AI 2276,Air India,CMB,Colombo,06:10,15,14,10,0,71,37,68
+BOM,AI 2289,Air India,DOH,Doha,20:00,15,11,3,0,27,25,58
+BOM,AI 2337,Air India,BKK,Bangkok,13:30,13,11,4,0,36,23,51
+BOM,AI 2354,Air India,BKK,Bangkok,07:20,14,13,1,0,8,19,37
+BOM,AI 2401,Air India,BLR,Bangalore,20:45,15,11,4,0,36,26,46
+BOM,AI 2408,Air India,DEL,New Delhi,19:30,15,12,8,1,67,39,81
+BOM,AI 2419,Air India,DEL,New Delhi,12:00,6,6,2,0,33,34,69
+BOM,AI 2422,Air India,DEL,New Delhi,01:00,13,12,1,0,8,14,36
+BOM,AI 2424,Air India,DEL,New Delhi,07:00,14,11,1,2,9,22,34
+BOM,AI 2428,Air India,DEL,New Delhi,08:00,10,9,5,1,56,27,41
+BOM,AI 2430,Air India,DEL,New Delhi,10:00,10,10,3,0,30,26,52
+BOM,AI 2432,Air India,DEL,New Delhi,09:30,14,13,2,0,15,20,78
+BOM,AI 2440,Air India,DEL,New Delhi,18:00,15,12,6,1,50,37,98
+BOM,AI 2442,Air India,DEL,New Delhi,15:00,12,12,3,0,25,24,74
+BOM,AI 2444,Air India,HYD,Hyderabad,10:50,14,13,7,0,54,31,98
 BOM,AI 2452,Air India,DEL,New Delhi,03:05,2,2,0,0,0,14,15
 BOM,AI 2471,Air India,CCU,Kolkata,11:30,4,3,2,1,67,38,62
-BOM,AI 2477,Air India,GOI,Vasco da Gama,12:55,14,13,5,0,38,25,65
-BOM,AI 2481,Air India,CCU,Kolkata,17:05,14,12,5,0,42,26,39
-BOM,AI 2491,Air India,LKO,Lucknow,11:15,13,12,6,0,50,30,70
-BOM,AI 2493,Air India,AMD,Ahmedabad,18:30,14,13,2,0,15,20,44
-BOM,AI 2503,Air India,AMD,Ahmedabad,12:55,13,12,7,0,58,38,101
-BOM,AI 2505,Air India,GOI,Vasco da Gama,19:20,14,10,1,0,10,18,54
-BOM,AI 2531,Air India,HYD,Hyderabad,15:05,14,13,2,0,15,24,44
-BOM,AI 2579,Air India,UDR,Udaipur,10:35,13,12,6,0,50,33,64
-BOM,AI 2581,Air India,NAG,Naqpur,05:50,10,9,0,0,0,12,29
+BOM,AI 2477,Air India,GOI,Vasco da Gama,12:55,15,14,6,0,43,26,65
+BOM,AI 2481,Air India,CCU,Kolkata,17:05,15,13,5,0,38,25,39
+BOM,AI 2491,Air India,LKO,Lucknow,11:15,14,13,6,0,46,30,70
+BOM,AI 2493,Air India,AMD,Ahmedabad,18:30,15,14,2,0,14,19,44
+BOM,AI 2503,Air India,AMD,Ahmedabad,12:55,14,13,7,0,54,36,101
+BOM,AI 2505,Air India,GOI,Vasco da Gama,19:20,15,11,1,0,9,18,54
+BOM,AI 2531,Air India,HYD,Hyderabad,15:05,15,14,2,0,14,24,44
+BOM,AI 2579,Air India,UDR,Udaipur,10:35,14,13,7,0,54,34,64
+BOM,AI 2581,Air India,NAG,Naqpur,05:50,11,10,0,0,0,12,29
 BOM,AI 2583,Air India,NAG,Naqpur,19:55,10,8,5,0,63,35,63
-BOM,AI 2595,Air India,UDR,Udaipur,14:25,12,12,7,0,58,31,52
-BOM,AI 2603,Air India,BLR,Bangalore,06:35,13,12,1,0,8,14,30
-BOM,AI 2605,Air India,TRV,Trivandrum,06:30,13,12,2,0,17,14,34
-BOM,AI 2619,Air India,HYD,Hyderabad,18:00,14,12,5,0,42,28,56
-BOM,AI 2625,Air India,HYD,Hyderabad,06:00,13,12,1,0,8,17,61
-BOM,AI 2632,Air India,BLR,Bangalore,12:00,14,13,12,0,92,44,95
-BOM,AI 2641,Air India,BLR,Bangalore,18:30,14,12,7,0,58,28,47
-BOM,AI 2643,Air India,CCU,Kolkata,21:05,14,10,4,0,40,25,41
-BOM,AI 2655,Air India,TRV,Trivandrum,17:35,14,12,5,0,42,36,103
-BOM,AI 2659,Air India,IXC,Chandigarh,14:35,13,12,5,0,42,31,69
-BOM,AI 2663,Air India,SXR,Srinagar,10:25,13,12,6,0,50,32,62
-BOM,AI 2677,Air India,DEL,New Delhi,13:00,13,13,6,0,46,32,60
-BOM,AI 2687,Air India,DEL,New Delhi,16:30,12,10,4,0,40,32,104
-BOM,AI 2728,Air India,ATQ,Amritsar,05:20,4,3,1,0,33,19,36
-BOM,AI 2730,Air India,HSR,Rajkot,16:00,14,11,1,0,9,16,30
-BOM,AI 2739,Air India,MAA,Chennai,09:00,13,12,0,0,0,14,27
-BOM,AI 2741,Air India,DED,Dehradun,07:40,13,12,3,0,25,23,37
-BOM,AI 2745,Air India,GOI,Vasco da Gama,15:30,12,11,2,0,18,30,114
-BOM,AI 2749,Air India,IDR,Indore,17:35,10,8,4,0,50,28,52
-BOM,AI 2753,Air India,BHJ,Bhuj,13:50,12,11,4,0,36,26,45
-BOM,AI 2771,Air India,CCU,Kolkata,06:55,13,12,3,0,25,25,42
-BOM,AI 2773,Air India,CCU,Kolkata,13:55,13,12,5,0,42,32,48
-BOM,AI 2780,Air India,MAA,Chennai,12:45,15,13,12,0,92,94,134
-BOM,AI 2781,Air India,JAI,Jaipur,10:45,13,12,4,0,33,27,59
-BOM,AI 2783,Air India,IXC,Chandigarh,16:45,8,8,2,0,25,30,72
-BOM,AI 2785,Air India,HSR,Rajkot,06:40,13,12,2,0,17,28,92
-BOM,AI 2787,Air India,COK,Kochi,06:35,12,11,2,0,18,24,74
-BOM,AI 2789,Air India,PAT,Patna,10:55,13,12,6,0,50,29,47
+BOM,AI 2595,Air India,UDR,Udaipur,14:25,13,13,7,0,54,30,52
+BOM,AI 2603,Air India,BLR,Bangalore,06:35,14,12,1,0,8,14,30
+BOM,AI 2605,Air India,TRV,Trivandrum,06:30,14,13,2,0,15,13,34
+BOM,AI 2619,Air India,HYD,Hyderabad,18:00,15,13,5,0,38,28,56
+BOM,AI 2625,Air India,HYD,Hyderabad,06:00,14,13,1,0,8,16,61
+BOM,AI 2632,Air India,BLR,Bangalore,12:00,15,14,13,0,93,44,95
+BOM,AI 2641,Air India,BLR,Bangalore,18:30,15,13,7,0,54,27,47
+BOM,AI 2643,Air India,CCU,Kolkata,21:05,15,11,4,0,36,24,41
+BOM,AI 2655,Air India,TRV,Trivandrum,17:35,15,13,6,0,46,36,103
+BOM,AI 2659,Air India,IXC,Chandigarh,14:35,14,13,5,0,38,31,69
+BOM,AI 2663,Air India,SXR,Srinagar,10:25,14,13,7,0,54,33,62
+BOM,AI 2677,Air India,DEL,New Delhi,13:00,14,14,6,0,43,31,60
+BOM,AI 2687,Air India,DEL,New Delhi,16:30,13,11,4,0,36,30,104
+BOM,AI 2728,Air India,ATQ,Amritsar,05:20,5,4,1,0,25,15,36
+BOM,AI 2730,Air India,HSR,Rajkot,16:00,15,12,1,0,8,16,30
+BOM,AI 2739,Air India,MAA,Chennai,09:00,14,13,1,0,8,16,50
+BOM,AI 2741,Air India,DED,Dehradun,07:40,14,13,4,0,31,24,38
+BOM,AI 2745,Air India,GOI,Vasco da Gama,15:30,13,12,2,0,17,29,114
+BOM,AI 2749,Air India,IDR,Indore,17:35,11,9,4,0,44,26,52
+BOM,AI 2753,Air India,BHJ,Bhuj,13:50,13,12,4,0,33,26,45
+BOM,AI 2771,Air India,CCU,Kolkata,06:55,14,13,3,0,23,25,42
+BOM,AI 2773,Air India,CCU,Kolkata,13:55,14,13,6,0,46,32,48
+BOM,AI 2780,Air India,MAA,Chennai,12:45,16,14,13,0,93,95,134
+BOM,AI 2781,Air India,JAI,Jaipur,10:45,14,13,4,0,31,26,59
+BOM,AI 2783,Air India,IXC,Chandigarh,16:45,9,9,2,0,22,28,72
+BOM,AI 2785,Air India,HSR,Rajkot,06:40,14,13,2,0,15,27,92
+BOM,AI 2787,Air India,COK,Kochi,06:35,13,12,3,0,25,27,74
+BOM,AI 2789,Air India,PAT,Patna,10:55,14,13,7,0,54,30,47
 BOM,AI 2791,Air India,COK,Kochi,20:20,1,1,0,0,0,24,24
-BOM,AI 2812,Air India,BLR,Bangalore,02:05,11,10,0,0,0,8,29
-BOM,AI 2821,Air India,MAA,Chennai,06:40,13,12,1,0,8,20,30
-BOM,AI 2827,Air India,MAA,Chennai,20:30,14,10,3,0,30,30,95
+BOM,AI 2812,Air India,BLR,Bangalore,02:05,12,11,0,0,0,8,29
+BOM,AI 2821,Air India,MAA,Chennai,06:40,14,13,1,0,8,19,30
+BOM,AI 2827,Air India,MAA,Chennai,20:30,15,11,3,0,27,29,95
 BOM,AI 2841,Air India,GOI,Vasco da Gama,11:20,8,7,4,0,57,28,47
 BOM,AI 2845,Air India,BLR,Bangalore,05:30,8,7,0,0,0,12,18
-BOM,AI 2847,Air India,AMD,Ahmedabad,09:00,7,6,1,0,17,19,40
-BOM,AI 2849,Air India,BLR,Bangalore,17:30,14,12,6,0,50,37,126
-BOM,AI 2851,Air India,BLR,Bangalore,07:55,13,12,5,0,42,30,41
-BOM,AI 2853,Air India,BLR,Bangalore,15:25,14,13,5,0,38,31,69
-BOM,AI 2855,Air India,COK,Kochi,09:50,14,12,2,0,17,19,33
-BOM,AI 2857,Air India,BLR,Bangalore,23:30,14,12,1,0,8,19,68
-BOM,AI 2863,Air India,BLR,Bangalore,09:55,14,12,4,0,33,25,46
-BOM,AI 2865,Air India,BLR,Bangalore,19:45,14,10,4,0,40,35,93
-BOM,AI 2869,Air India,HYD,Hyderabad,21:25,14,10,3,0,30,26,56
-BOM,AI 2875,Air India,HYD,Hyderabad,19:35,10,7,3,0,43,21,34
+BOM,AI 2847,Air India,AMD,Ahmedabad,09:00,8,7,2,0,29,21,40
+BOM,AI 2849,Air India,BLR,Bangalore,17:30,15,13,6,0,46,36,126
+BOM,AI 2851,Air India,BLR,Bangalore,07:55,14,13,6,0,46,30,41
+BOM,AI 2853,Air India,BLR,Bangalore,15:25,15,14,5,0,36,30,69
+BOM,AI 2855,Air India,COK,Kochi,09:50,15,13,3,0,23,20,33
+BOM,AI 2857,Air India,BLR,Bangalore,23:30,15,13,1,0,8,18,68
+BOM,AI 2863,Air India,BLR,Bangalore,09:55,15,13,5,0,38,26,46
+BOM,AI 2865,Air India,BLR,Bangalore,19:45,15,11,4,0,36,33,93
+BOM,AI 2869,Air India,HYD,Hyderabad,21:25,15,11,4,0,36,27,56
+BOM,AI 2875,Air India,HYD,Hyderabad,19:35,11,8,4,0,50,23,36
 BOM,AI 2910,Air India,DEL,New Delhi,17:30,8,7,3,0,43,37,64
-BOM,AI 2915,Air India,AMD,Ahmedabad,15:30,14,12,4,0,33,23,37
-BOM,AI 2919,Air India,AMD,Ahmedabad,21:35,14,10,6,0,60,35,61
-BOM,AI 2928,Air India,DEL,New Delhi,06:30,13,12,0,0,0,16,23
+BOM,AI 2915,Air India,AMD,Ahmedabad,15:30,15,13,4,0,31,22,37
+BOM,AI 2919,Air India,AMD,Ahmedabad,21:35,15,11,6,0,55,32,61
+BOM,AI 2928,Air India,DEL,New Delhi,06:30,14,13,0,0,0,15,23
 BOM,AI 2930,Air India,DEL,New Delhi,07:30,5,5,1,0,20,21,35
-BOM,AI 2931,Air India,PAT,Patna,04:30,4,4,0,0,0,15,22
-BOM,AI 2940,Air India,DEL,New Delhi,20:00,14,10,5,0,50,35,66
+BOM,AI 2931,Air India,PAT,Patna,04:30,5,5,0,0,0,14,22
+BOM,AI 2940,Air India,DEL,New Delhi,20:00,15,11,5,0,45,34,66
 BOM,AI 2944,Air India,DEL,New Delhi,14:35,13,12,7,0,58,32,59
-BOM,AI 2952,Air India,DEL,New Delhi,11:25,13,12,8,0,67,38,66
+BOM,AI 2952,Air India,DEL,New Delhi,11:25,14,13,9,0,69,38,66
 BOM,AI 2960,Air India,DEL,New Delhi,14:05,1,0,0,0,,,
-BOM,AI 2970,Air India,DEL,New Delhi,08:30,13,12,2,0,17,21,38
-BOM,AI 2986,Air India,DEL,New Delhi,22:35,13,9,3,0,33,24,53
-BOM,AI 2988,Air India,DEL,New Delhi,20:30,14,10,6,0,60,30,49
-BOM,AI 2996,Air India,DEL,New Delhi,18:30,13,11,5,0,45,28,50
-BOM,AI 2997,Air India,ATQ,Amritsar,10:10,13,12,5,0,42,23,39
+BOM,AI 2970,Air India,DEL,New Delhi,08:30,14,13,2,0,15,21,38
+BOM,AI 2986,Air India,DEL,New Delhi,22:35,14,10,3,0,30,21,53
+BOM,AI 2988,Air India,DEL,New Delhi,20:30,15,11,6,0,55,29,49
+BOM,AI 2996,Air India,DEL,New Delhi,18:30,14,12,5,0,42,28,50
+BOM,AI 2997,Air India,ATQ,Amritsar,10:10,14,13,6,0,46,25,47
 BOM,AI 3305,Air India,BLR,Bangalore,23:40,3,3,0,0,0,16,18
-BOM,AI 356,Air India,HND,Tokyo,16:15,8,8,3,0,38,81,435
-BOM,AI 413,Air India,JAI,Jaipur,21:15,14,10,6,0,60,36,69
-BOM,AI 417,Air India,HYD,Hyderabad,08:55,9,8,0,0,0,18,26
-BOM,AI 4215,Air India,DXB,Dubai,05:55,13,12,1,0,8,11,50
-BOM,AI 4217,Air India,DXB,Dubai,15:55,12,10,3,0,30,23,41
+BOM,AI 356,Air India,HND,Tokyo,16:15,9,9,3,0,33,75,435
+BOM,AI 413,Air India,JAI,Jaipur,21:15,15,11,6,0,55,33,69
+BOM,AI 417,Air India,HYD,Hyderabad,08:55,10,9,1,0,11,21,49
+BOM,AI 4215,Air India,DXB,Dubai,05:55,14,13,1,0,8,11,50
+BOM,AI 4217,Air India,DXB,Dubai,15:55,13,11,3,0,27,23,41
 BOM,AI 4249,Air India,DMM,Ad Dammam,04:15,10,7,3,3,43,21,46
-BOM,AI 431,Air India,DED,Dehradun,12:10,14,13,6,0,46,33,68
+BOM,AI 431,Air India,DED,Dehradun,12:10,15,14,6,0,43,32,68
 BOM,AI 435,Air India,MAA,Chennai,18:10,6,5,4,0,80,48,76
-BOM,AI 471,Air India,IXC,Chandigarh,05:25,13,12,0,0,0,9,18
-BOM,AI 493,Air India,AMD,Ahmedabad,06:40,13,12,4,0,33,26,39
-BOM,AI 598,Air India,VGA,Gannavaram,15:35,14,12,6,0,50,30,80
-BOM,AI 601,Air India,BHJ,Bhuj,06:20,13,12,1,0,8,16,32
-BOM,AI 603,Air India,GOI,Vasco da Gama,05:10,13,12,0,0,0,9,19
-BOM,AI 621,Air India,JAI,Jaipur,16:55,14,12,4,0,33,26,38
-BOM,AI 639,Air India,MAA,Chennai,22:55,14,11,4,0,36,25,71
-BOM,AI 681,Air India,COK,Kochi,16:55,14,12,2,0,17,18,41
-BOM,AI 816,Air India,DEL,New Delhi,21:00,13,9,4,1,44,28,42
+BOM,AI 471,Air India,IXC,Chandigarh,05:25,14,13,0,0,0,9,18
+BOM,AI 493,Air India,AMD,Ahmedabad,06:40,14,13,4,0,31,24,39
+BOM,AI 598,Air India,VGA,Gannavaram,15:35,15,13,7,0,54,30,80
+BOM,AI 601,Air India,BHJ,Bhuj,06:20,14,13,1,0,8,15,32
+BOM,AI 603,Air India,GOI,Vasco da Gama,05:10,14,13,0,0,0,10,19
+BOM,AI 621,Air India,JAI,Jaipur,16:55,15,13,4,0,31,25,38
+BOM,AI 639,Air India,MAA,Chennai,22:55,15,12,4,0,33,24,71
+BOM,AI 681,Air India,COK,Kochi,16:55,15,13,3,0,23,21,54
+BOM,AI 816,Air India,DEL,New Delhi,21:00,14,10,5,1,50,34,92
 BOM,AI 866,Air India,DEL,New Delhi,18:30,1,0,0,1,,,
-BOM,BA 134,British,LHR,London,09:30,14,13,4,0,31,68,333
-BOM,BA 138,British,LHR,London,01:40,13,12,4,0,33,31,102
-BOM,BA 198,British,LHR,London,12:50,14,12,6,0,50,47,157
-BOM,CX 660,Cathay Pacific,HKG,Hong Kong,01:40,13,13,12,0,92,49,75
+BOM,BA 134,British,LHR,London,09:30,15,14,5,0,36,66,333
+BOM,BA 138,British,LHR,London,01:40,14,13,5,0,38,32,102
+BOM,BA 198,British,LHR,London,12:50,15,13,7,0,54,47,157
+BOM,CX 660,Cathay Pacific,HKG,Hong Kong,01:40,14,14,13,0,93,49,75
 BOM,CX 696,Cathay Pacific,HKG,Hong Kong,22:25,7,6,5,0,83,41,53
 BOM,CZ 5070,China Southern,CAN,Guangzhou,19:40,1,0,0,0,,,
 BOM,DD 939,Nok Air,DMK,Bangkok,02:10,2,0,0,0,,,
-BOM,EK 501,Emirates,DXB,Dubai,04:25,13,12,9,0,75,52,150
-BOM,EK 503,Emirates,DXB,Dubai,19:30,14,10,1,0,10,23,66
-BOM,EK 505,Emirates,DXB,Dubai,10:15,13,12,7,0,58,62,317
-BOM,EK 507,Emirates,DXB,Dubai,16:00,13,12,3,0,25,31,100
-BOM,EK 509,Emirates,DXB,Dubai,22:25,14,11,7,0,64,37,99
+BOM,EK 501,Emirates,DXB,Dubai,04:25,14,13,10,0,77,51,150
+BOM,EK 503,Emirates,DXB,Dubai,19:30,15,11,1,0,9,22,66
+BOM,EK 505,Emirates,DXB,Dubai,10:15,14,13,8,0,62,62,317
+BOM,EK 507,Emirates,DXB,Dubai,16:00,14,13,3,0,23,31,100
+BOM,EK 509,Emirates,DXB,Dubai,22:25,15,12,7,0,58,36,99
 BOM,EK 524,Emirates,HYD,Hyderabad,04:00,1,1,1,0,100,35,35
 BOM,ET 2641,Ethiopian,ADD,Addis Ababa,12:00,1,1,1,0,100,119,119
-BOM,ET 611,Ethiopian,ADD,Addis Ababa,04:05,13,12,2,0,17,23,108
-BOM,ET 641,Ethiopian,ADD,Addis Ababa,11:05,12,10,4,0,40,29,55
-BOM,EY 201,Etihad,AUH,Abu Dhabi,11:15,13,12,4,0,33,25,57
-BOM,EY 203,Etihad,AUH,Abu Dhabi,16:55,14,12,0,0,0,11,21
-BOM,EY 205,Etihad,AUH,Abu Dhabi,23:10,14,11,1,0,9,23,92
-BOM,EY 207,Etihad,AUH,Abu Dhabi,05:00,13,12,3,0,25,23,105
-BOM,F3 1664,flyadeal,DMM,Ad Dammam,08:40,2,1,1,0,100,105,105
+BOM,ET 611,Ethiopian,ADD,Addis Ababa,04:05,14,13,2,0,15,22,108
+BOM,ET 641,Ethiopian,ADD,Addis Ababa,11:05,13,11,5,0,45,30,55
+BOM,EY 201,Etihad,AUH,Abu Dhabi,11:15,14,13,5,0,38,27,57
+BOM,EY 203,Etihad,AUH,Abu Dhabi,16:55,15,13,0,0,0,13,29
+BOM,EY 205,Etihad,AUH,Abu Dhabi,23:10,15,12,1,0,8,23,92
+BOM,EY 207,Etihad,AUH,Abu Dhabi,05:00,14,13,3,0,23,23,105
+BOM,F3 1664,flyadeal,DMM,Ad Dammam,08:40,3,2,2,0,100,78,105
 BOM,F3 664,flyadeal,RUH,Riyadh,08:40,8,4,2,3,50,38,104
-BOM,FZ 446,flydubai,DXB,Dubai,05:20,9,9,8,0,89,85,168
-BOM,G9 402,Air Arabia,SHJ,Sharjah,21:55,14,10,5,0,50,47,142
-BOM,G9 406,Air Arabia,SHJ,Sharjah,04:55,13,12,12,0,100,76,100
-BOM,GF 57,Gulf Air,BAH,Manama,06:05,13,12,6,0,50,29,45
-BOM,GF 65,Gulf Air,BAH,Manama,21:45,14,10,4,0,40,34,94
+BOM,FZ 446,flydubai,DXB,Dubai,05:20,10,10,9,0,90,80,168
+BOM,G9 402,Air Arabia,SHJ,Sharjah,21:55,15,11,5,0,45,45,142
+BOM,G9 406,Air Arabia,SHJ,Sharjah,04:55,14,13,13,0,100,76,100
+BOM,GF 57,Gulf Air,BAH,Manama,06:05,14,13,6,0,46,27,45
+BOM,GF 65,Gulf Air,BAH,Manama,21:45,15,11,4,0,36,32,94
 BOM,IA 442,I A W,NJF,Najaf,04:00,2,2,2,0,100,37,41
-BOM,IX 1023,Air India Express,VNS,Varanasi,11:20,13,12,11,0,92,46,58
-BOM,IX 1026,Air India Express,LKO,Lucknow,05:50,13,12,1,0,8,16,33
-BOM,IX 1027,Air India Express,IXE,Mangalore,12:00,14,13,7,0,54,31,59
-BOM,IX 1050,Air India Express,DEL,New Delhi,14:45,13,12,5,0,42,43,115
-BOM,IX 1163,Air India Express,GOX,Mopa,20:45,14,11,8,0,73,67,163
-BOM,IX 1164,Air India Express,BBI,Bhubaneswar,17:30,13,12,11,0,92,46,77
-BOM,IX 1176,Air India Express,IXB,Siliguri,11:20,14,13,9,0,69,46,108
-BOM,IX 1219,Air India Express,JAI,Jaipur,20:10,14,13,5,0,38,24,63
-BOM,IX 1237,Air India Express,IXR,Ranchi,05:55,13,13,8,0,62,55,120
-BOM,IX 1238,Air India Express,GOI,Vasco da Gama,12:25,14,13,10,0,77,55,145
-BOM,IX 1242,Air India Express,GOI,Vasco da Gama,16:25,14,13,8,0,62,66,177
-BOM,IX 1280,Air India Express,JAI,Jaipur,06:10,13,12,3,0,25,10,63
-BOM,IX 1283,Air India Express,BBI,Bhubaneswar,09:05,13,12,1,0,8,16,30
-BOM,IX 1671,Air India Express,DEL,New Delhi,16:40,13,12,7,0,58,38,61
-BOM,IX 1787,Air India Express,BHO,Bhopal,13:10,14,13,7,0,54,38,67
-BOM,IX 1793,Air India Express,CJB,Coimbatore,05:35,13,12,0,0,0,8,17
-BOM,IX 1795,Air India Express,CJB,Coimbatore,19:55,13,11,6,0,55,46,194
-BOM,IX 1797,Air India Express,COK,Kochi,05:05,12,10,0,0,0,10,19
-BOM,IX 1801,Air India Express,COK,Kochi,20:20,14,10,9,0,90,53,100
-BOM,IX 1803,Air India Express,JDH,Jodhpur,11:05,13,12,7,0,58,52,211
-BOM,IX 1805,Air India Express,JGA,Jamnagar,10:50,12,11,3,0,27,56,352
-BOM,IX 1807,Air India Express,JGA,Jamnagar,15:35,14,11,3,1,27,30,109
-BOM,IX 1809,Air India Express,VNS,Varanasi,07:35,14,12,2,0,17,-45,100
-BOM,IX 1810,Air India Express,COK,Kochi,13:40,12,11,8,0,73,66,205
-BOM,IX 235,Air India Express,MCT,Muscat,22:05,14,11,7,0,64,47,164
-BOM,IX 2367,Air India Express,GOX,Mopa,07:20,13,12,5,0,42,25,40
-BOM,IX 251,Air India Express,SHJ,Sharjah,06:20,13,12,6,0,50,36,75
-BOM,IX 261,Air India Express,AUH,Abu Dhabi,21:10,14,11,6,0,55,51,108
+BOM,IX 1023,Air India Express,VNS,Varanasi,11:20,14,13,12,0,92,48,73
+BOM,IX 1026,Air India Express,LKO,Lucknow,05:50,14,13,1,0,8,16,33
+BOM,IX 1027,Air India Express,IXE,Mangalore,12:00,15,14,8,0,57,32,59
+BOM,IX 1050,Air India Express,DEL,New Delhi,14:45,14,13,6,0,46,43,115
+BOM,IX 1163,Air India Express,GOX,Mopa,20:45,15,12,9,0,75,68,163
+BOM,IX 1164,Air India Express,BBI,Bhubaneswar,17:30,14,13,12,0,92,49,84
+BOM,IX 1176,Air India Express,IXB,Siliguri,11:20,15,14,10,0,71,46,108
+BOM,IX 1219,Air India Express,JAI,Jaipur,20:10,15,14,6,0,43,24,63
+BOM,IX 1237,Air India Express,IXR,Ranchi,05:55,14,14,9,0,64,58,120
+BOM,IX 1238,Air India Express,GOI,Vasco da Gama,12:25,15,14,11,0,79,54,145
+BOM,IX 1242,Air India Express,GOI,Vasco da Gama,16:25,15,14,9,0,64,65,177
+BOM,IX 1280,Air India Express,JAI,Jaipur,06:10,14,13,3,0,23,10,63
+BOM,IX 1283,Air India Express,BBI,Bhubaneswar,09:05,14,13,2,0,15,19,55
+BOM,IX 1671,Air India Express,DEL,New Delhi,16:40,14,13,8,0,62,38,61
+BOM,IX 1787,Air India Express,BHO,Bhopal,13:10,15,14,7,0,50,37,67
+BOM,IX 1793,Air India Express,CJB,Coimbatore,05:35,14,13,0,0,0,7,17
+BOM,IX 1795,Air India Express,CJB,Coimbatore,19:55,14,12,6,0,50,44,194
+BOM,IX 1797,Air India Express,COK,Kochi,05:05,13,11,0,0,0,10,19
+BOM,IX 1801,Air India Express,COK,Kochi,20:20,15,11,10,0,91,53,100
+BOM,IX 1803,Air India Express,JDH,Jodhpur,11:05,14,13,8,0,62,52,211
+BOM,IX 1805,Air India Express,JGA,Jamnagar,10:50,13,12,3,0,25,54,352
+BOM,IX 1807,Air India Express,JGA,Jamnagar,15:35,15,12,4,1,33,30,109
+BOM,IX 1809,Air India Express,VNS,Varanasi,07:35,15,13,2,0,15,-45,100
+BOM,IX 1810,Air India Express,COK,Kochi,13:40,13,12,9,0,75,66,205
+BOM,IX 235,Air India Express,MCT,Muscat,22:05,15,12,7,0,58,44,164
+BOM,IX 2367,Air India Express,GOX,Mopa,07:20,14,13,6,0,46,27,52
+BOM,IX 251,Air India Express,SHJ,Sharjah,06:20,14,13,7,0,54,37,75
+BOM,IX 261,Air India Express,AUH,Abu Dhabi,21:10,15,12,7,0,58,49,108
 BOM,IX 5938,Air India Express,BLR,Bangalore,04:40,2,2,0,0,0,2,2
 BOM,IX 5985,Air India Express,BLR,Bangalore,15:35,1,1,0,0,0,20,20
 BOM,IX 5986,Air India Express,BLR,Bangalore,08:45,3,2,1,0,50,62,108
 BOM,IY 855,Yemenia,ADE,Aden,16:00,3,3,3,0,100,64,93
 BOM,IY 857,Yemenia,SAH,Sana'a,17:35,2,0,0,1,,,
-BOM,J2 60,AZAL Azerbaijan,GYD,Baku,02:25,13,12,4,0,33,37,124
-BOM,J9 1402,Jazeera,KWI,Kuwait City,15:05,3,3,1,0,33,12,35
-BOM,J9 402,Jazeera,KWI,Kuwait City,02:30,13,12,1,0,8,7,45
-BOM,KC 292,Air Astana,ALA,Almaty,05:50,5,5,1,0,20,28,74
-BOM,KL 878,KLM,AMS,Amsterdam,02:00,13,11,4,1,36,32,72
-BOM,KQ 203,Kenya,NBO,Nairobi,02:40,11,10,5,0,50,75,378
+BOM,J2 60,AZAL Azerbaijan,GYD,Baku,02:25,14,13,5,0,38,37,124
+BOM,J9 1402,Jazeera,KWI,Kuwait City,15:05,4,4,1,0,25,13,35
+BOM,J9 402,Jazeera,KWI,Kuwait City,02:30,14,13,1,0,8,8,45
+BOM,KC 292,Air Astana,ALA,Almaty,05:50,6,6,1,0,17,26,74
+BOM,KL 878,KLM,AMS,Amsterdam,02:00,14,11,4,2,36,32,72
+BOM,KQ 203,Kenya,NBO,Nairobi,02:40,12,11,6,0,55,72,378
 BOM,KQ 205,Kenya,NBO,Nairobi,06:45,3,3,2,0,67,35,62
 BOM,KU 302,Kuwait,KWI,Kuwait City,02:45,6,3,0,2,0,-1,6
-BOM,KU 304,Kuwait,KWI,Kuwait City,09:40,12,10,0,0,0,14,27
-BOM,LH 757,Lufthansa,FRA,Frankfurt-am-Main,02:40,13,12,11,0,92,57,162
-BOM,LH 767,Lufthansa,MUC,Munich,01:45,13,13,10,0,77,59,214
-BOM,LX 155,SWISS,ZRH,Zurich,00:40,13,13,3,0,23,22,38
+BOM,KU 304,Kuwait,KWI,Kuwait City,09:40,13,11,0,0,0,15,29
+BOM,LH 757,Lufthansa,FRA,Frankfurt-am-Main,02:40,14,13,11,0,85,54,162
+BOM,LH 767,Lufthansa,MUC,Munich,01:45,14,14,11,0,79,59,214
+BOM,LX 155,SWISS,ZRH,Zurich,00:40,14,14,3,0,21,22,38
 BOM,MH 175,Malaysia,KUL,Kuala Lumpur,13:15,7,7,5,0,71,46,68
-BOM,MH 195,Malaysia,KUL,Kuala Lumpur,23:25,13,10,7,0,70,47,102
+BOM,MH 195,Malaysia,KUL,Kuala Lumpur,23:25,15,12,8,0,67,44,102
 BOM,MK 749,Air Mauritius,MRU,Port Louis,08:35,6,6,3,0,50,37,71
-BOM,MS 969,EgyptAir,CAI,Cairo,03:00,9,8,1,0,13,17,82
-BOM,NH 830,ANA,NRT,Tokyo,19:30,14,10,5,0,50,39,91
+BOM,MS 969,EgyptAir,CAI,Cairo,03:00,10,9,2,0,22,21,82
+BOM,NH 830,ANA,NRT,Tokyo,19:30,15,11,5,0,45,38,91
 BOM,NH 9545,ANA,NRT,Tokyo,19:00,1,0,0,0,,,
-BOM,OD 216,Malindo Air,KUL,Kuala Lumpur,23:25,12,10,10,0,100,86,214
-BOM,OV 762,SalamAir,MCT,Muscat,05:25,12,12,3,0,25,21,46
-BOM,QP 1101,Akasa Air,AMD,Ahmedabad,07:35,13,12,6,0,50,26,49
-BOM,QP 1103,Akasa Air,AMD,Ahmedabad,20:35,13,10,4,0,40,33,48
-BOM,QP 1105,Akasa Air,GOX,Mopa,13:05,12,11,5,0,45,39,89
+BOM,OD 216,Malindo Air,KUL,Kuala Lumpur,23:25,14,11,11,1,100,96,214
+BOM,OV 762,SalamAir,MCT,Muscat,05:25,13,13,3,0,23,21,46
+BOM,QP 1101,Akasa Air,AMD,Ahmedabad,07:35,14,13,7,0,54,27,49
+BOM,QP 1103,Akasa Air,AMD,Ahmedabad,20:35,14,11,5,0,45,33,48
+BOM,QP 1105,Akasa Air,GOX,Mopa,13:05,13,12,6,0,50,39,89
 BOM,QP 1107,Akasa Air,CCU,Kolkata,20:10,5,0,0,2,,,
-BOM,QP 1109,Akasa Air,DEL,New Delhi,07:00,13,12,2,0,17,20,34
-BOM,QP 1120,Akasa Air,DEL,New Delhi,18:45,13,11,4,0,36,29,76
-BOM,QP 1121,Akasa Air,SXR,Srinagar,05:40,14,12,0,0,0,15,25
-BOM,QP 1123,Akasa Air,IXD,Allahabad,12:55,13,12,6,0,50,28,50
-BOM,QP 1125,Akasa Air,CCU,Kolkata,19:20,14,11,2,0,18,20,40
-BOM,QP 1127,Akasa Air,DEL,New Delhi,13:00,14,13,9,0,69,41,91
+BOM,QP 1109,Akasa Air,DEL,New Delhi,07:00,14,13,2,0,15,21,34
+BOM,QP 1120,Akasa Air,DEL,New Delhi,18:45,14,12,4,0,33,29,76
+BOM,QP 1121,Akasa Air,SXR,Srinagar,05:40,15,13,0,0,0,15,25
+BOM,QP 1123,Akasa Air,IXD,Allahabad,12:55,14,13,7,0,54,30,53
+BOM,QP 1125,Akasa Air,CCU,Kolkata,19:20,15,12,2,0,17,21,40
+BOM,QP 1127,Akasa Air,DEL,New Delhi,13:00,15,14,9,0,64,40,91
 BOM,QP 1129,Akasa Air,LKO,Lucknow,08:40,5,2,0,2,0,17,18
-BOM,QP 1131,Akasa Air,IXB,Siliguri,10:10,12,10,5,1,50,29,48
-BOM,QP 1133,Akasa Air,BLR,Bangalore,19:40,15,11,7,0,64,34,61
-BOM,QP 1135,Akasa Air,CCU,Kolkata,00:35,13,13,4,0,31,32,78
-BOM,QP 1137,Akasa Air,COK,Kochi,14:40,13,12,7,0,58,36,71
+BOM,QP 1131,Akasa Air,IXB,Siliguri,10:10,13,11,6,1,55,32,58
+BOM,QP 1133,Akasa Air,BLR,Bangalore,19:40,16,12,7,0,58,33,61
+BOM,QP 1135,Akasa Air,CCU,Kolkata,00:35,14,14,4,0,29,31,78
+BOM,QP 1137,Akasa Air,COK,Kochi,14:40,14,13,8,0,62,36,71
 BOM,QP 1139,Akasa Air,DBR,Darbhanga,10:10,10,10,7,0,70,33,54
-BOM,QP 1141,Akasa Air,GAU,Guwahati,13:35,14,13,8,0,62,32,59
-BOM,QP 1143,Akasa Air,IXB,Siliguri,08:20,13,12,5,0,42,26,46
-BOM,QP 1145,Akasa Air,MAA,Chennai,05:00,13,12,1,0,8,22,32
+BOM,QP 1141,Akasa Air,GAU,Guwahati,13:35,15,14,8,0,57,32,59
+BOM,QP 1143,Akasa Air,IXB,Siliguri,08:20,14,13,6,0,46,27,46
+BOM,QP 1145,Akasa Air,MAA,Chennai,05:00,14,13,1,0,8,21,32
 BOM,QP 1147,Akasa Air,CCU,Kolkata,06:45,2,0,0,2,,,
 BOM,QP 1149,Akasa Air,BLR,Bangalore,05:35,6,5,0,0,0,15,26
-BOM,QP 1153,Akasa Air,JAI,Jaipur,09:25,12,11,1,0,9,20,38
-BOM,QP 1155,Akasa Air,UDR,Udaipur,11:25,3,2,2,0,100,40,46
-BOM,QP 1175,Akasa Air,GOX,Mopa,18:25,14,12,1,0,8,23,44
-BOM,QP 1183,Akasa Air,CCU,Kolkata,17:15,13,11,7,0,64,37,80
-BOM,QP 1195,Akasa Air,AMD,Ahmedabad,19:20,14,10,5,0,50,41,90
-BOM,QP 1252,Akasa Air,CCU,Kolkata,06:50,13,12,4,0,33,26,39
-BOM,QP 1254,Akasa Air,CCU,Kolkata,20:55,13,10,7,0,70,32,41
+BOM,QP 1153,Akasa Air,JAI,Jaipur,09:25,13,12,2,0,17,22,47
+BOM,QP 1155,Akasa Air,UDR,Udaipur,11:25,4,3,3,0,100,46,58
+BOM,QP 1175,Akasa Air,GOX,Mopa,18:25,15,13,2,0,15,23,44
+BOM,QP 1183,Akasa Air,CCU,Kolkata,17:15,14,12,7,0,58,36,80
+BOM,QP 1195,Akasa Air,AMD,Ahmedabad,19:20,15,11,6,0,55,44,90
+BOM,QP 1252,Akasa Air,CCU,Kolkata,06:50,14,13,4,0,31,26,39
+BOM,QP 1254,Akasa Air,CCU,Kolkata,20:55,14,11,8,0,73,31,41
 BOM,QP 1382,Akasa Air,BLR,Bangalore,18:20,1,1,0,0,0,17,17
-BOM,QP 1427,Akasa Air,VNS,Varanasi,13:20,14,13,5,0,38,31,59
-BOM,QP 1429,Akasa Air,VNS,Varanasi,17:00,14,12,7,0,58,39,110
-BOM,QP 1516,Akasa Air,BLR,Bangalore,00:40,13,13,2,0,15,19,53
-BOM,QP 1518,Akasa Air,BLR,Bangalore,21:45,14,10,10,0,100,43,67
+BOM,QP 1427,Akasa Air,VNS,Varanasi,13:20,15,14,6,0,43,32,59
+BOM,QP 1429,Akasa Air,VNS,Varanasi,17:00,15,13,8,0,62,39,110
+BOM,QP 1516,Akasa Air,BLR,Bangalore,00:40,14,14,2,0,14,18,53
+BOM,QP 1518,Akasa Air,BLR,Bangalore,21:45,15,11,10,0,91,41,67
 BOM,QP 1554,Akasa Air,JAI,Jaipur,07:30,3,0,0,2,,,
 BOM,QP 1556,Akasa Air,BLR,Bangalore,14:40,2,0,0,0,,,
 BOM,QP 1808,Akasa Air,DEL,New Delhi,16:50,3,3,1,0,33,27,38
-BOM,QP 1819,Akasa Air,DEL,New Delhi,14:30,14,13,8,0,62,34,85
-BOM,QP 1825,Akasa Air,DEL,New Delhi,16:50,15,12,6,0,50,33,69
-BOM,QP 1834,Akasa Air,DEL,New Delhi,10:05,13,12,9,0,75,36,84
+BOM,QP 1819,Akasa Air,DEL,New Delhi,14:30,15,14,9,0,64,34,85
+BOM,QP 1825,Akasa Air,DEL,New Delhi,16:50,16,13,7,0,54,33,69
+BOM,QP 1834,Akasa Air,DEL,New Delhi,10:05,14,13,10,0,77,37,84
 BOM,QP 1835,Akasa Air,DEL,New Delhi,11:50,1,1,0,0,0,29,29
-BOM,QP 1837,Akasa Air,LKO,Lucknow,18:45,14,11,2,0,18,25,47
+BOM,QP 1837,Akasa Air,LKO,Lucknow,18:45,15,12,2,0,17,25,47
 BOM,QP 1911,Akasa Air,AMD,Ahmedabad,19:30,1,0,0,1,,,
 BOM,QP 1985,Akasa Air,BLR,Bangalore,23:20,2,2,0,0,0,18,22
 BOM,QP 552,Akasa Air,JED,Jeddah,17:20,11,5,1,5,20,23,35
 BOM,QP 561,Akasa Air,JED,Jeddah,04:20,11,5,1,6,20,22,33
 BOM,QP 571,Akasa Air,KWI,Kuwait City,18:05,3,0,0,2,,,
-BOM,QP 584,Akasa Air,AUH,Abu Dhabi,23:05,12,9,1,0,11,21,44
-BOM,QP 618,Akasa Air,HKT,Phuket,06:35,13,12,2,0,17,22,37
-BOM,QP 625,Akasa Air,HAN,Hanoi,05:25,7,6,0,0,0,14,19
+BOM,QP 584,Akasa Air,AUH,Abu Dhabi,23:05,13,10,1,0,10,20,44
+BOM,QP 618,Akasa Air,HKT,Phuket,06:35,14,13,3,0,23,23,37
+BOM,QP 625,Akasa Air,HAN,Hanoi,05:25,8,7,0,0,0,13,19
 BOM,QP 6505,Akasa Air,IXR,Ranchi,09:55,1,1,0,0,0,17,17
 BOM,QP 70,Akasa Air,DOH,Doha,18:25,2,0,0,1,,,
 BOM,QP 9124,Akasa Air,DEL,New Delhi,07:45,1,1,1,0,100,43,43
-BOM,QR 557,Qatar,DOH,Doha,04:10,13,12,9,0,75,41,77
-BOM,RA 202,Nepal,KTM,Kathmandu,17:30,4,4,3,0,75,64,105
+BOM,QR 557,Qatar,DOH,Doha,04:10,14,13,10,0,77,41,77
+BOM,RA 202,Nepal,KTM,Kathmandu,17:30,5,5,4,0,80,64,105
 BOM,RJ 191,Royal Jordanian,AMM,Amman,06:10,4,4,1,0,25,16,50
 BOM,RJ 193,Royal Jordanian,AMM,Amman,09:25,4,3,1,0,33,19,46
-BOM,RX 698,Riyadh Air,RUH,Riyadh,22:05,14,4,3,8,75,65,113
+BOM,RX 698,Riyadh Air,RUH,Riyadh,22:05,15,4,3,9,75,65,113
 BOM,S5 164,Star Air,KLH,Kolkhapur,09:45,7,6,1,0,17,20,43
-BOM,S5 9371,Star Air,AMD,Ahmedabad,17:30,1,1,1,0,100,48,48
-BOM,SG 115,SpiceJet,DBR,Darbhanga,07:30,2,0,0,1,,,
+BOM,S5 9371,Star Air,AMD,Ahmedabad,16:00,2,2,1,0,50,39,48
+BOM,SG 115,SpiceJet,DBR,Darbhanga,07:30,3,0,0,2,,,
 BOM,SG 134,SpiceJet,CCU,Kolkata,06:05,6,5,4,0,80,201,397
 BOM,SG 136,SpiceJet,CCU,Kolkata,19:00,6,6,6,0,100,354,606
 BOM,SG 164,SpiceJet,DEL,New Delhi,23:15,6,4,3,0,75,64,133
 BOM,SG 2803,SpiceJet,DEL,New Delhi,01:35,7,6,5,1,83,120,227
-BOM,SG 5060,SpiceJet,DXB,Dubai,09:05,11,9,7,2,78,579,1071
-BOM,SG 5113,SpiceJet,DXB,Dubai,12:55,11,8,3,3,38,380,1070
+BOM,SG 487,SpiceJet,BLR,Bangalore,20:55,1,1,1,0,100,285,285
+BOM,SG 488,SpiceJet,CCU,Kolkata,07:35,1,1,1,0,100,346,346
+BOM,SG 5060,SpiceJet,DXB,Dubai,09:05,12,10,8,2,80,603,1071
+BOM,SG 5113,SpiceJet,DXB,Dubai,12:55,12,9,4,3,44,427,1070
 BOM,SG 553,SpiceJet,GOP,Gorakhpur,14:50,1,0,0,1,,,
-BOM,SG 803,SpiceJet,DEL,New Delhi,01:55,4,0,0,3,,,
+BOM,SG 640,SpiceJet,IXB,Siliguri,09:00,1,1,1,0,100,181,181
+BOM,SG 642,SpiceJet,BLR,Bangalore,16:10,1,1,1,0,100,265,265
+BOM,SG 803,SpiceJet,DEL,New Delhi,01:55,5,0,0,4,,,
 BOM,SG 9004,SpiceJet,BHJ,Bhuj,07:30,1,1,1,0,100,35,35
 BOM,SG 9005,SpiceJet,BHJ,Bhuj,08:55,1,0,0,1,,,
 BOM,SG 9060,SpiceJet,DXB,Dubai,06:55,2,2,2,0,100,368,520
@@ -997,317 +1013,317 @@ BOM,SG 9401,SpiceJet,DEL,New Delhi,09:45,1,1,1,0,100,1010,1010
 BOM,SG 9605,SpiceJet,NJF,Najaf,10:00,1,1,1,0,100,142,142
 BOM,SG 9801,SpiceJet,DEL,New Delhi,16:40,1,1,1,0,100,80,80
 BOM,SG 9913,SpiceJet,DXB,Dubai,08:45,1,1,1,0,100,90,90
-BOM,SK 970,SAS,CPH,Copenhagen,06:30,9,9,5,0,56,26,39
-BOM,SQ 421,Singapore,SIN,Singapore,11:45,14,13,12,0,92,47,88
-BOM,SQ 423,Singapore,SIN,Singapore,23:40,13,11,4,0,36,44,169
-BOM,SV 741,Saudi Arabian,JED,Jeddah,08:05,1,1,1,0,100,49,49
-BOM,SV 771,Saudi Arabian,JED,Jeddah,11:00,9,9,6,0,67,142,869
-BOM,SV 773,Saudi Arabian,JED,Jeddah,02:30,9,8,4,0,50,65,209
-BOM,TC 401,Air Tanzania,DAR,Dar es Salaam,05:50,13,12,12,0,100,124,265
-BOM,TG 318,Thai  International,BKK,Bangkok,23:35,14,12,2,0,17,17,69
-BOM,TG 352,Thai  International,BKK,Bangkok,02:40,13,10,0,0,0,8,27
-BOM,TK 721,Turkish,IST,Istanbul,06:55,13,12,8,0,67,36,56
-BOM,UL 142,SriLankan,CMB,Colombo,03:10,13,12,6,0,50,35,87
-BOM,UL 144,SriLankan,CMB,Colombo,20:40,14,9,7,1,78,54,134
-BOM,UR 431,Uganda,EBB,Kampala,01:10,3,2,1,0,50,47,70
-BOM,VJ 884,VietJetAir,SGN,Ho Chi Minh City,00:15,7,7,5,0,71,47,99
+BOM,SK 970,SAS,CPH,Copenhagen,06:30,10,10,5,0,50,26,39
+BOM,SQ 421,Singapore,SIN,Singapore,11:45,15,14,13,0,93,48,88
+BOM,SQ 423,Singapore,SIN,Singapore,23:40,15,13,4,0,31,40,169
+BOM,SV 741,Saudi Arabian,MED,Medina,08:05,2,2,1,0,50,36,49
+BOM,SV 771,Saudi Arabian,JED,Jeddah,11:00,10,10,7,0,70,135,869
+BOM,SV 773,Saudi Arabian,JED,Jeddah,02:30,10,9,5,0,56,78,209
+BOM,TC 401,Air Tanzania,DAR,Dar es Salaam,05:50,14,13,13,0,100,120,265
+BOM,TG 318,Thai  International,BKK,Bangkok,23:35,15,13,2,0,15,16,69
+BOM,TG 352,Thai  International,BKK,Bangkok,02:40,14,11,0,0,0,9,27
+BOM,TK 721,Turkish,IST,Istanbul,06:55,14,13,9,0,69,38,64
+BOM,UL 142,SriLankan,CMB,Colombo,03:10,14,13,7,0,54,37,87
+BOM,UL 144,SriLankan,CMB,Colombo,20:40,15,10,8,1,80,54,134
+BOM,UR 431,Uganda,EBB,Kampala,01:10,4,3,1,0,33,36,70
+BOM,VJ 884,VietJetAir,SGN,Ho Chi Minh City,00:15,8,8,6,0,75,53,99
 BOM,VJ 910,VietJetAir,HAN,Hanoi,00:40,6,6,1,0,17,19,67
-BOM,VN 972,Vietnam,HAN,Hanoi,23:10,8,5,2,0,40,32,80
+BOM,VN 972,Vietnam,HAN,Hanoi,23:10,9,6,2,0,33,27,80
 BOM,VN 978,Vietnam,SGN,Ho Chi Minh City,23:10,6,6,1,0,17,25,62
-BOM,VS 355,Virgin Atlantic,LHR,London,11:25,13,12,7,0,58,34,65
-BOM,VS 359,Virgin Atlantic,LHR,London,04:25,13,12,1,0,8,18,37
-BOM,VZ 761,Thai Vietjet Air,BKK,Bangkok,00:55,13,13,13,0,100,56,103
-BOM,WY 202,Oman Air,MCT,Muscat,10:15,11,10,4,0,40,38,132
-BOM,WY 204,Oman Air,MCT,Muscat,14:30,10,9,3,0,33,26,49
-BOM,XY 322,flynas,RUH,Riyadh,03:55,10,5,4,5,80,91,202
-HYD,6E 1027,IndiGo,SIN,Singapore,21:20,13,12,5,0,42,31,49
-HYD,6E 108,IndiGo,IXC,Chandigarh,13:20,13,13,5,0,38,32,83
-HYD,6E 1117,IndiGo,DAC,Dhaka,11:55,13,9,2,0,22,22,59
-HYD,6E 1181,IndiGo,CMB,Colombo,12:00,11,11,3,0,27,21,47
-HYD,6E 121,IndiGo,GOI,Vasco da Gama,15:35,13,13,0,0,0,15,28
-HYD,6E 1235,IndiGo,KWI,Kuwait City,19:15,13,13,3,0,23,29,98
-HYD,6E 1273,IndiGo,MCT,Muscat,00:05,13,12,1,0,8,14,35
-HYD,6E 1313,IndiGo,DOH,Doha,04:30,13,13,0,0,0,11,28
-HYD,6E 1315,IndiGo,DOH,Doha,15:40,13,13,0,0,0,13,20
-HYD,6E 134,IndiGo,AMD,Ahmedabad,08:25,13,13,0,0,0,7,18
-HYD,6E 1407,IndiGo,AUH,Abu Dhabi,20:25,13,13,4,0,31,34,93
-HYD,6E 1421,IndiGo,SHJ,Sharjah,20:30,13,13,1,0,8,15,45
-HYD,6E 1448,IndiGo,AUH,Abu Dhabi,03:45,13,13,0,0,0,5,20
-HYD,6E 1465,IndiGo,DXB,Dubai,08:10,13,13,2,0,15,16,41
-HYD,6E 149,IndiGo,PAT,Siliguri,13:25,13,12,4,0,33,31,59
+BOM,VS 355,Virgin Atlantic,LHR,London,11:25,14,13,8,0,62,35,65
+BOM,VS 359,Virgin Atlantic,LHR,London,04:25,14,13,2,0,15,19,37
+BOM,VZ 761,Thai Vietjet Air,BKK,Bangkok,00:55,14,14,14,0,100,66,200
+BOM,WY 202,Oman Air,MCT,Muscat,10:15,12,11,5,0,45,39,132
+BOM,WY 204,Oman Air,MCT,Muscat,14:30,11,10,4,0,40,30,67
+BOM,XY 322,flynas,RUH,Riyadh,03:55,11,5,4,6,80,91,202
+HYD,6E 1027,IndiGo,SIN,Singapore,21:20,14,13,5,0,38,31,49
+HYD,6E 108,IndiGo,IXC,Chandigarh,13:20,14,14,5,0,36,32,83
+HYD,6E 1117,IndiGo,DAC,Dhaka,11:55,14,9,2,0,22,22,59
+HYD,6E 1181,IndiGo,CMB,Colombo,12:00,12,12,3,0,25,20,47
+HYD,6E 121,IndiGo,GOI,Vasco da Gama,15:35,14,14,1,0,7,17,34
+HYD,6E 1235,IndiGo,KWI,Kuwait City,19:15,14,14,3,0,21,28,98
+HYD,6E 1273,IndiGo,MCT,Muscat,00:05,14,13,1,0,8,15,35
+HYD,6E 1313,IndiGo,DOH,Doha,04:30,14,14,0,0,0,11,28
+HYD,6E 1315,IndiGo,DOH,Doha,15:40,14,14,1,0,7,15,31
+HYD,6E 134,IndiGo,AMD,Ahmedabad,08:25,14,14,0,0,0,8,18
+HYD,6E 1407,IndiGo,AUH,Abu Dhabi,20:25,14,14,4,0,29,33,93
+HYD,6E 1421,IndiGo,SHJ,Sharjah,20:30,14,14,1,0,7,14,45
+HYD,6E 1448,IndiGo,AUH,Abu Dhabi,03:45,14,14,0,0,0,4,20
+HYD,6E 1465,IndiGo,DXB,Dubai,08:10,14,14,2,0,14,15,41
+HYD,6E 149,IndiGo,PAT,Siliguri,13:25,14,13,4,0,31,29,59
 HYD,6E 1495,IndiGo,RKT,Ras Al Khaimah,23:55,7,7,0,0,0,12,19
-HYD,6E 1509,IndiGo,BKK,Bangkok,05:40,13,13,3,0,23,15,35
-HYD,6E 151,IndiGo,BLR,Bangalore,07:40,13,13,0,0,0,7,17
-HYD,6E 179,IndiGo,LKO,Lucknow,06:35,11,10,1,0,10,13,32
-HYD,6E 186,IndiGo,IXR,Ranchi,18:35,13,13,2,0,15,18,45
+HYD,6E 1509,IndiGo,BKK,Bangkok,05:40,14,14,3,0,21,16,35
+HYD,6E 151,IndiGo,BLR,Bangalore,07:40,14,14,0,0,0,8,23
+HYD,6E 179,IndiGo,LKO,Lucknow,06:35,12,11,1,0,9,13,32
+HYD,6E 186,IndiGo,IXR,Ranchi,18:35,14,14,3,0,21,21,55
 HYD,6E 1CA,IndiGo,IXU,Aurangabad,06:51,1,1,0,0,0,0,0
-HYD,6E 2015,IndiGo,NMI,Mumbai,16:40,9,9,1,0,11,19,38
-HYD,6E 2073,IndiGo,TRZ,Tiruchirappally,15:30,13,13,1,0,8,14,34
-HYD,6E 208,IndiGo,VTZ,Visakhapatnam,17:15,12,11,1,0,9,13,43
-HYD,6E 2084,IndiGo,NMI,Mumbai,21:05,13,12,3,0,25,28,78
-HYD,6E 2101,IndiGo,CNN,Kannur,16:40,9,9,1,0,11,11,30
-HYD,6E 216,IndiGo,AMD,Ahmedabad,21:15,13,13,1,0,8,14,31
-HYD,6E 2185,IndiGo,PAT,Patna,19:05,7,7,1,0,14,18,38
-HYD,6E 2257,IndiGo,CCU,Kolkata,22:15,13,12,2,0,17,26,72
-HYD,6E 243,IndiGo,MAA,Chennai,07:05,13,11,0,0,0,8,19
+HYD,6E 2015,IndiGo,NMI,Mumbai,16:40,10,10,2,0,20,21,38
+HYD,6E 2073,IndiGo,TRZ,Tiruchirappally,15:30,14,14,1,0,7,14,34
+HYD,6E 208,IndiGo,VTZ,Visakhapatnam,17:15,13,12,1,0,8,13,43
+HYD,6E 2084,IndiGo,NMI,Mumbai,21:05,14,12,3,0,25,28,78
+HYD,6E 2101,IndiGo,CNN,Kannur,16:40,10,10,1,0,10,11,30
+HYD,6E 216,IndiGo,AMD,Ahmedabad,21:15,14,14,1,0,7,13,31
+HYD,6E 2185,IndiGo,PAT,Patna,19:05,8,8,1,0,13,17,38
+HYD,6E 2257,IndiGo,CCU,Kolkata,22:15,14,13,2,0,15,24,72
+HYD,6E 243,IndiGo,MAA,Chennai,07:05,14,12,0,0,0,8,19
 HYD,6E 243K,IndiGo,PNQ,Pune,11:03,2,2,0,0,0,0,0
-HYD,6E 283,IndiGo,CCU,Kolkata,17:55,13,12,3,0,25,23,42
-HYD,6E 285,IndiGo,BLR,Bangalore,20:00,13,11,1,0,9,16,32
-HYD,6E 297,IndiGo,UDR,Udaipur,14:15,13,13,0,0,0,16,26
+HYD,6E 283,IndiGo,CCU,Kolkata,17:55,14,13,3,0,23,22,42
+HYD,6E 285,IndiGo,BLR,Bangalore,20:00,14,12,1,0,8,15,32
+HYD,6E 297,IndiGo,UDR,Udaipur,14:15,14,14,0,0,0,16,26
 HYD,6E 309W,IndiGo,BLR,Bangalore,14:50,3,3,0,0,0,0,0
-HYD,6E 311,IndiGo,PNQ,Pune,12:50,13,13,6,0,46,27,125
-HYD,6E 314,IndiGo,BLR,Bangalore,16:30,13,13,4,0,31,25,67
-HYD,6E 337,IndiGo,PNQ,Pune,01:10,13,13,0,0,0,5,14
-HYD,6E 351,IndiGo,PNQ,Pune,04:35,13,13,0,0,0,1,11
-HYD,6E 362,IndiGo,GOI,Vasco da Gama,11:20,13,12,3,0,25,21,43
-HYD,6E 371,IndiGo,MAA,Chennai,07:55,12,12,0,0,0,9,18
+HYD,6E 311,IndiGo,PNQ,Pune,12:50,14,14,6,0,43,26,125
+HYD,6E 314,IndiGo,BLR,Bangalore,16:30,14,14,5,0,36,27,67
+HYD,6E 337,IndiGo,PNQ,Pune,01:10,14,14,0,0,0,5,14
+HYD,6E 351,IndiGo,PNQ,Pune,04:35,14,14,0,0,0,1,11
+HYD,6E 362,IndiGo,GOI,Vasco da Gama,11:20,14,13,3,0,23,20,43
+HYD,6E 371,IndiGo,MAA,Chennai,07:55,13,13,0,0,0,8,18
 HYD,6E 371W,IndiGo,CCU,Kolkata,19:59,1,1,0,0,0,0,0
 HYD,6E 373H,IndiGo,TRV,Trivandrum,00:21,1,1,0,0,0,0,0
-HYD,6E 376,IndiGo,CCU,Kolkata,11:55,13,13,5,0,38,30,63
-HYD,6E 392,IndiGo,VNS,Varanasi,09:15,13,12,0,0,0,9,21
+HYD,6E 376,IndiGo,CCU,Kolkata,11:55,14,14,5,0,36,29,63
+HYD,6E 392,IndiGo,VNS,Varanasi,09:15,14,13,0,0,0,9,21
 HYD,6E 402,IndiGo,PNQ,Pune,15:35,2,2,0,0,0,7,14
-HYD,6E 409,IndiGo,VTZ,Visakhapatnam,13:10,13,13,1,0,8,29,250
-HYD,6E 413,IndiGo,BLR,Bangalore,06:30,13,13,0,0,0,7,20
-HYD,6E 421,IndiGo,IXR,Ranchi,09:15,13,12,1,0,8,11,35
-HYD,6E 422,IndiGo,DED,Dehradun,10:25,13,12,0,0,0,9,24
-HYD,6E 426,IndiGo,PNQ,Pune,20:20,13,13,4,0,31,27,91
-HYD,6E 468,IndiGo,CJB,Coimbatore,10:10,13,13,0,0,0,12,23
-HYD,6E 501,IndiGo,VNS,Varanasi,16:15,13,13,2,0,15,13,36
-HYD,6E 5039,IndiGo,BOM,Mumbai,19:00,13,13,4,0,31,28,83
-HYD,6E 504,IndiGo,VTZ,Visakhapatnam,14:20,13,13,4,0,31,23,42
-HYD,6E 5099,IndiGo,BOM,Mumbai,14:15,13,13,1,0,8,17,34
-HYD,6E 514,IndiGo,MAA,Chennai,14:10,13,13,8,0,62,31,55
-HYD,6E 5143,IndiGo,BOM,Mumbai,03:00,13,13,0,0,0,4,21
-HYD,6E 5174,IndiGo,BOM,Mumbai,09:30,13,13,1,0,8,11,39
-HYD,6E 5203,IndiGo,BOM,Mumbai,22:05,13,12,5,0,42,32,75
-HYD,6E 5209,IndiGo,AMD,Ahmedabad,06:20,13,13,0,0,0,7,14
-HYD,6E 5213,IndiGo,BOM,Mumbai,08:00,13,13,0,0,0,8,15
+HYD,6E 409,IndiGo,VTZ,Visakhapatnam,13:10,14,14,1,0,7,28,250
+HYD,6E 413,IndiGo,BLR,Bangalore,06:30,14,14,0,0,0,7,20
+HYD,6E 421,IndiGo,IXR,Ranchi,09:15,14,13,1,0,8,11,35
+HYD,6E 422,IndiGo,DED,Dehradun,10:25,14,13,0,0,0,9,24
+HYD,6E 426,IndiGo,PNQ,Pune,20:20,14,14,5,0,36,28,91
+HYD,6E 468,IndiGo,CJB,Coimbatore,10:10,14,14,0,0,0,12,23
+HYD,6E 501,IndiGo,VNS,Varanasi,16:15,14,14,2,0,14,12,36
+HYD,6E 5039,IndiGo,BOM,Mumbai,19:00,14,14,4,0,29,27,83
+HYD,6E 504,IndiGo,VTZ,Visakhapatnam,14:20,14,14,4,0,29,23,42
+HYD,6E 5099,IndiGo,BOM,Mumbai,14:15,14,14,1,0,7,17,34
+HYD,6E 514,IndiGo,MAA,Chennai,14:10,14,14,8,0,57,29,55
+HYD,6E 5143,IndiGo,BOM,Mumbai,03:00,14,14,0,0,0,4,21
+HYD,6E 5174,IndiGo,BOM,Mumbai,09:30,14,14,1,0,7,10,39
+HYD,6E 5203,IndiGo,BOM,Mumbai,22:05,14,13,6,0,46,34,75
+HYD,6E 5209,IndiGo,AMD,Ahmedabad,06:20,14,14,0,0,0,8,16
+HYD,6E 5213,IndiGo,BOM,Mumbai,08:00,14,14,0,0,0,8,15
 HYD,6E 522,IndiGo,PNQ,Pune,13:40,2,2,0,0,0,17,18
-HYD,6E 5245,IndiGo,BOM,Mumbai,05:00,13,13,0,0,0,-1,3
-HYD,6E 5259,IndiGo,BOM,Mumbai,17:20,13,13,5,0,38,27,53
-HYD,6E 5278,IndiGo,TRV,Trivandrum,06:10,13,13,0,0,0,4,11
-HYD,6E 537,IndiGo,DBR,Darbhanga,12:10,13,13,1,0,8,16,35
-HYD,6E 5381,IndiGo,TRV,Trivandrum,21:40,13,11,1,0,9,18,33
-HYD,6E 5384,IndiGo,BOM,Mumbai,12:55,13,12,1,0,8,11,36
-HYD,6E 567,IndiGo,GAU,Guwahati,17:35,13,13,1,0,8,15,35
+HYD,6E 5245,IndiGo,BOM,Mumbai,05:00,14,14,0,0,0,-1,3
+HYD,6E 5259,IndiGo,BOM,Mumbai,17:20,14,14,6,0,43,29,56
+HYD,6E 5278,IndiGo,TRV,Trivandrum,06:10,14,14,0,0,0,3,11
+HYD,6E 537,IndiGo,DBR,Darbhanga,12:10,14,14,1,0,7,15,35
+HYD,6E 5381,IndiGo,TRV,Trivandrum,21:40,14,12,1,0,8,17,33
+HYD,6E 5384,IndiGo,BOM,Mumbai,12:55,14,13,2,0,15,12,36
+HYD,6E 567,IndiGo,GAU,Guwahati,17:35,14,14,1,0,7,14,35
 HYD,6E 567E,IndiGo,BLR,Bangalore,20:13,2,2,0,0,0,0,0
-HYD,6E 57,IndiGo,MED,Medina,17:40,8,7,1,1,14,24,47
-HYD,6E 576,IndiGo,PNQ,Pune,16:15,3,3,0,0,0,10,16
-HYD,6E 598,IndiGo,MAA,Chennai,17:55,13,9,4,0,44,27,40
-HYD,6E 6025,IndiGo,DEL,New Delhi,23:50,12,11,1,0,9,17,35
-HYD,6E 6031,IndiGo,DEL,New Delhi,13:00,13,13,2,0,15,22,47
-HYD,6E 6043,IndiGo,DEL,New Delhi,19:10,13,13,4,0,31,25,39
-HYD,6E 6062,IndiGo,SAG,Shirdi,13:50,13,12,1,0,8,16,32
-HYD,6E 6066,IndiGo,BLR,Bangalore,09:35,13,13,3,0,23,18,47
-HYD,6E 612,IndiGo,GAU,Guwahati,08:35,3,3,0,0,0,10,12
+HYD,6E 57,IndiGo,MED,Medina,17:40,9,7,1,2,14,24,47
+HYD,6E 576,IndiGo,PNQ,Pune,16:15,4,4,0,0,0,8,16
+HYD,6E 598,IndiGo,MAA,Chennai,17:55,14,10,4,0,40,26,40
+HYD,6E 6025,IndiGo,DEL,New Delhi,23:50,14,13,1,0,8,16,35
+HYD,6E 6031,IndiGo,DEL,New Delhi,13:00,14,14,2,0,14,21,47
+HYD,6E 6043,IndiGo,DEL,New Delhi,19:10,14,14,4,0,29,25,39
+HYD,6E 6062,IndiGo,SAG,Shirdi,13:50,14,13,1,0,8,15,32
+HYD,6E 6066,IndiGo,BLR,Bangalore,09:35,14,14,3,0,21,17,47
+HYD,6E 612,IndiGo,GAU,Guwahati,08:35,4,4,0,0,0,10,12
 HYD,6E 6146,IndiGo,DED,Dehradun,15:05,4,4,0,0,0,7,9
 HYD,6E 614H,IndiGo,MAA,Chennai,07:06,1,1,0,0,0,0,0
-HYD,6E 6151,IndiGo,MAA,Chennai,10:00,13,13,1,0,8,14,35
-HYD,6E 6167,IndiGo,LKO,Lucknow,18:05,13,13,7,0,54,33,57
-HYD,6E 6174,IndiGo,MAA,Chennai,21:10,13,12,7,0,58,43,101
-HYD,6E 6196,IndiGo,BOM,Mumbai,06:30,13,13,0,0,0,9,19
-HYD,6E 6202,IndiGo,DEL,New Delhi,11:35,13,13,3,0,23,19,57
-HYD,6E 6207,IndiGo,PAT,Patna,05:45,13,13,0,0,0,9,29
-HYD,6E 621,IndiGo,IDR,Indore,20:25,13,13,5,0,38,28,71
-HYD,6E 6223,IndiGo,PAT,Patna,15:25,13,13,3,0,23,22,43
-HYD,6E 6234,IndiGo,COK,Kochi,16:05,13,13,1,0,8,15,32
-HYD,6E 6242,IndiGo,BBI,Bhubaneswar,07:25,13,13,0,0,0,6,15
-HYD,6E 6252,IndiGo,IXC,Chandigarh,19:40,13,13,4,0,31,22,70
-HYD,6E 6263,IndiGo,RPR,Raipur,14:05,13,13,9,0,69,36,66
-HYD,6E 6281,IndiGo,DEL,New Delhi,10:00,13,11,2,0,18,18,51
-HYD,6E 6294,IndiGo,VNS,Varanasi,12:35,13,13,2,0,15,17,42
-HYD,6E 6296,IndiGo,TIR,Tirumala - Tirupati,12:40,13,11,0,0,0,7,16
-HYD,6E 6305,IndiGo,IXZ,Port Blair,06:15,13,13,0,0,0,8,18
-HYD,6E 6308,IndiGo,CJB,Coimbatore,18:15,13,12,5,0,42,33,58
-HYD,6E 6323,IndiGo,UDR,Udaipur,07:50,13,13,2,0,15,15,45
-HYD,6E 6329,IndiGo,GOI,Vasco da Gama,18:20,13,13,8,0,62,35,93
-HYD,6E 6363,IndiGo,BOM,Mumbai,23:30,12,11,7,0,64,37,136
-HYD,6E 6372,IndiGo,DEL,New Delhi,16:25,13,10,3,0,30,35,133
-HYD,6E 6405,IndiGo,BLR,Bangalore,14:30,13,10,3,0,30,26,39
-HYD,6E 6408,IndiGo,VTZ,Visakhapatnam,07:10,13,11,2,0,18,16,32
+HYD,6E 6151,IndiGo,MAA,Chennai,10:00,14,14,1,0,7,14,35
+HYD,6E 6167,IndiGo,LKO,Lucknow,18:05,14,14,7,0,50,31,57
+HYD,6E 6174,IndiGo,MAA,Chennai,21:10,14,13,7,0,54,40,101
+HYD,6E 6196,IndiGo,BOM,Mumbai,06:30,14,14,0,0,0,8,19
+HYD,6E 6202,IndiGo,DEL,New Delhi,11:35,14,14,3,0,21,18,57
+HYD,6E 6207,IndiGo,PAT,Patna,05:45,14,14,0,0,0,10,29
+HYD,6E 621,IndiGo,IDR,Indore,20:25,14,14,5,0,36,27,71
+HYD,6E 6223,IndiGo,PAT,Patna,15:25,14,14,3,0,21,23,43
+HYD,6E 6234,IndiGo,COK,Kochi,16:05,14,14,1,0,7,15,32
+HYD,6E 6242,IndiGo,BBI,Bhubaneswar,07:25,14,14,0,0,0,6,15
+HYD,6E 6252,IndiGo,IXC,Chandigarh,19:40,14,14,5,0,36,23,70
+HYD,6E 6263,IndiGo,RPR,Raipur,14:05,14,14,9,0,64,34,66
+HYD,6E 6281,IndiGo,DEL,New Delhi,10:00,14,12,3,0,25,20,51
+HYD,6E 6294,IndiGo,VNS,Varanasi,12:35,14,14,2,0,14,17,42
+HYD,6E 6296,IndiGo,TIR,Tirumala - Tirupati,12:40,14,12,1,0,8,11,52
+HYD,6E 6305,IndiGo,IXZ,Port Blair,06:15,14,14,0,0,0,8,18
+HYD,6E 6308,IndiGo,CJB,Coimbatore,18:15,14,13,5,0,38,31,58
+HYD,6E 6323,IndiGo,UDR,Udaipur,07:50,14,14,2,0,14,15,45
+HYD,6E 6329,IndiGo,GOI,Vasco da Gama,18:20,14,14,8,0,57,34,93
+HYD,6E 6363,IndiGo,BOM,Mumbai,23:30,14,13,8,0,62,35,136
+HYD,6E 6372,IndiGo,DEL,New Delhi,16:25,14,11,3,0,27,33,133
+HYD,6E 6405,IndiGo,BLR,Bangalore,14:30,14,11,3,0,27,26,39
+HYD,6E 6408,IndiGo,VTZ,Visakhapatnam,07:10,14,12,2,0,17,16,32
 HYD,6E 6409,IndiGo,SXR,Srinagar,12:15,4,4,1,0,25,28,59
-HYD,6E 6411,IndiGo,RJA,Rajahmundry,08:00,13,13,1,0,8,13,33
-HYD,6E 6417,IndiGo,BLR,Bangalore,17:45,13,13,6,0,46,39,91
-HYD,6E 6471,IndiGo,PNQ,Pune,10:50,13,9,4,0,44,31,70
-HYD,6E 6481,IndiGo,BDQ,Vadodara,14:25,13,12,9,0,75,36,62
-HYD,6E 6486,IndiGo,MAA,Chennai,19:00,13,13,7,0,54,33,57
-HYD,6E 6494,IndiGo,CCU,Kolkata,05:55,13,13,1,0,8,12,76
-HYD,6E 6505,IndiGo,BLR,Bangalore,21:35,13,12,6,0,50,27,65
-HYD,6E 6533,IndiGo,TIR,Tirumala - Tirupati,18:10,13,11,3,0,27,19,54
-HYD,6E 6540,IndiGo,TIR,Tirumala - Tirupati,15:35,13,13,1,0,8,11,41
-HYD,6E 6565,IndiGo,TIR,Tirumala - Tirupati,19:10,13,13,2,0,15,12,34
-HYD,6E 6574,IndiGo,VGA,Vidzhayavada,12:05,13,13,1,0,8,15,55
-HYD,6E 6617,IndiGo,MAA,Chennai,22:25,13,12,2,0,17,21,93
-HYD,6E 6638,IndiGo,JAI,Jaipur,19:30,13,13,4,0,31,24,50
-HYD,6E 664,IndiGo,CCU,Kolkata,08:15,13,13,0,0,0,13,17
-HYD,6E 6646,IndiGo,CJB,Coimbatore,07:20,13,13,0,0,0,11,21
-HYD,6E 6682,IndiGo,GOX,Mopa,13:55,13,12,0,0,0,13,22
-HYD,6E 67,IndiGo,JED,Jeddah,17:10,13,7,1,0,14,17,50
-HYD,6E 6707,IndiGo,COK,Kochi,09:55,13,13,0,0,0,4,12
-HYD,6E 6719,IndiGo,PAT,Patna,08:30,13,13,0,0,0,14,26
-HYD,6E 6727,IndiGo,AMD,Ahmedabad,18:15,13,13,0,0,0,18,29
-HYD,6E 6781,IndiGo,IXM,Madurai,15:00,13,10,2,0,20,23,56
-HYD,6E 6783,IndiGo,BLR,Bangalore,18:45,13,9,1,0,11,19,33
-HYD,6E 6817,IndiGo,IXD,Allahabad,09:10,5,5,0,0,0,12,28
-HYD,6E 6823,IndiGo,HSR,Rajkot,17:50,13,13,5,0,38,25,58
-HYD,6E 6826,IndiGo,CJB,Coimbatore,21:40,3,3,0,0,0,16,19
-HYD,6E 6872,IndiGo,IXB,Siliguri,08:15,13,13,2,0,15,16,36
-HYD,6E 6907,IndiGo,CCU,Kolkata,14:00,11,11,4,0,36,24,44
-HYD,6E 6911,IndiGo,BBI,Bhubaneswar,11:00,13,12,1,0,8,22,50
-HYD,6E 6915,IndiGo,IDR,Indore,14:20,13,13,4,0,31,24,37
-HYD,6E 695,IndiGo,COK,Kochi,21:45,13,12,6,0,50,40,103
-HYD,6E 6974,IndiGo,GOX,Mopa,12:55,13,13,5,0,38,40,270
-HYD,6E 706,IndiGo,DEL,New Delhi,02:15,13,13,1,0,8,6,36
-HYD,6E 707,IndiGo,DEL,New Delhi,06:25,13,13,0,0,0,5,12
-HYD,6E 709,IndiGo,DEL,New Delhi,05:20,13,13,0,0,0,4,16
-HYD,6E 7096,IndiGo,CDP,Kuddapakh,11:25,13,12,1,0,8,28,208
-HYD,6E 710,IndiGo,DEL,New Delhi,17:45,13,12,2,0,17,21,59
-HYD,6E 7103,IndiGo,IXE,Mangalore,18:35,13,3,0,0,0,21,25
-HYD,6E 711,IndiGo,DEL,New Delhi,14:40,13,11,5,0,45,34,71
-HYD,6E 7118,IndiGo,RJA,Rajahmundry,06:50,13,10,0,0,0,11,25
-HYD,6E 7121,IndiGo,BHO,Bhopal,12:25,13,13,1,0,8,16,81
-HYD,6E 7126,IndiGo,MYQ,Mysore,14:00,13,5,2,0,40,19,35
-HYD,6E 7136,IndiGo,ISK,Nasik,15:10,13,12,0,0,0,9,15
-HYD,6E 714,IndiGo,VTZ,Visakhapatnam,08:45,11,11,0,0,0,10,18
-HYD,6E 7144,IndiGo,PNY,Puduchcheri,11:45,13,13,1,0,8,18,32
-HYD,6E 7146,IndiGo,RJA,Rajahmundry,19:50,13,2,0,0,0,12,14
+HYD,6E 6411,IndiGo,RJA,Rajahmundry,08:00,14,14,1,0,7,12,33
+HYD,6E 6417,IndiGo,BLR,Bangalore,17:45,14,14,6,0,43,37,91
+HYD,6E 6471,IndiGo,PNQ,Pune,10:50,14,10,4,0,40,30,70
+HYD,6E 6481,IndiGo,BDQ,Vadodara,14:25,14,13,10,0,77,35,62
+HYD,6E 6486,IndiGo,MAA,Chennai,19:00,14,14,8,0,57,33,57
+HYD,6E 6494,IndiGo,CCU,Kolkata,05:55,14,14,1,0,7,11,76
+HYD,6E 6505,IndiGo,BLR,Bangalore,21:35,14,13,6,0,46,26,65
+HYD,6E 6533,IndiGo,TIR,Tirumala - Tirupati,18:10,14,12,3,0,25,18,54
+HYD,6E 6540,IndiGo,TIR,Tirumala - Tirupati,15:35,14,14,1,0,7,11,41
+HYD,6E 6565,IndiGo,TIR,Tirumala - Tirupati,19:10,14,14,2,0,14,12,34
+HYD,6E 6574,IndiGo,VGA,Vidzhayavada,12:05,14,14,1,0,7,15,55
+HYD,6E 6617,IndiGo,MAA,Chennai,22:25,14,13,2,0,15,21,93
+HYD,6E 6638,IndiGo,JAI,Jaipur,19:30,14,14,4,0,29,23,50
+HYD,6E 664,IndiGo,CCU,Kolkata,08:15,14,14,0,0,0,13,17
+HYD,6E 6646,IndiGo,CJB,Coimbatore,07:20,14,14,0,0,0,11,21
+HYD,6E 6682,IndiGo,GOX,Mopa,13:55,14,13,1,0,8,18,84
+HYD,6E 67,IndiGo,JED,Jeddah,17:10,14,7,1,0,14,17,50
+HYD,6E 6707,IndiGo,COK,Kochi,09:55,14,14,0,0,0,4,12
+HYD,6E 6719,IndiGo,PAT,Patna,08:30,14,14,0,0,0,14,26
+HYD,6E 6727,IndiGo,AMD,Ahmedabad,18:15,14,14,1,0,7,23,82
+HYD,6E 6781,IndiGo,IXM,Madurai,15:00,14,11,2,0,18,23,56
+HYD,6E 6783,IndiGo,BLR,Bangalore,18:45,14,10,1,0,10,18,33
+HYD,6E 6817,IndiGo,IXD,Allahabad,09:10,6,6,0,0,0,11,28
+HYD,6E 6823,IndiGo,HSR,Rajkot,17:50,14,14,5,0,36,23,58
+HYD,6E 6826,IndiGo,CJB,Coimbatore,21:40,4,4,0,0,0,13,19
+HYD,6E 6872,IndiGo,IXB,Siliguri,08:15,14,14,2,0,14,16,36
+HYD,6E 6907,IndiGo,CCU,Kolkata,14:00,12,12,4,0,33,23,44
+HYD,6E 6911,IndiGo,BBI,Bhubaneswar,11:00,14,13,1,0,8,22,50
+HYD,6E 6915,IndiGo,IDR,Indore,14:20,14,14,4,0,29,24,37
+HYD,6E 695,IndiGo,COK,Kochi,21:45,14,13,6,0,46,38,103
+HYD,6E 6974,IndiGo,GOX,Mopa,12:55,14,14,5,0,36,38,270
+HYD,6E 706,IndiGo,DEL,New Delhi,02:15,14,14,1,0,7,5,36
+HYD,6E 707,IndiGo,DEL,New Delhi,06:25,14,14,0,0,0,5,12
+HYD,6E 709,IndiGo,DEL,New Delhi,05:20,14,13,0,0,0,4,16
+HYD,6E 7096,IndiGo,CDP,Kuddapakh,11:25,14,13,1,0,8,26,208
+HYD,6E 710,IndiGo,DEL,New Delhi,17:45,14,13,2,0,15,21,59
+HYD,6E 7103,IndiGo,IXE,Mangalore,18:35,14,3,0,0,0,21,25
+HYD,6E 711,IndiGo,DEL,New Delhi,14:40,14,12,5,0,42,33,71
+HYD,6E 7118,IndiGo,RJA,Rajahmundry,06:50,14,10,0,0,0,11,25
+HYD,6E 7121,IndiGo,BHO,Bhopal,12:25,14,14,1,0,7,15,81
+HYD,6E 7126,IndiGo,MYQ,Mysore,14:00,14,6,2,0,33,18,35
+HYD,6E 7136,IndiGo,ISK,Nasik,15:10,14,13,0,0,0,8,15
+HYD,6E 714,IndiGo,VTZ,Visakhapatnam,08:45,12,12,0,0,0,10,18
+HYD,6E 7144,IndiGo,PNY,Puduchcheri,11:45,14,14,1,0,7,18,32
+HYD,6E 7146,IndiGo,RJA,Rajahmundry,19:50,14,2,0,0,0,12,14
 HYD,6E 716C,IndiGo,BDQ,Vadodara,16:55,1,1,0,0,0,0,0
 HYD,6E 719F,IndiGo,DEL,New Delhi,15:22,1,1,0,0,0,0,0
-HYD,6E 7201,IndiGo,VGA,Vidzhayavada,06:15,13,11,0,0,0,10,14
-HYD,6E 7208,IndiGo,VGA,Vidzhayavada,09:05,13,2,0,0,0,12,20
-HYD,6E 7228,IndiGo,RJA,Rajahmundry,10:20,13,10,0,0,0,13,21
-HYD,6E 7248,IndiGo,RPR,Raipur,18:30,13,0,0,0,,,
-HYD,6E 7252,IndiGo,IXU,Aurangabad,06:40,13,10,0,0,0,4,12
-HYD,6E 7283,IndiGo,VGA,Vidzhayavada,19:20,13,0,0,0,,,
-HYD,6E 7307,IndiGo,JLR,Dzhabalpur,07:00,13,12,1,0,8,14,37
-HYD,6E 7417,IndiGo,HBX,Hubli,08:20,13,13,0,0,0,9,21
-HYD,6E 7452,IndiGo,NAG,Naqpur,06:00,13,7,0,0,0,9,16
-HYD,6E 7503,IndiGo,TIR,Tirumala - Tirupati,09:50,13,13,2,0,15,18,47
-HYD,6E 7512,IndiGo,IXG,Belgaum,15:50,13,6,2,0,33,39,146
-HYD,6E 752,IndiGo,COK,Kochi,07:20,13,13,0,0,0,11,23
-HYD,6E 7543,IndiGo,NAG,Naqpur,18:25,13,8,1,0,13,21,41
-HYD,6E 7546,IndiGo,RJA,Rajahmundry,17:35,13,12,0,0,0,13,22
-HYD,6E 7549,IndiGo,IXE,Mangalore,05:20,13,11,0,0,0,7,16
-HYD,6E 7554,IndiGo,RPR,Raipur,06:50,13,13,0,0,0,10,23
-HYD,6E 7563,IndiGo,KLH,Kolkhapur,11:20,13,11,0,0,0,13,21
-HYD,6E 7919,IndiGo,SXV,Salem,10:40,7,7,0,0,0,12,22
+HYD,6E 7201,IndiGo,VGA,Vidzhayavada,06:15,14,12,0,0,0,10,14
+HYD,6E 7208,IndiGo,VGA,Vidzhayavada,09:05,14,2,0,0,0,12,20
+HYD,6E 7228,IndiGo,RJA,Rajahmundry,10:20,14,11,0,0,0,13,21
+HYD,6E 7248,IndiGo,RPR,Raipur,18:30,14,0,0,0,,,
+HYD,6E 7252,IndiGo,IXU,Aurangabad,06:40,14,11,0,0,0,5,13
+HYD,6E 7283,IndiGo,VGA,Vidzhayavada,19:20,14,0,0,0,,,
+HYD,6E 7307,IndiGo,JLR,Dzhabalpur,07:00,14,13,1,0,8,14,37
+HYD,6E 7417,IndiGo,HBX,Hubli,08:20,14,14,0,0,0,9,21
+HYD,6E 7452,IndiGo,NAG,Naqpur,06:00,14,8,0,0,0,10,16
+HYD,6E 7503,IndiGo,TIR,Tirumala - Tirupati,09:50,14,14,2,0,14,18,47
+HYD,6E 7512,IndiGo,IXG,Belgaum,15:50,14,6,2,0,33,39,146
+HYD,6E 752,IndiGo,COK,Kochi,07:20,14,14,0,0,0,12,23
+HYD,6E 7543,IndiGo,NAG,Naqpur,18:25,14,9,1,0,11,20,41
+HYD,6E 7546,IndiGo,RJA,Rajahmundry,17:35,14,13,0,0,0,12,22
+HYD,6E 7549,IndiGo,IXE,Mangalore,05:20,14,12,0,0,0,8,16
+HYD,6E 7554,IndiGo,RPR,Raipur,06:50,14,14,0,0,0,10,23
+HYD,6E 7563,IndiGo,KLH,Kolkhapur,11:20,14,12,0,0,0,13,21
+HYD,6E 7919,IndiGo,SXV,Salem,10:40,8,8,0,0,0,11,22
 HYD,6E 7KA,IndiGo,HYD,Hyderabad,11:29,1,1,0,0,0,0,0
-HYD,6E 815,IndiGo,JAI,Jaipur,05:05,13,13,0,0,0,6,14
-HYD,6E 85,IndiGo,DMM,Ad Dammam,22:40,10,4,1,0,25,23,47
-HYD,6E 875,IndiGo,CCJ,Calicut,11:10,13,12,0,0,0,7,19
-HYD,6E 879,IndiGo,VTZ,Visakhapatnam,11:05,13,12,0,0,0,9,27
-HYD,6E 886,IndiGo,GOP,Gorakhpur,11:10,13,11,1,0,9,18,34
-HYD,6E 889,IndiGo,DEL,New Delhi,08:30,13,5,0,0,0,13,15
-HYD,6E 890,IndiGo,DEL,New Delhi,21:00,12,12,6,0,50,32,83
+HYD,6E 815,IndiGo,JAI,Jaipur,05:05,14,14,0,0,0,6,14
+HYD,6E 85,IndiGo,DMM,Ad Dammam,22:40,11,4,1,0,25,23,47
+HYD,6E 875,IndiGo,CCJ,Calicut,11:10,14,13,0,0,0,7,19
+HYD,6E 879,IndiGo,VTZ,Visakhapatnam,11:05,14,13,0,0,0,9,27
+HYD,6E 886,IndiGo,GOP,Gorakhpur,11:10,14,12,1,0,8,18,34
+HYD,6E 889,IndiGo,DEL,New Delhi,08:30,14,6,0,0,0,13,15
+HYD,6E 890,IndiGo,DEL,New Delhi,21:00,13,13,6,0,46,31,83
 HYD,6E 8PY,IndiGo,RJA,Rajahmundry,06:49,1,1,0,0,0,0,0
-HYD,6E 905,IndiGo,GOX,Mopa,11:50,13,13,3,0,23,24,41
-HYD,6E 913,IndiGo,JAI,Jaipur,11:50,13,13,2,0,15,21,58
-HYD,6E 922,IndiGo,BBI,Bhubaneswar,19:15,13,13,10,0,77,34,53
-HYD,6E 928,IndiGo,STV,Surat,06:20,13,2,0,0,0,5,6
-HYD,6E 93,IndiGo,RUH,Riyadh,13:40,13,4,0,0,0,14,20
-HYD,6E 944,IndiGo,CCU,Kolkata,21:15,13,12,3,0,25,42,185
-HYD,6E 946,IndiGo,GOX,Mopa,08:25,13,13,1,0,8,15,30
-HYD,6E 972,IndiGo,GAU,Guwahati,05:30,13,13,1,0,8,10,31
-HYD,6E 984,IndiGo,GOI,Vasco da Gama,19:40,13,12,4,0,33,26,76
-HYD,6E 997,IndiGo,BDQ,Vadodara,10:35,13,12,0,0,0,10,24
+HYD,6E 905,IndiGo,GOX,Mopa,11:50,14,14,3,0,21,23,41
+HYD,6E 913,IndiGo,JAI,Jaipur,11:50,14,14,2,0,14,21,58
+HYD,6E 922,IndiGo,BBI,Bhubaneswar,19:15,14,14,11,0,79,34,53
+HYD,6E 928,IndiGo,STV,Surat,06:20,14,2,0,0,0,5,6
+HYD,6E 93,IndiGo,RUH,Riyadh,13:40,14,4,0,0,0,14,20
+HYD,6E 944,IndiGo,CCU,Kolkata,21:15,14,13,3,0,23,40,185
+HYD,6E 946,IndiGo,GOX,Mopa,08:25,14,14,1,0,7,14,30
+HYD,6E 972,IndiGo,GAU,Guwahati,05:30,14,14,1,0,7,11,31
+HYD,6E 984,IndiGo,GOI,Vasco da Gama,19:40,14,13,4,0,31,24,76
+HYD,6E 997,IndiGo,BDQ,Vadodara,10:35,14,13,0,0,0,10,24
 HYD,6E 9TW,IndiGo,RJA,Rajahmundry,12:35,1,1,0,0,0,0,0
 HYD,9I 518,Alliance Air,BLR,Bangalore,11:22,6,5,1,0,20,20,33
-HYD,9I 519,Alliance Air,BLR,Bangalore,23:05,4,1,1,0,100,51,51
+HYD,9I 519,Alliance Air,BLR,Bangalore,23:05,5,2,2,0,100,56,60
 HYD,9I 521,Alliance Air,BLR,Bangalore,19:05,1,1,0,0,0,0,0
-HYD,9I 867,Alliance Air,PNQ,Pune,17:50,7,6,2,0,33,45,101
-HYD,9I 877,Alliance Air,TIR,Tirumala - Tirupati,07:05,7,2,0,0,0,21,28
+HYD,9I 867,Alliance Air,PNQ,Pune,17:50,8,6,2,0,33,45,101
+HYD,9I 877,Alliance Air,TIR,Tirumala - Tirupati,07:05,8,2,0,0,0,21,28
 HYD,9I 885,Alliance Air,RPR,Raipur,07:50,6,6,3,0,50,43,100
 HYD,9I 893,Alliance Air,MAA,Chennai,11:00,6,5,3,0,60,67,202
 HYD,9I 925,Alliance Air,BOM,Mumbai,00:55,4,1,0,1,0,0,0
-HYD,AI 1806,Air India,DEL,New Delhi,05:30,13,13,0,0,0,3,11
-HYD,AI 2445,Air India,BOM,Mumbai,14:25,13,11,0,0,0,6,20
-HYD,AI 2447,Air India,BOM,Mumbai,17:25,13,11,0,0,0,6,16
-HYD,AI 2466,Air India,DEL,New Delhi,08:35,13,12,0,0,0,4,17
-HYD,AI 2520,Air India,DEL,New Delhi,19:25,11,11,0,0,0,14,28
-HYD,AI 2541,Air India,DEL,New Delhi,13:30,12,11,0,0,0,10,24
-HYD,AI 2543,Air India,DEL,New Delhi,10:35,10,10,2,0,20,16,67
-HYD,AI 2559,Air India,DEL,New Delhi,12:45,12,10,3,0,30,28,79
-HYD,AI 2626,Air India,BOM,Mumbai,07:25,13,13,0,0,0,5,17
-HYD,AI 2699,Air India,BOM,Mumbai,22:20,9,6,0,0,0,14,25
+HYD,AI 1806,Air India,DEL,New Delhi,05:30,14,14,0,0,0,2,11
+HYD,AI 2445,Air India,BOM,Mumbai,14:25,14,12,0,0,0,7,20
+HYD,AI 2447,Air India,BOM,Mumbai,17:25,14,12,0,0,0,5,16
+HYD,AI 2466,Air India,DEL,New Delhi,08:35,14,12,0,0,0,4,17
+HYD,AI 2520,Air India,DEL,New Delhi,19:25,12,12,0,0,0,14,28
+HYD,AI 2541,Air India,DEL,New Delhi,13:30,13,12,0,0,0,11,24
+HYD,AI 2543,Air India,DEL,New Delhi,10:35,11,11,2,0,18,15,67
+HYD,AI 2559,Air India,DEL,New Delhi,12:45,13,11,3,0,27,25,79
+HYD,AI 2626,Air India,BOM,Mumbai,07:25,14,14,0,0,0,6,17
+HYD,AI 2699,Air India,BOM,Mumbai,22:20,10,7,0,0,0,11,25
 HYD,AI 2776,Air India,DEL,New Delhi,23:30,11,10,4,0,40,21,54
-HYD,AI 2860,Air India,DEL,New Delhi,07:15,13,8,0,0,0,10,22
-HYD,AI 2870,Air India,DEL,New Delhi,21:30,12,11,3,0,27,20,75
-HYD,AI 2872,Air India,BOM,Mumbai,05:50,13,10,0,0,0,6,15
-HYD,AI 2876,Air India,BOM,Mumbai,20:35,13,13,1,0,8,16,97
-HYD,AI 2880,Air India,DEL,New Delhi,18:25,13,12,0,0,0,12,25
-HYD,AI 2890,Air India,DEL,New Delhi,17:30,12,12,0,0,0,11,21
-HYD,AI 418,Air India,BOM,Mumbai,11:30,9,8,1,0,13,15,105
+HYD,AI 2860,Air India,DEL,New Delhi,07:15,14,8,0,0,0,10,22
+HYD,AI 2870,Air India,DEL,New Delhi,21:30,13,12,3,0,25,20,75
+HYD,AI 2872,Air India,BOM,Mumbai,05:50,14,11,0,0,0,6,15
+HYD,AI 2876,Air India,BOM,Mumbai,20:35,14,14,1,0,7,16,97
+HYD,AI 2880,Air India,DEL,New Delhi,18:25,14,12,0,0,0,12,25
+HYD,AI 2890,Air India,DEL,New Delhi,17:30,13,13,1,0,8,14,58
+HYD,AI 418,Air India,BOM,Mumbai,11:30,10,9,1,0,11,14,105
 HYD,AI 4MW,Air India,DEL,New Delhi,22:29,1,1,0,0,0,0,0
 HYD,AI 4TU,Air India,DEL,New Delhi,13:48,1,1,0,0,0,0,0
 HYD,AI 840,Air India,DEL,New Delhi,19:50,2,2,0,0,0,10,10
 HYD,AK 66,AirAsia,KUL,Kuala Lumpur,22:20,2,2,1,0,50,13,33
-HYD,AK 68,AirAsia,KUL,Kuala Lumpur,23:55,9,9,1,0,11,15,47
-HYD,BA 276,British,LHR,London,07:45,13,12,1,1,8,26,129
+HYD,AK 68,AirAsia,KUL,Kuala Lumpur,23:55,10,10,2,0,20,18,47
+HYD,BA 276,British,LHR,London,07:45,14,13,1,1,8,25,129
 HYD,BZ 154,Blue Dart Aviation,HYD,Mumbai,00:16,9,9,0,0,0,0,0
-HYD,BZ 481,Blue Dart Aviation,MAA,Hyderabad,07:29,11,11,0,0,0,0,0
-HYD,BZ 654,Blue Dart Aviation,HYD,Hyderabad,00:56,1,1,0,0,0,0,0
-HYD,BZ 684,Blue Dart Aviation,DEL,New Delhi,01:07,10,10,0,0,0,0,0
+HYD,BZ 481,Blue Dart Aviation,MAA,Hyderabad,07:29,12,12,0,0,0,0,0
+HYD,BZ 654,Blue Dart Aviation,HYD,Hyderabad,00:56,2,2,0,0,0,0,0
+HYD,BZ 684,Blue Dart Aviation,DEL,New Delhi,01:07,11,11,0,0,0,0,0
 HYD,C6 552,Centrum Air,TAS,Tashkent,03:35,4,4,1,0,25,56,255
-HYD,CX 672,Cathay Pacific,HKG,Hong Kong,02:40,13,12,2,0,17,26,63
+HYD,CX 672,Cathay Pacific,HKG,Hong Kong,02:40,14,13,2,0,15,26,63
 HYD,DD 959,Nok Air,DMK,Bangkok,00:45,2,2,1,0,50,28,37
-HYD,EK 525,Emirates,DXB,Dubai,04:40,13,12,5,0,42,37,158
-HYD,EK 527,Emirates,DXB,Dubai,10:15,13,13,3,0,23,20,41
-HYD,EK 529,Emirates,DXB,Dubai,22:00,13,12,2,0,17,18,69
+HYD,EK 525,Emirates,DXB,Dubai,04:40,14,13,6,0,46,37,158
+HYD,EK 527,Emirates,DXB,Dubai,10:15,14,14,4,0,29,21,41
+HYD,EK 529,Emirates,DXB,Dubai,22:00,14,13,2,0,15,18,69
 HYD,EK 9161,Emirates,DWC,Jebel Ali,12:41,1,1,0,0,0,0,0
-HYD,ET 3695,Ethiopian Airlines,ADD,Addis Ababa,04:54,2,2,0,0,0,0,0
+HYD,ET 3695,Ethiopian Airlines,ADD,Addis Ababa,04:54,3,3,0,0,0,0,0
 HYD,ET 683,Ethiopian,ADD,Addis Ababa,02:15,6,0,0,0,,,
-HYD,EY 353,Etihad,AUH,Abu Dhabi,04:30,13,13,11,0,85,65,99
-HYD,EY 359,Etihad,AUH,Abu Dhabi,21:20,12,12,1,0,8,14,44
-HYD,F3 666,flyadeal,RUH,Riyadh,07:55,9,3,1,0,33,29,57
-HYD,FZ 436,flydubai,DXB,Dubai,03:05,11,11,3,0,27,32,108
+HYD,EY 353,Etihad,AUH,Abu Dhabi,04:30,14,14,12,0,86,63,99
+HYD,EY 359,Etihad,AUH,Abu Dhabi,21:20,13,13,2,0,15,17,51
+HYD,F3 666,flyadeal,RUH,Riyadh,07:55,10,4,2,0,50,39,66
+HYD,FZ 436,flydubai,DXB,Dubai,03:05,12,12,3,0,25,31,108
 HYD,FZ 9342,flydubai,DXB,Dubai,01:23,2,2,0,0,0,0,0
-HYD,G9 468,Air Arabia,SHJ,Sharjah,04:20,13,13,11,0,85,77,126
-HYD,GF 275,Gulf Air,BAH,Manama,06:05,9,9,1,0,11,16,49
+HYD,G9 468,Air Arabia,SHJ,Sharjah,04:20,14,14,12,0,86,77,126
+HYD,GF 275,Gulf Air,BAH,Manama,06:05,10,10,1,0,10,15,49
 HYD,GF 277,Gulf Air,BAH,Manama,22:10,6,5,0,0,0,5,15
-HYD,IX 1345,Air India Express,BLR,Bangalore,16:50,13,13,4,0,31,24,53
-HYD,IX 1378,Air India Express,BLR,Bangalore,21:05,13,12,2,0,17,20,58
-HYD,IX 1829,Air India Express,TIR,Tirumala - Tirupati,16:00,12,6,1,0,17,16,78
-HYD,IX 1831,Air India Express,MAA,Chennai,08:05,12,12,1,0,8,14,33
-HYD,IX 2019,Air India Express,BLR,Bangalore,08:05,13,6,0,0,0,7,15
-HYD,IX 2082,Air India Express,VTZ,Visakhapatnam,06:50,12,12,2,0,17,21,74
-HYD,IX 2743,Air India Express,VGA,Vidzhayavada,18:40,13,13,2,0,15,25,63
-HYD,IX 2745,Air India Express,GOX,Mopa,10:40,12,12,4,0,33,25,104
-HYD,IX 2746,Air India Express,IXB,Siliguri,15:05,13,13,3,0,23,24,177
-HYD,IX 2819,Air India Express,VTZ,Visakhapatnam,14:30,13,13,9,0,69,33,47
-HYD,IX 2934,Air India Express,BLR,Bangalore,06:20,12,6,2,0,33,37,111
-HYD,IX 2983,Air India Express,BLR,Bangalore,19:20,13,13,2,0,15,18,33
+HYD,IX 1345,Air India Express,BLR,Bangalore,16:50,14,14,4,0,29,23,53
+HYD,IX 1378,Air India Express,BLR,Bangalore,21:05,14,13,2,0,15,19,58
+HYD,IX 1829,Air India Express,TIR,Tirumala - Tirupati,16:00,13,6,1,0,17,16,78
+HYD,IX 1831,Air India Express,MAA,Chennai,08:05,13,13,1,0,8,13,33
+HYD,IX 2019,Air India Express,BLR,Bangalore,08:05,14,7,0,0,0,7,15
+HYD,IX 2082,Air India Express,VTZ,Visakhapatnam,06:50,13,13,2,0,15,21,74
+HYD,IX 2743,Air India Express,VGA,Vidzhayavada,18:40,14,14,2,0,14,25,63
+HYD,IX 2745,Air India Express,GOX,Mopa,10:40,13,13,4,0,31,24,104
+HYD,IX 2746,Air India Express,IXB,Siliguri,15:05,14,14,3,0,21,23,177
+HYD,IX 2819,Air India Express,VTZ,Visakhapatnam,14:30,14,14,9,0,64,32,47
+HYD,IX 2934,Air India Express,BLR,Bangalore,06:20,13,7,2,0,29,34,111
+HYD,IX 2983,Air India Express,BLR,Bangalore,19:20,14,14,2,0,14,18,33
 HYD,IX 5314,Air India Express,IDR,Indore,07:55,1,0,0,0,,,
 HYD,IX 5315,Air India Express,IDR,Indore,12:15,1,0,0,0,,,
 HYD,IX 5715,Air India Express,BLR,Bangalore,22:21,1,1,0,0,0,0,0
 HYD,IX 5936,Air India Express,DEL,New Delhi,19:34,1,1,0,0,0,0,0
 HYD,IX 939,Air India Express,JED,Jeddah,05:20,6,3,2,0,67,108,195
-HYD,IX 951,Air India Express,DXB,Dubai,19:40,7,7,3,0,43,50,143
+HYD,IX 951,Air India Express,DXB,Dubai,19:40,8,8,3,0,38,46,143
 HYD,IX 953,Air India Express,DXB,Dubai,19:40,2,2,0,0,0,12,15
 HYD,IX 971,Air India Express,AUH,Abu Dhabi,08:40,4,4,1,0,25,46,158
-HYD,J9 404,Jazeera,KWI,Kuwait City,02:30,5,4,0,0,0,3,22
+HYD,J9 404,Jazeera,KWI,Kuwait City,02:30,6,5,0,0,0,3,22
 HYD,KL 874,KLM,AMS,Amsterdam,02:10,6,4,1,1,25,25,45
-HYD,KU 374,Kuwait,KWI,Kuwait City,03:55,13,13,1,0,8,1,34
-HYD,LH 753,Lufthansa,FRA,Frankfurt-am-Main,03:10,9,9,3,0,33,30,63
-HYD,MH 199,Malaysia,KUL,Kuala Lumpur,00:25,13,11,3,0,27,23,38
+HYD,KU 374,Kuwait,KWI,Kuwait City,03:55,14,14,1,0,7,1,34
+HYD,LH 753,Lufthansa,FRA,Frankfurt-am-Main,03:10,10,10,3,0,30,29,63
+HYD,MH 199,Malaysia,KUL,Kuala Lumpur,00:25,14,12,3,0,25,23,38
 HYD,OG 152,Ghodawat Enterprises,BLR,Bangalore,06:17,8,8,4,0,50,214,641
 HYD,OG 156,Ghodawat Enterprises,BLR,Bangalore,06:02,4,4,0,0,0,0,0
 HYD,OG 172,Ghodawat Enterprises,BLR,Bangalore,21:15,1,1,0,0,0,0,0
-HYD,OG 173,Ghodawat Enterprises,PNQ,Pune,06:56,6,6,0,0,0,0,0
+HYD,OG 173,Ghodawat Enterprises,PNQ,Pune,06:56,7,7,0,0,0,0,0
 HYD,OG 196,Ghodawat Enterprises,NDC,Nanded,07:17,10,10,0,0,0,0,0
-HYD,OV 736,SalamAir,MCT,Muscat,04:15,13,13,1,0,8,8,73
-HYD,QP 1405,Akasa Air,DEL,New Delhi,06:00,13,0,0,0,,,
-HYD,QP 1407,Akasa Air,DEL,New Delhi,17:30,13,0,0,0,,,
-HYD,QR 501,Qatar,DOH,Doha,03:30,13,0,0,0,,,
-HYD,S5 173,Star Air,PNQ,Pune,06:45,9,0,0,0,,,
-HYD,SQ 519,Singapore,SIN,Singapore,11:30,9,9,6,0,67,32,53
-HYD,SQ 523,Singapore,SIN,Singapore,23:15,12,11,5,0,45,25,37
+HYD,OV 736,SalamAir,MCT,Muscat,04:15,14,14,1,0,7,9,73
+HYD,QP 1405,Akasa Air,DEL,New Delhi,06:00,14,0,0,0,,,
+HYD,QP 1407,Akasa Air,DEL,New Delhi,17:30,14,0,0,0,,,
+HYD,QR 501,Qatar,DOH,Doha,03:30,14,0,0,0,,,
+HYD,S5 173,Star Air,PNQ,Pune,06:45,10,0,0,0,,,
+HYD,SQ 519,Singapore,SIN,Singapore,11:30,10,10,6,0,60,31,53
+HYD,SQ 523,Singapore,SIN,Singapore,23:15,14,13,6,0,46,27,62
 HYD,SV 753,Saudi Arabian,JED,Jeddah,02:25,6,5,2,0,40,51,150
-HYD,SV 755,Saudi Arabian,JED,Jeddah,11:25,5,4,3,0,75,57,91
-HYD,TG 330,Thai  International,BKK,Bangkok,01:10,13,9,1,0,11,13,56
+HYD,SV 755,Saudi Arabian,JED,Jeddah,11:25,6,5,3,0,60,47,91
+HYD,TG 330,Thai  International,BKK,Bangkok,01:10,14,10,1,0,10,14,56
 HYD,UL 176,SriLankan,CMB,Colombo,20:45,4,4,1,0,25,131,497
-HYD,UL 178,SriLankan,CMB,Colombo,10:15,5,5,1,0,20,43,182
-HYD,VJ 1804,VietJetAir,SGN,Ho Chi Minh City,23:35,5,4,3,0,75,48,77
-HYD,VN 984,Vietnam,HAN,Hanoi,23:30,5,5,1,0,20,9,56
-HYD,XY 326,flynas,RUH,Riyadh,08:55,13,6,2,0,33,41,123
-HYD,XY 366,flynas,RUH,Riyadh,16:35,11,3,2,0,67,43,65
+HYD,UL 178,SriLankan,CMB,Colombo,10:15,6,6,2,0,33,55,182
+HYD,VJ 1804,VietJetAir,SGN,Ho Chi Minh City,23:35,6,5,4,0,80,49,77
+HYD,VN 984,Vietnam,HAN,Hanoi,23:30,6,6,1,0,17,8,56
+HYD,XY 326,flynas,RUH,Riyadh,08:55,14,6,2,0,33,41,123
+HYD,XY 366,flynas,RUH,Riyadh,16:35,12,3,2,0,67,43,65
 HYD,ZR 1504,Aviacon Zitotrans,DWC,Jebel Ali,17:00,1,1,0,0,0,0,0

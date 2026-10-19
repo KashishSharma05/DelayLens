@@ -1,8 +1,8 @@
 airport,weather_condition,flights,tracked_flights,late_flights,cancelled_flights,late_minutes
-BLR,dry and calm,3839,2607,425,0,22454
-BLR,light rain,994,554,128,1,6685
+BLR,dry and calm,4120,2725,432,0,23113
+BLR,light rain,1116,620,134,1,7245
 BLR,thunderstorm,10,6,0,0,0
-BOM,dry and calm,5309,4535,1720,119,106573
-BOM,light rain,399,343,119,4,6858
-HYD,dry and calm,2837,2493,442,4,25300
-HYD,light rain,237,208,34,0,1789
+BOM,dry and calm,5672,4887,1892,128,116338
+BOM,light rain,458,401,141,5,8714
+HYD,dry and calm,2968,2609,463,5,26297
+HYD,light rain,351,310,43,0,2274
