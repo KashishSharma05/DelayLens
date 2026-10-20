@@ -5,3 +5,4 @@ data_until,days_of_data,train_flights,test_flights,best_model,roc_auc,average_pr
 2026-10-15,11,7676,1327,Gradient boosting,0.8129,0.5583,49.8,0.8059
 2026-10-17,13,9031,1556,Random forest,0.824,0.6817,42.3,0.7733
 2026-10-18,14,9815,1584,Gradient boosting,0.8276,0.6879,46.1,0.7728
+2026-10-19,15,10601,1657,Gradient boosting,0.8082,0.5701,45.6,0.7538
