@@ -1,12 +1,12 @@
 {
- "data_until": "2026-10-22",
- "days_of_data": 18,
- "train_flights": 13054,
- "train_days": 16,
- "test_flights": 1857,
+ "data_until": "2026-10-23",
+ "days_of_data": 19,
+ "train_flights": 13986,
+ "train_days": 17,
+ "test_flights": 1883,
  "test_days": 2,
- "test_late_pct": 26.4,
- "best_model": "Logistic regression",
+ "test_late_pct": 24.2,
+ "best_model": "Gradient boosting",
  "flag_share_pct": 20,
  "features": 20
 }
