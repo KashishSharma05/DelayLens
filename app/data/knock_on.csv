@@ -1,5 +1,5 @@
 airport,previous_leg,tracked_flights,late_flights
-BLR,aircraft arrived late,30,10
-BLR,aircraft arrived on time,521,62
-HYD,aircraft arrived late,60,48
-HYD,aircraft arrived on time,488,40
+BLR,aircraft arrived late,38,15
+BLR,aircraft arrived on time,544,67
+HYD,aircraft arrived late,61,48
+HYD,aircraft arrived on time,510,44
