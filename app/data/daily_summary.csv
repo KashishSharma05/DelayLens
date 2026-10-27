@@ -2141,6 +2141,7 @@ flight_date,airport,airline_name,flights,tracked_flights,late_flights,cancelled_
 2026-10-25,BLR,Kuwait,1,1,0,0,0
 2026-10-25,BLR,Lufthansa,2,2,1,0,78
 2026-10-25,BLR,Malaysia,2,0,0,0,0
+2026-10-25,BLR,Malindo Air,1,1,1,0,120
 2026-10-25,BLR,Nepal,1,0,0,0,0
 2026-10-25,BLR,Oman Air,1,0,0,0,0
 2026-10-25,BLR,Qantas,1,0,0,1,0
@@ -2150,7 +2151,7 @@ flight_date,airport,airline_name,flights,tracked_flights,late_flights,cancelled_
 2026-10-25,BLR,Saudi Arabian,1,1,1,0,61
 2026-10-25,BLR,SF Airlines,1,1,0,0,0
 2026-10-25,BLR,Singapore,2,2,1,0,64
-2026-10-25,BLR,SpiceJet,13,4,3,0,223
+2026-10-25,BLR,SpiceJet,15,6,5,0,743
 2026-10-25,BLR,SriLankan,1,1,1,0,34
 2026-10-25,BLR,Star Air,5,3,1,0,105
 2026-10-25,BLR,SWISS,1,0,0,0,0
@@ -2178,7 +2179,7 @@ flight_date,airport,airline_name,flights,tracked_flights,late_flights,cancelled_
 2026-10-25,BOM,flyadeal,1,0,0,1,0
 2026-10-25,BOM,flydubai,1,1,1,0,82
 2026-10-25,BOM,Gulf Air,2,1,0,0,0
-2026-10-25,BOM,IndiGo,181,131,57,1,2961
+2026-10-25,BOM,IndiGo,182,132,58,1,4000
 2026-10-25,BOM,Jazeera,1,1,0,0,0
 2026-10-25,BOM,Kenya,1,1,1,0,37
 2026-10-25,BOM,KLM,1,1,0,0,0
@@ -2206,6 +2207,7 @@ flight_date,airport,airline_name,flights,tracked_flights,late_flights,cancelled_
 2026-10-25,BOM,Vietnam,1,0,0,0,0
 2026-10-25,BOM,Virgin Atlantic,2,1,1,1,62
 2026-10-25,HYD,Air Arabia,1,1,1,0,61
+2026-10-25,HYD,AirAsia,1,1,0,0,0
 2026-10-25,HYD,Air India,14,13,2,0,102
 2026-10-25,HYD,Air India Express,16,16,1,0,42
 2026-10-25,HYD,Akasa Air,3,0,0,0,0
@@ -2218,8 +2220,9 @@ flight_date,airport,airline_name,flights,tracked_flights,late_flights,cancelled_
 2026-10-25,HYD,flyadeal,1,0,0,0,0
 2026-10-25,HYD,flydubai,1,1,0,0,0
 2026-10-25,HYD,flynas,1,0,0,0,0
+2026-10-25,HYD,Ghodawat Enterprises,1,1,1,0,541
 2026-10-25,HYD,Gulf Air,1,1,0,0,0
-2026-10-25,HYD,IndiGo,171,106,13,2,641
+2026-10-25,HYD,IndiGo,172,107,14,2,794
 2026-10-25,HYD,Jazeera,1,1,0,0,0
 2026-10-25,HYD,Kuwait,1,1,0,0,0
 2026-10-25,HYD,Lufthansa,1,1,1,0,53
@@ -2233,3 +2236,109 @@ flight_date,airport,airline_name,flights,tracked_flights,late_flights,cancelled_
 2026-10-25,HYD,Star Air,3,0,0,0,0
 2026-10-25,HYD,Thai  International,1,1,0,0,0
 2026-10-25,HYD,Vietnam,1,0,0,0,0
+2026-10-26,BLR,Air Arabia,1,1,1,0,50
+2026-10-26,BLR,AirAsia,1,1,0,0,0
+2026-10-26,BLR,Air France,1,1,0,0,0
+2026-10-26,BLR,Air India,38,20,9,0,820
+2026-10-26,BLR,Air India Express,124,53,11,0,601
+2026-10-26,BLR,Akasa Air,50,17,2,0,100
+2026-10-26,BLR,Alliance Air,6,2,0,0,0
+2026-10-26,BLR,British,2,1,0,0,0
+2026-10-26,BLR,Cathay Pacific,1,1,0,0,0
+2026-10-26,BLR,Emirates,3,3,2,0,66
+2026-10-26,BLR,Ethiopian,1,1,0,0,0
+2026-10-26,BLR,Ethiopian Airlines,1,1,0,0,0
+2026-10-26,BLR,Etihad,2,2,0,0,0
+2026-10-26,BLR,Ghodawat Enterprises,4,4,0,0,0
+2026-10-26,BLR,Gulf Air,2,2,1,0,32
+2026-10-26,BLR,IndiGo,277,177,40,0,1800
+2026-10-26,BLR,Japan Airlines,1,1,0,0,0
+2026-10-26,BLR,KLM,1,1,0,0,0
+2026-10-26,BLR,Kuwait,1,1,0,0,0
+2026-10-26,BLR,Lufthansa,2,2,2,0,91
+2026-10-26,BLR,Malaysia,1,0,0,0,0
+2026-10-26,BLR,Oman Air,1,1,0,0,0
+2026-10-26,BLR,Qantas,2,1,1,1,55
+2026-10-26,BLR,Qatar,1,0,0,0,0
+2026-10-26,BLR,SalamAir,1,1,0,0,0
+2026-10-26,BLR,Saudi Arabian,1,1,1,0,126
+2026-10-26,BLR,Singapore,2,2,0,0,0
+2026-10-26,BLR,SpiceJet,13,4,4,0,1155
+2026-10-26,BLR,SriLankan,1,1,0,0,0
+2026-10-26,BLR,Star Air,6,3,1,0,30
+2026-10-26,BLR,Thai AirAsia,1,1,1,0,58
+2026-10-26,BLR,Thai  International,1,1,1,0,30
+2026-10-26,BLR,Thai Lion Air,1,0,0,0,0
+2026-10-26,BLR,Virgin Atlantic,2,1,1,0,30
+2026-10-26,BOM,Air Arabia,2,0,0,0,0
+2026-10-26,BOM,Air France,1,0,0,0,0
+2026-10-26,BOM,Air India,113,0,0,0,0
+2026-10-26,BOM,Air India Express,33,0,0,0,0
+2026-10-26,BOM,Air Mauritius,1,0,0,0,0
+2026-10-26,BOM,Air Tanzania,1,0,0,0,0
+2026-10-26,BOM,Akasa Air,34,0,0,0,0
+2026-10-26,BOM,Alliance Air,1,0,0,0,0
+2026-10-26,BOM,ANA,1,0,0,0,0
+2026-10-26,BOM,AZAL Azerbaijan,1,0,0,0,0
+2026-10-26,BOM,British,3,0,0,0,0
+2026-10-26,BOM,Cathay Pacific,1,0,0,0,0
+2026-10-26,BOM,Emirates,5,0,0,0,0
+2026-10-26,BOM,Ethiopian,2,0,0,0,0
+2026-10-26,BOM,Etihad,4,0,0,0,0
+2026-10-26,BOM,flyadeal,1,0,0,0,0
+2026-10-26,BOM,flydubai,1,0,0,0,0
+2026-10-26,BOM,flynas,1,0,0,0,0
+2026-10-26,BOM,Gulf Air,2,0,0,0,0
+2026-10-26,BOM,IndiGo,193,0,0,2,0
+2026-10-26,BOM,Jazeera,1,0,0,0,0
+2026-10-26,BOM,Kenya,1,0,0,0,0
+2026-10-26,BOM,KLM,1,0,0,0,0
+2026-10-26,BOM,Kuwait,2,0,0,0,0
+2026-10-26,BOM,Lufthansa,2,0,0,0,0
+2026-10-26,BOM,Malaysia,1,0,0,0,0
+2026-10-26,BOM,Malindo Air,1,0,0,0,0
+2026-10-26,BOM,Oman Air,2,0,0,0,0
+2026-10-26,BOM,Qatar,1,0,0,0,0
+2026-10-26,BOM,Riyadh Air,1,0,0,0,0
+2026-10-26,BOM,Royal Jordanian,1,0,0,0,0
+2026-10-26,BOM,SalamAir,1,0,0,0,0
+2026-10-26,BOM,SAS,1,0,0,0,0
+2026-10-26,BOM,Saudi Arabian,2,0,0,0,0
+2026-10-26,BOM,Singapore,2,0,0,0,0
+2026-10-26,BOM,SpiceJet,25,0,0,1,0
+2026-10-26,BOM,SriLankan,2,0,0,0,0
+2026-10-26,BOM,Star Air,6,0,0,0,0
+2026-10-26,BOM,SWISS,1,0,0,0,0
+2026-10-26,BOM,Thai  International,2,0,0,0,0
+2026-10-26,BOM,Thai Vietjet Air,2,0,0,0,0
+2026-10-26,BOM,Turkish,1,0,0,0,0
+2026-10-26,BOM,VietJetAir,1,0,0,0,0
+2026-10-26,BOM,Vietnam,1,0,0,0,0
+2026-10-26,BOM,Virgin Atlantic,2,0,0,0,0
+2026-10-26,HYD,Air Arabia,1,1,1,0,86
+2026-10-26,HYD,Air India,16,14,3,0,203
+2026-10-26,HYD,Air India Express,17,17,4,0,221
+2026-10-26,HYD,Akasa Air,3,0,0,0,0
+2026-10-26,HYD,Alliance Air,2,2,0,0,0
+2026-10-26,HYD,British,1,1,1,0,144
+2026-10-26,HYD,Cathay Pacific,1,1,0,0,0
+2026-10-26,HYD,Emirates,3,3,1,0,96
+2026-10-26,HYD,Etihad,2,2,2,0,148
+2026-10-26,HYD,flydubai,1,1,1,0,52
+2026-10-26,HYD,flynas,1,0,0,0,0
+2026-10-26,HYD,Ghodawat Enterprises,2,2,0,0,0
+2026-10-26,HYD,Gulf Air,1,1,0,0,0
+2026-10-26,HYD,IndiGo,169,103,18,1,830
+2026-10-26,HYD,KLM,1,1,1,0,141
+2026-10-26,HYD,Kuwait,1,1,0,0,0
+2026-10-26,HYD,Lufthansa,1,1,1,0,30
+2026-10-26,HYD,Malaysia,1,1,0,0,0
+2026-10-26,HYD,Nok Air,1,1,0,0,0
+2026-10-26,HYD,Oman Air,1,0,0,0,0
+2026-10-26,HYD,Qatar,1,0,0,1,0
+2026-10-26,HYD,Saudi Arabian,1,1,0,0,0
+2026-10-26,HYD,Singapore,2,2,1,0,38
+2026-10-26,HYD,SpiceJet,1,0,0,0,0
+2026-10-26,HYD,SriLankan,1,1,0,0,0
+2026-10-26,HYD,Star Air,3,0,0,0,0
+2026-10-26,HYD,Thai  International,1,1,0,0,0
