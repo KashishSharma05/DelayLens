@@ -2251,7 +2251,7 @@ flight_date,airport,airline_name,flights,tracked_flights,late_flights,cancelled_
 2026-10-26,BLR,Etihad,2,2,0,0,0
 2026-10-26,BLR,Ghodawat Enterprises,4,4,0,0,0
 2026-10-26,BLR,Gulf Air,2,2,1,0,32
-2026-10-26,BLR,IndiGo,277,177,40,0,1800
+2026-10-26,BLR,IndiGo,278,178,41,0,1830
 2026-10-26,BLR,Japan Airlines,1,1,0,0,0
 2026-10-26,BLR,KLM,1,1,0,0,0
 2026-10-26,BLR,Kuwait,1,1,0,0,0
@@ -2263,12 +2263,13 @@ flight_date,airport,airline_name,flights,tracked_flights,late_flights,cancelled_
 2026-10-26,BLR,SalamAir,1,1,0,0,0
 2026-10-26,BLR,Saudi Arabian,1,1,1,0,126
 2026-10-26,BLR,Singapore,2,2,0,0,0
-2026-10-26,BLR,SpiceJet,13,4,4,0,1155
+2026-10-26,BLR,SpiceJet,15,6,6,0,1934
 2026-10-26,BLR,SriLankan,1,1,0,0,0
 2026-10-26,BLR,Star Air,6,3,1,0,30
 2026-10-26,BLR,Thai AirAsia,1,1,1,0,58
 2026-10-26,BLR,Thai  International,1,1,1,0,30
 2026-10-26,BLR,Thai Lion Air,1,0,0,0,0
+2026-10-26,BLR,VietJetAir,1,1,1,0,77
 2026-10-26,BLR,Virgin Atlantic,2,1,1,0,30
 2026-10-26,BOM,Air Arabia,2,0,0,0,0
 2026-10-26,BOM,Air France,1,0,0,0,0
@@ -2328,7 +2329,7 @@ flight_date,airport,airline_name,flights,tracked_flights,late_flights,cancelled_
 2026-10-26,HYD,flynas,1,0,0,0,0
 2026-10-26,HYD,Ghodawat Enterprises,2,2,0,0,0
 2026-10-26,HYD,Gulf Air,1,1,0,0,0
-2026-10-26,HYD,IndiGo,169,103,18,1,830
+2026-10-26,HYD,IndiGo,170,104,19,1,962
 2026-10-26,HYD,KLM,1,1,1,0,141
 2026-10-26,HYD,Kuwait,1,1,0,0,0
 2026-10-26,HYD,Lufthansa,1,1,1,0,30
@@ -2342,3 +2343,107 @@ flight_date,airport,airline_name,flights,tracked_flights,late_flights,cancelled_
 2026-10-26,HYD,SriLankan,1,1,0,0,0
 2026-10-26,HYD,Star Air,3,0,0,0,0
 2026-10-26,HYD,Thai  International,1,1,0,0,0
+2026-10-27,BLR,Air Arabia,1,1,1,0,48
+2026-10-27,BLR,Air France,1,1,0,0,0
+2026-10-27,BLR,Air India,37,16,7,0,911
+2026-10-27,BLR,Air India Express,127,60,15,0,741
+2026-10-27,BLR,Akasa Air,53,24,3,0,105
+2026-10-27,BLR,Alliance Air,5,1,0,0,0
+2026-10-27,BLR,Blue Dart Aviation,1,1,0,0,0
+2026-10-27,BLR,British,2,2,1,0,35
+2026-10-27,BLR,Cathay Pacific,1,1,0,0,0
+2026-10-27,BLR,Emirates,3,3,1,0,59
+2026-10-27,BLR,Etihad,3,3,1,0,125
+2026-10-27,BLR,Ghodawat Enterprises,3,3,0,0,0
+2026-10-27,BLR,Gulf Air,2,2,0,0,0
+2026-10-27,BLR,IndiGo,276,151,41,0,1858
+2026-10-27,BLR,Japan Airlines,1,1,1,0,33
+2026-10-27,BLR,KLM,1,1,0,0,0
+2026-10-27,BLR,Kuwait,1,1,0,0,0
+2026-10-27,BLR,Lufthansa,1,1,1,0,58
+2026-10-27,BLR,Malaysia,1,1,0,0,0
+2026-10-27,BLR,Malindo Air,1,0,0,0,0
+2026-10-27,BLR,Nepal,1,1,1,0,96
+2026-10-27,BLR,Oman Air,1,1,0,0,0
+2026-10-27,BLR,Qantas,1,1,1,0,135
+2026-10-27,BLR,Qatar,1,0,0,0,0
+2026-10-27,BLR,Quikjet,1,1,0,0,0
+2026-10-27,BLR,SalamAir,1,1,0,0,0
+2026-10-27,BLR,Saudi Arabian,1,0,0,0,0
+2026-10-27,BLR,Singapore,2,2,1,0,42
+2026-10-27,BLR,SpiceJet,13,4,4,0,1850
+2026-10-27,BLR,SriLankan,1,1,0,0,0
+2026-10-27,BLR,Star Air,6,3,0,0,0
+2026-10-27,BLR,Thai  International,1,0,0,0,0
+2026-10-27,BLR,Thai Lion Air,1,0,0,0,0
+2026-10-27,BLR,Vietnam,1,1,0,0,0
+2026-10-27,BLR,Virgin Atlantic,1,1,1,0,237
+2026-10-27,BOM,Air Arabia,2,2,2,0,180
+2026-10-27,BOM,Air France,1,1,0,0,0
+2026-10-27,BOM,Air India,111,105,70,6,4387
+2026-10-27,BOM,Air India Express,31,31,24,0,1851
+2026-10-27,BOM,Air Tanzania,1,1,1,0,142
+2026-10-27,BOM,Akasa Air,34,33,21,1,1309
+2026-10-27,BOM,Alliance Air,3,3,2,0,277
+2026-10-27,BOM,ANA,1,1,0,0,0
+2026-10-27,BOM,AZAL Azerbaijan,1,1,0,0,0
+2026-10-27,BOM,British,3,3,3,0,190
+2026-10-27,BOM,Cathay Pacific,1,1,0,0,0
+2026-10-27,BOM,EgyptAir,1,1,1,0,30
+2026-10-27,BOM,Emirates,5,5,3,0,208
+2026-10-27,BOM,Ethiopian,2,2,2,0,91
+2026-10-27,BOM,Etihad,4,4,2,0,111
+2026-10-27,BOM,flynas,1,1,0,0,0
+2026-10-27,BOM,Gulf Air,2,2,2,0,103
+2026-10-27,BOM,I A W,1,1,1,0,49
+2026-10-27,BOM,IndiGo,181,177,115,4,7311
+2026-10-27,BOM,Jazeera,1,1,1,0,50
+2026-10-27,BOM,Kenya,1,1,1,0,459
+2026-10-27,BOM,KLM,1,1,1,0,46
+2026-10-27,BOM,Kuwait,2,1,0,1,0
+2026-10-27,BOM,Lufthansa,2,2,2,0,115
+2026-10-27,BOM,Oman Air,2,2,2,0,114
+2026-10-27,BOM,Qatar,1,1,0,0,0
+2026-10-27,BOM,Riyadh Air,1,0,0,1,0
+2026-10-27,BOM,Royal Jordanian,1,1,1,0,40
+2026-10-27,BOM,SalamAir,1,1,1,0,78
+2026-10-27,BOM,Saudi Arabian,1,1,1,0,30
+2026-10-27,BOM,Singapore,1,1,1,0,62
+2026-10-27,BOM,SpiceJet,3,3,3,0,1041
+2026-10-27,BOM,SriLankan,2,2,1,0,58
+2026-10-27,BOM,SWISS,1,1,1,0,38
+2026-10-27,BOM,Thai  International,1,1,0,0,0
+2026-10-27,BOM,Thai Vietjet Air,1,1,1,0,58
+2026-10-27,BOM,Turkish,1,1,1,0,59
+2026-10-27,BOM,VietJetAir,1,1,1,0,66
+2026-10-27,BOM,Vietnam,1,1,1,0,38
+2026-10-27,BOM,Virgin Atlantic,2,2,1,0,54
+2026-10-27,HYD,Air Arabia,1,1,1,0,148
+2026-10-27,HYD,AirAsia,1,1,0,0,0
+2026-10-27,HYD,Air India,16,13,3,0,120
+2026-10-27,HYD,Air India Express,16,14,3,2,259
+2026-10-27,HYD,Akasa Air,3,0,0,0,0
+2026-10-27,HYD,Alliance Air,4,3,1,0,90
+2026-10-27,HYD,Blue Dart Aviation,3,3,0,0,0
+2026-10-27,HYD,British,1,1,0,0,0
+2026-10-27,HYD,Cathay Pacific,1,1,0,0,0
+2026-10-27,HYD,Emirates,3,3,1,0,32
+2026-10-27,HYD,Ethiopian,1,0,0,0,0
+2026-10-27,HYD,Etihad,2,2,2,0,116
+2026-10-27,HYD,flyadeal,1,0,0,0,0
+2026-10-27,HYD,flydubai,2,2,1,0,52
+2026-10-27,HYD,flynas,1,0,0,0,0
+2026-10-27,HYD,Ghodawat Enterprises,2,2,0,0,0
+2026-10-27,HYD,Gulf Air,2,2,0,0,0
+2026-10-27,HYD,IndiGo,171,107,15,5,751
+2026-10-27,HYD,Kuwait,1,1,1,0,37
+2026-10-27,HYD,Lufthansa,1,1,1,0,50
+2026-10-27,HYD,Malaysia,1,1,0,0,0
+2026-10-27,HYD,Oman Air,1,0,0,0,0
+2026-10-27,HYD,Qatar,1,0,0,0,0
+2026-10-27,HYD,SalamAir,1,1,0,0,0
+2026-10-27,HYD,Saudi Arabian,1,1,0,0,0
+2026-10-27,HYD,Singapore,1,1,1,0,40
+2026-10-27,HYD,SpiceJet,1,0,0,0,0
+2026-10-27,HYD,Star Air,3,0,0,0,0
+2026-10-27,HYD,Thai  International,1,1,0,0,0
