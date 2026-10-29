@@ -1,21 +1,21 @@
 feature,importance
-This flight number: late rate on earlier days,0.0188
-Airport: departures in the last few hours,0.0134
-Airport,0.0128
-Airport: late rate in the last few hours,0.0097
-Temperature,0.0094
-Hour of departure,0.0084
-This hour at this airport: late rate on earlier days,0.0077
-Previous flight: minutes late on arrival,0.0067
-Wind gusts,0.0028
-Airline,0.0023
-Aircraft arrived late from its previous flight,0.0022
-Airline at this airport: late rate on earlier days,0.002
-Aircraft's previous flight is known,0.0006
-Weather condition,0.0
-Day of the week,0.0
-Rain forecast for the hour,-0.0001
-Visibility,-0.0001
-This flight number: days seen before,-0.0009
-International flight,-0.0019
-Destination,-0.003
+Airport: departures in the last few hours,0.0186
+This flight number: late rate on earlier days,0.0168
+Airport: late rate in the last few hours,0.0138
+Hour of departure,0.0127
+This hour at this airport: late rate on earlier days,0.0125
+Airport,0.0101
+Temperature,0.0092
+Previous flight: minutes late on arrival,0.0039
+Wind gusts,0.0032
+Aircraft arrived late from its previous flight,0.0014
+Day of the week,0.0005
+Weather condition,0.0002
+Visibility,0.0001
+Rain forecast for the hour,0.0001
+Aircraft's previous flight is known,0.0001
+Airline,-0.0003
+This flight number: days seen before,-0.0005
+Destination,-0.0018
+Airline at this airport: late rate on earlier days,-0.0019
+International flight,-0.0073
