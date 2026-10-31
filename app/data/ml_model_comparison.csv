@@ -1,6 +1,6 @@
 model,roc_auc,average_precision,late_flights_found_pct,flagged_that_were_late_pct
-Rule of thumb: this flight's past late rate,0.8076,0.7553,38.9,83.4
-Logistic regression,0.8562,0.8214,42.0,90.1
-Random forest,0.8686,0.8539,43.4,93.0
-Gradient boosting,0.8645,0.8534,43.8,93.9
-Neural network (MLP),0.8549,0.8334,42.7,91.6
+Rule of thumb: this flight's past late rate,0.7714,0.6961,39.5,76.3
+Logistic regression,0.8006,0.7424,45.3,87.6
+Random forest,0.8127,0.7761,46.5,89.8
+Gradient boosting,0.8173,0.7871,46.5,89.8
+Neural network (MLP),0.8053,0.7521,44.6,86.1
