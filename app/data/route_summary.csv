@@ -1,235 +1,239 @@
 origin,dest,dest_name,is_international,flights,tracked_flights,late_flights,cancelled_flights,avg_minutes_when_late
-BLR,AGR,Agra,f,27,25,2,0,35
-BLR,AMD,Ahmedabad,f,310,147,28,0,57
-BLR,AMS,Amsterdam,t,21,18,7,0,56
-BLR,ATQ,Amritsar,f,28,26,1,0,42
-BLR,AUH,Abu Dhabi,t,144,95,26,0,67
-BLR,BAH,Manama,t,54,49,4,0,61
-BLR,BBI,Bhubaneswar,f,196,104,17,0,50
-BLR,BDQ,Vadodara,f,30,27,7,0,36
-BLR,BHO,Bhopal,f,54,46,12,0,38
-BLR,BKK,Bangkok,t,86,63,19,0,46
-BLR,BOM,Mumbai,f,995,669,139,0,88
-BLR,CCJ,Calicut,f,129,52,6,0,43
-BLR,CCU,Kolkata,f,573,347,86,0,102
-BLR,CDG,Paris,t,28,26,16,0,85
-BLR,CJB,Coimbatore,f,122,82,8,0,40
-BLR,CMB,Colombo,t,90,85,18,0,60
-BLR,COK,Kochi,f,368,242,30,0,49
-BLR,DED,Dehradun,f,73,43,8,0,50
-BLR,DEL,New Delhi,f,1314,760,109,0,99
-BLR,DGH,Deoghar,f,34,16,1,0,34
-BLR,DOH,Doha,t,93,51,6,0,36
-BLR,DPS,Denpasar-Bali Island,t,27,24,0,0,
-BLR,DXB,Dubai,t,135,98,21,0,49
-BLR,FRA,Frankfurt-am-Main,t,30,24,16,0,47
-BLR,GAU,Guwahati,f,180,127,12,0,45
-BLR,GBI,Kalaburagi,f,46,36,2,0,65
-BLR,GOI,Vasco da Gama,f,274,203,51,0,52
-BLR,GOP,Gorakhpur,f,70,33,3,0,49
-BLR,GOX,Mopa,f,132,65,8,0,49
-BLR,HBX,Hubli,f,60,39,4,0,34
-BLR,HDO,Ghaziabad,f,34,24,3,0,35
-BLR,HKG,Hong Kong,t,28,25,12,0,60
-BLR,HKT,Phuket,t,72,41,5,1,48
-BLR,HSR,Rajkot,f,27,26,2,0,54
-BLR,HYD,Hyderabad,f,536,351,69,0,57
-BLR,IDR,Indore,f,115,91,13,0,53
-BLR,ISK,Nasik,f,19,17,0,0,
+BLR,AGR,Agra,f,28,26,2,0,35
+BLR,AMD,Ahmedabad,f,323,153,32,0,57
+BLR,AMS,Amsterdam,t,22,18,7,0,56
+BLR,ATQ,Amritsar,f,29,27,1,0,42
+BLR,AUH,Abu Dhabi,t,150,99,27,0,66
+BLR,BAH,Manama,t,56,51,5,0,57
+BLR,BBI,Bhubaneswar,f,205,109,18,0,49
+BLR,BDQ,Vadodara,f,31,28,8,0,36
+BLR,BHO,Bhopal,f,56,48,12,0,38
+BLR,BKK,Bangkok,t,91,66,20,0,46
+BLR,BOM,Mumbai,f,1043,697,153,0,89
+BLR,CCJ,Calicut,f,135,54,6,0,43
+BLR,CCU,Kolkata,f,600,363,88,0,106
+BLR,CDG,Paris,t,29,27,17,0,84
+BLR,CJB,Coimbatore,f,130,85,8,0,40
+BLR,CMB,Colombo,t,93,88,18,0,60
+BLR,COK,Kochi,f,385,253,31,0,48
+BLR,DED,Dehradun,f,75,45,8,0,50
+BLR,DEL,New Delhi,f,1380,789,116,0,108
+BLR,DGH,Deoghar,f,36,17,1,0,34
+BLR,DMK,Bangkok,t,25,15,7,5,46
+BLR,DOH,Doha,t,97,53,6,0,36
+BLR,DPS,Denpasar-Bali Island,t,28,25,0,0,
+BLR,DXB,Dubai,t,141,103,23,0,49
+BLR,FRA,Frankfurt-am-Main,t,32,26,18,0,46
+BLR,GAU,Guwahati,f,189,131,13,0,45
+BLR,GBI,Kalaburagi,f,48,38,2,0,65
+BLR,GOI,Vasco da Gama,f,288,213,51,0,52
+BLR,GOP,Gorakhpur,f,75,34,3,0,49
+BLR,GOX,Mopa,f,140,67,9,0,47
+BLR,HBX,Hubli,f,63,41,4,0,34
+BLR,HDO,Ghaziabad,f,36,25,3,0,35
+BLR,HKG,Hong Kong,t,29,26,12,0,60
+BLR,HKT,Phuket,t,75,42,5,1,48
+BLR,HSR,Rajkot,f,28,27,2,0,54
+BLR,HYD,Hyderabad,f,561,368,71,0,57
+BLR,IDR,Indore,f,120,95,13,0,53
+BLR,ISK,Nasik,f,20,18,1,0,33
 BLR,IXA,Agartala,f,24,24,4,0,39
-BLR,IXB,Siliguri,f,145,78,13,0,99
-BLR,IXC,Chandigarh,f,138,105,17,0,48
-BLR,IXE,Mangalore,f,210,133,25,0,48
-BLR,IXG,Belgaum,f,52,35,0,0,
-BLR,IXM,Madurai,f,74,45,8,0,47
-BLR,IXR,Ranchi,f,135,80,13,0,62
+BLR,IXB,Siliguri,f,151,81,13,0,99
+BLR,IXC,Chandigarh,f,142,107,18,0,48
+BLR,IXE,Mangalore,f,221,140,27,0,47
+BLR,IXG,Belgaum,f,55,36,0,0,
+BLR,IXM,Madurai,f,80,47,8,0,47
+BLR,IXR,Ranchi,f,141,83,13,0,62
 BLR,IXU,Aurangabad,f,16,15,7,0,40
-BLR,IXZ,Port Blair,f,54,52,14,0,40
-BLR,JAI,Jaipur,f,193,114,25,0,73
-BLR,JDH,Jodhpur,f,25,17,0,0,
-BLR,JED,Jeddah,t,68,31,13,0,85
-BLR,JLR,Jabalpur,f,34,21,7,0,47
-BLR,JRG,Jharsuguda,f,27,23,2,0,34
-BLR,KUL,Kuala Lumpur,t,89,55,11,0,101
-BLR,KWI,Kuwait City,t,49,36,5,0,54
-BLR,LHR,London,t,104,88,23,0,63
-BLR,LKO,Lucknow,f,238,120,13,0,55
-BLR,MAA,Chennai,f,433,288,47,0,53
-BLR,MCT,Muscat,t,47,30,4,0,42
-BLR,MLE,Malé,t,27,26,2,0,49
-BLR,MRU,Port Louis,t,27,24,0,0,
-BLR,MUC,Munich,t,25,23,7,0,49
-BLR,NAG,Naqpur,f,144,74,21,0,40
-BLR,NDC,Nanded,f,47,33,3,0,50
-BLR,NMI,Mumbai,f,223,89,19,0,42
-BLR,NRT,Tokyo,t,27,22,3,0,56
-BLR,PAT,Patna,f,177,124,22,0,46
-BLR,PNQ,Pune,f,431,286,48,0,41
-BLR,RJA,Rajahmundry,f,25,16,2,0,51
-BLR,RPR,Raipur,f,56,35,1,0,45
-BLR,SAG,Shirdi,f,34,25,4,0,39
-BLR,SHJ,Sharjah,t,27,25,18,0,57
-BLR,SIN,Singapore,t,118,100,37,0,47
-BLR,STV,Surat Gujarat,f,74,33,4,0,44
+BLR,IXZ,Port Blair,f,56,54,14,0,40
+BLR,JAI,Jaipur,f,202,119,26,0,71
+BLR,JDH,Jodhpur,f,27,18,0,0,
+BLR,JED,Jeddah,t,71,32,13,0,85
+BLR,JLR,Jabalpur,f,36,22,7,0,47
+BLR,JRG,Jharsuguda,f,28,23,2,0,34
+BLR,KNU,Kanpur,f,20,15,2,0,40
+BLR,KUL,Kuala Lumpur,t,92,56,11,0,101
+BLR,KWI,Kuwait City,t,51,37,5,0,54
+BLR,LHR,London,t,108,92,26,0,62
+BLR,LKO,Lucknow,f,248,126,14,0,53
+BLR,MAA,Chennai,f,456,300,49,0,52
+BLR,MCT,Muscat,t,48,30,4,0,42
+BLR,MLE,Malé,t,28,27,2,0,49
+BLR,MRU,Port Louis,t,28,25,0,0,
+BLR,MUC,Munich,t,26,24,8,0,51
+BLR,NAG,Naqpur,f,150,77,21,0,40
+BLR,NDC,Nanded,f,49,35,3,0,50
+BLR,NMI,Mumbai,f,234,92,20,0,42
+BLR,NRT,Tokyo,t,28,23,3,0,56
+BLR,PAT,Patna,f,187,128,24,0,45
+BLR,PNQ,Pune,f,448,297,48,0,41
+BLR,RJA,Rajahmundry,f,26,17,2,0,51
+BLR,RPR,Raipur,f,58,37,1,0,45
+BLR,SAG,Shirdi,f,36,25,4,0,39
+BLR,SHJ,Sharjah,t,28,26,19,0,57
+BLR,SIN,Singapore,t,123,103,39,0,46
+BLR,STV,Surat Gujarat,f,77,35,4,0,44
 BLR,SXR,Srinagar,f,20,18,2,0,48
-BLR,TRV,Trivandrum,f,161,93,16,0,53
-BLR,TRZ,Tiruchirappally,f,125,58,6,0,45
-BLR,UDR,Udaipur,f,54,34,1,0,65
-BLR,VDY,Vijaynagar,f,51,33,3,0,142
-BLR,VGA,Vijayawada,f,140,57,2,0,39
-BLR,VNS,Varanasi,f,219,92,25,0,46
-BLR,VTZ,Visakhapatnam,f,113,72,14,0,45
-BOM,ADD,Addis Ababa,t,54,47,14,0,53
-BOM,AMD,Ahmedabad,f,480,400,146,2,52
-BOM,AMS,Amsterdam,t,56,46,25,4,102
-BOM,ATQ,Amritsar,f,89,75,21,0,42
-BOM,AUH,Abu Dhabi,t,226,192,61,0,49
-BOM,BAH,Manama,t,83,66,36,0,53
-BOM,BBI,Bhubaneswar,f,136,114,50,1,55
-BOM,BDQ,Vadodara,f,55,47,13,0,51
-BOM,BHJ,Bhuj,f,54,46,12,2,46
-BOM,BHO,Bhopal,f,83,72,28,0,67
-BOM,BKK,Bangkok,t,215,186,68,0,54
-BOM,BLR,Bangalore,f,886,731,293,9,67
-BOM,CAI,Cairo,t,19,17,3,0,57
-BOM,CCJ,Calicut,f,30,24,10,1,48
-BOM,CCU,Kolkata,f,488,401,154,12,68
-BOM,CDG,Paris,t,27,24,18,0,58
-BOM,CJB,Coimbatore,f,109,94,27,0,50
-BOM,CMB,Colombo,t,110,93,42,1,57
-BOM,COK,Kochi,f,291,242,108,0,58
-BOM,CPH,Copenhagen,t,19,16,7,1,43
-BOM,DAC,Dhaka,t,40,33,5,1,35
-BOM,DAR,Dar es Salaam,t,28,24,22,0,127
-BOM,DBR,Darbhanga,f,38,26,14,4,150
-BOM,DED,Dehradun,f,82,73,27,0,59
-BOM,DEL,New Delhi,f,1492,1260,537,26,56
-BOM,DMM,Ad Dammam,t,48,20,12,20,118
-BOM,DOH,Doha,t,117,89,38,5,48
-BOM,DXB,Dubai,t,356,294,153,16,149
-BOM,FCO,Rome,t,21,18,11,0,48
-BOM,FJR,Fujairah,t,27,21,7,0,42
-BOM,FRA,Frankfurt-am-Main,t,48,43,30,0,62
-BOM,GAU,Guwahati,f,83,69,36,0,55
-BOM,GOI,Vasco da Gama,f,338,284,129,0,61
-BOM,GOP,Gorakhpur,f,32,26,18,1,56
-BOM,GOX,Mopa,f,168,141,67,0,59
-BOM,GWL,Gwalior,f,28,25,7,0,50
-BOM,GYD,Baku,t,26,24,9,0,61
-BOM,HAN,Hanoi,t,49,40,9,0,67
-BOM,HBX,Hubli,f,28,24,7,0,50
-BOM,HKG,Hong Kong,t,40,36,30,0,52
-BOM,HKT,Phuket,t,84,72,25,0,41
-BOM,HND,Tokyo,t,16,15,9,0,89
-BOM,HSR,Rajkot,f,159,138,47,0,49
-BOM,HYD,Hyderabad,f,477,403,148,3,52
-BOM,IDR,Indore,f,188,156,70,1,50
-BOM,IST,Istanbul,t,52,48,21,0,56
-BOM,IXB,Siliguri,f,110,96,49,0,84
-BOM,IXC,Chandigarh,f,148,128,52,1,56
-BOM,IXD,Allahabad,f,49,42,24,0,48
-BOM,IXE,Mangalore,f,94,80,36,0,52
-BOM,IXM,Madurai,f,28,23,6,0,66
-BOM,IXR,Ranchi,f,55,50,29,0,69
-BOM,IXU,Aurangabad,f,27,24,3,0,40
-BOM,IXZ,Port Blair,f,28,25,1,0,261
-BOM,JAI,Jaipur,f,243,199,78,2,56
-BOM,JDH,Jodhpur,f,62,54,27,0,68
-BOM,JED,Jeddah,t,153,77,38,53,184
-BOM,JGA,Jamnagar,f,79,67,20,2,82
-BOM,KNU,Kanpur,f,27,24,8,0,80
-BOM,KTM,Kathmandu,t,35,32,24,0,65
-BOM,KUL,Kuala Lumpur,t,66,53,40,1,78
-BOM,KWI,Kuwait City,t,85,58,7,13,45
-BOM,LHR,London,t,216,182,100,9,61
-BOM,LKO,Lucknow,f,191,164,59,2,52
-BOM,MAA,Chennai,f,493,416,135,1,55
-BOM,MCT,Muscat,t,126,102,51,3,63
-BOM,MLE,Malé,t,34,29,13,0,47
-BOM,MRU,Port Louis,t,39,34,11,0,102
-BOM,MUC,Munich,t,27,26,23,0,64
-BOM,NAG,Naqpur,f,183,153,50,0,54
-BOM,NBO,Nairobi,t,56,49,20,1,157
-BOM,NRT,Tokyo,t,29,21,12,0,47
-BOM,PAT,Patna,f,87,76,35,0,47
-BOM,RKT,Ras Al Khaimah,t,28,21,10,0,45
-BOM,RPR,Raipur,f,85,74,30,0,50
-BOM,RUH,Riyadh,t,91,22,13,53,78
-BOM,SGN,Ho Chi Minh City,t,27,23,15,0,62
-BOM,SHJ,Sharjah,t,82,69,43,0,66
-BOM,SIN,Singapore,t,146,126,60,0,52
-BOM,SXR,Srinagar,f,98,89,21,0,48
-BOM,TRV,Trivandrum,f,83,73,23,0,61
-BOM,UDR,Udaipur,f,155,136,61,0,54
-BOM,VGA,Vidzhayavada,f,43,36,16,0,50
-BOM,VNS,Varanasi,f,172,144,71,3,58
-BOM,ZRH,Zurich,t,27,25,10,0,40
-HYD,AMD,Ahmedabad,f,134,128,6,0,46
-HYD,AUH,Abu Dhabi,t,113,110,41,0,65
-HYD,BAH,Manama,t,30,29,2,0,45
-HYD,BBI,Bhubaneswar,f,84,82,17,0,42
-HYD,BDQ,Vadodara,f,31,30,12,0,38
-HYD,BHO,Bhopal,f,27,27,2,0,58
-HYD,BKK,Bangkok,t,54,49,5,0,51
-HYD,BLR,Bangalore,f,450,396,87,0,72
-HYD,BOM,Mumbai,f,474,419,74,2,58
-HYD,CCJ,Calicut,f,29,26,1,0,42
-HYD,CCU,Kolkata,f,188,174,25,0,55
-HYD,CDP,Kuddapakh,f,27,26,2,0,123
-HYD,CJB,Coimbatore,f,98,73,7,0,44
-HYD,CMB,Colombo,t,41,35,7,0,148
-HYD,COK,Kochi,f,129,120,12,0,58
-HYD,DBR,Darbhanga,f,34,27,2,0,64
-HYD,DED,Dehradun,f,33,32,0,0,
-HYD,DEL,New Delhi,f,693,554,72,3,49
-HYD,DOH,Doha,t,81,54,1,1,31
-HYD,DXB,Dubai,t,152,146,39,0,59
-HYD,FRA,Frankfurt-am-Main,t,20,20,12,0,49
-HYD,GAU,Guwahati,f,60,59,5,0,34
-HYD,GOI,Vasco da Gama,f,108,90,23,0,46
-HYD,GOP,Gorakhpur,f,27,25,1,0,34
-HYD,GOX,Mopa,f,126,112,21,0,64
-HYD,HBX,Hubli,f,27,21,0,0,
-HYD,HKG,Hong Kong,t,27,26,5,0,83
-HYD,HSR,Rajkot,f,24,18,5,0,41
-HYD,HYD,Hyderabad,f,26,26,0,0,
-HYD,IDR,Indore,f,63,53,11,0,44
-HYD,ISK,Nasik,f,27,20,0,0,
-HYD,IXB,Siliguri,f,77,67,13,0,53
-HYD,IXC,Chandigarh,f,54,49,12,0,52
-HYD,IXE,Mangalore,f,56,32,0,0,
-HYD,IXM,Madurai,f,29,24,3,0,40
-HYD,IXR,Ranchi,f,54,46,6,0,40
-HYD,IXU,Aurangabad,f,29,22,0,0,
-HYD,IXZ,Port Blair,f,27,27,0,0,
-HYD,JAI,Jaipur,f,86,68,7,0,43
+BLR,TRV,Trivandrum,f,169,98,16,0,53
+BLR,TRZ,Tiruchirappally,f,133,62,7,0,59
+BLR,UDR,Udaipur,f,57,36,1,0,65
+BLR,VDY,Vijaynagar,f,53,35,3,0,142
+BLR,VGA,Vijayawada,f,149,61,2,0,39
+BLR,VNS,Varanasi,f,230,96,25,0,46
+BLR,VTZ,Visakhapatnam,f,117,76,15,0,45
+BOM,ADD,Addis Ababa,t,56,49,14,0,53
+BOM,AMD,Ahmedabad,f,495,415,157,2,52
+BOM,AMS,Amsterdam,t,58,48,26,4,99
+BOM,ATQ,Amritsar,f,92,78,22,0,42
+BOM,AUH,Abu Dhabi,t,234,200,64,0,48
+BOM,BAH,Manama,t,86,69,38,0,53
+BOM,BBI,Bhubaneswar,f,141,119,54,1,56
+BOM,BDQ,Vadodara,f,57,49,15,0,54
+BOM,BHJ,Bhuj,f,56,48,13,2,45
+BOM,BHO,Bhopal,f,86,75,30,0,65
+BOM,BKK,Bangkok,t,221,192,72,0,53
+BOM,BLR,Bangalore,f,921,763,315,12,68
+BOM,CAI,Cairo,t,20,18,3,0,57
+BOM,CCJ,Calicut,f,31,25,11,1,49
+BOM,CCU,Kolkata,f,503,415,164,13,66
+BOM,CDG,Paris,t,28,25,19,0,56
+BOM,CJB,Coimbatore,f,113,98,29,0,50
+BOM,CMB,Colombo,t,114,97,45,1,57
+BOM,CNN,Kannur,f,17,15,6,0,49
+BOM,COK,Kochi,f,302,252,115,0,58
+BOM,CPH,Copenhagen,t,20,17,7,1,43
+BOM,DAC,Dhaka,t,41,34,6,1,35
+BOM,DAR,Dar es Salaam,t,30,25,23,1,127
+BOM,DBR,Darbhanga,f,40,28,15,4,148
+BOM,DED,Dehradun,f,85,76,30,0,58
+BOM,DEL,New Delhi,f,1547,1315,572,26,58
+BOM,DMM,Ad Dammam,t,50,20,12,22,118
+BOM,DOH,Doha,t,121,93,39,5,48
+BOM,DXB,Dubai,t,372,308,163,17,143
+BOM,FCO,Rome,t,22,19,12,0,47
+BOM,FJR,Fujairah,t,28,22,7,0,42
+BOM,FRA,Frankfurt-am-Main,t,50,45,32,0,61
+BOM,GAU,Guwahati,f,86,72,39,0,56
+BOM,GOI,Vasco da Gama,f,354,300,139,0,60
+BOM,GOP,Gorakhpur,f,34,27,19,1,58
+BOM,GOX,Mopa,f,175,147,71,0,60
+BOM,GWL,Gwalior,f,29,26,8,0,49
+BOM,GYD,Baku,t,27,25,10,0,62
+BOM,HAN,Hanoi,t,52,43,9,0,67
+BOM,HBX,Hubli,f,29,25,8,0,55
+BOM,HKG,Hong Kong,t,41,37,30,0,52
+BOM,HKT,Phuket,t,88,76,27,0,42
+BOM,HND,Tokyo,t,17,16,9,0,89
+BOM,HSR,Rajkot,f,164,143,50,0,48
+BOM,HYD,Hyderabad,f,494,419,160,3,51
+BOM,IDR,Indore,f,195,163,75,1,50
+BOM,IST,Istanbul,t,54,50,22,0,55
+BOM,IXB,Siliguri,f,115,101,51,0,91
+BOM,IXC,Chandigarh,f,153,133,56,1,55
+BOM,IXD,Allahabad,f,51,44,26,0,48
+BOM,IXE,Mangalore,f,98,84,38,0,52
+BOM,IXM,Madurai,f,29,24,6,0,66
+BOM,IXR,Ranchi,f,57,52,31,0,68
+BOM,IXU,Aurangabad,f,28,25,3,0,40
+BOM,IXZ,Port Blair,f,29,26,2,0,148
+BOM,JAI,Jaipur,f,256,212,86,2,57
+BOM,JDH,Jodhpur,f,65,57,29,0,66
+BOM,JED,Jeddah,t,159,80,39,56,181
+BOM,JGA,Jamnagar,f,81,69,21,2,79
+BOM,KNU,Kanpur,f,28,25,9,0,83
+BOM,KTM,Kathmandu,t,37,34,26,0,68
+BOM,KUL,Kuala Lumpur,t,68,55,41,1,82
+BOM,KWI,Kuwait City,t,89,61,7,14,45
+BOM,LHR,London,t,224,189,106,10,61
+BOM,LKO,Lucknow,f,197,170,65,2,52
+BOM,MAA,Chennai,f,510,433,146,1,55
+BOM,MCT,Muscat,t,130,106,53,3,63
+BOM,MLE,Malé,t,36,31,14,0,48
+BOM,MRU,Port Louis,t,40,35,12,0,96
+BOM,MUC,Munich,t,28,27,24,0,63
+BOM,NAG,Naqpur,f,189,159,52,0,54
+BOM,NBO,Nairobi,t,58,51,21,1,154
+BOM,NRT,Tokyo,t,30,22,13,0,47
+BOM,PAT,Patna,f,90,79,38,0,48
+BOM,RKT,Ras Al Khaimah,t,29,22,11,0,47
+BOM,RPR,Raipur,f,88,77,32,0,51
+BOM,RUH,Riyadh,t,95,23,14,56,88
+BOM,SEZ,Mahe Island,t,16,15,6,0,47
+BOM,SGN,Ho Chi Minh City,t,28,24,15,0,62
+BOM,SHJ,Sharjah,t,85,72,46,0,66
+BOM,SIN,Singapore,t,152,132,61,0,52
+BOM,SXR,Srinagar,f,99,90,21,0,48
+BOM,TRV,Trivandrum,f,86,76,24,0,61
+BOM,UDR,Udaipur,f,162,143,66,0,54
+BOM,VGA,Vidzhayavada,f,45,38,16,0,50
+BOM,VNS,Varanasi,f,178,150,73,3,58
+BOM,ZRH,Zurich,t,28,26,10,0,40
+HYD,AMD,Ahmedabad,f,138,132,6,0,46
+HYD,AUH,Abu Dhabi,t,117,114,43,0,64
+HYD,BAH,Manama,t,31,30,2,0,45
+HYD,BBI,Bhubaneswar,f,88,86,17,0,42
+HYD,BDQ,Vadodara,f,32,31,13,0,38
+HYD,BHO,Bhopal,f,28,28,2,0,58
+HYD,BKK,Bangkok,t,56,51,5,0,51
+HYD,BLR,Bangalore,f,467,412,89,0,72
+HYD,BOM,Mumbai,f,490,432,80,2,57
+HYD,CCJ,Calicut,f,30,27,1,0,42
+HYD,CCU,Kolkata,f,196,182,26,0,54
+HYD,CDP,Kuddapakh,f,28,27,2,0,123
+HYD,CJB,Coimbatore,f,102,74,7,0,44
+HYD,CMB,Colombo,t,43,36,7,0,148
+HYD,COK,Kochi,f,134,125,12,0,58
+HYD,DBR,Darbhanga,f,36,28,2,0,64
+HYD,DED,Dehradun,f,34,33,0,0,
+HYD,DEL,New Delhi,f,718,572,76,3,48
+HYD,DOH,Doha,t,84,56,1,1,31
+HYD,DXB,Dubai,t,158,152,41,0,59
+HYD,FRA,Frankfurt-am-Main,t,21,21,13,0,49
+HYD,GAU,Guwahati,f,62,61,5,0,34
+HYD,GOI,Vasco da Gama,f,112,92,24,0,47
+HYD,GOP,Gorakhpur,f,28,26,1,0,34
+HYD,GOX,Mopa,f,132,116,21,0,64
+HYD,HBX,Hubli,f,28,21,0,0,
+HYD,HKG,Hong Kong,t,28,27,5,0,83
+HYD,HSR,Rajkot,f,25,18,5,0,41
+HYD,HYD,Hyderabad,f,27,27,0,0,
+HYD,IDR,Indore,f,66,55,11,0,44
+HYD,ISK,Nasik,f,28,20,0,0,
+HYD,IXB,Siliguri,f,80,69,13,0,53
+HYD,IXC,Chandigarh,f,56,51,12,0,52
+HYD,IXE,Mangalore,f,59,34,0,0,
+HYD,IXM,Madurai,f,30,25,3,0,40
+HYD,IXR,Ranchi,f,56,47,6,0,40
+HYD,IXU,Aurangabad,f,30,23,0,0,
+HYD,IXZ,Port Blair,f,28,28,0,0,
+HYD,JAI,Jaipur,f,89,69,7,0,43
 HYD,JDH,Jodhpur,f,23,23,3,0,35
-HYD,JED,Jeddah,t,62,31,11,0,85
-HYD,JLR,Dzhabalpur,f,27,19,1,0,37
-HYD,KLH,Kolkhapur,f,27,25,1,0,61
-HYD,KUL,Kuala Lumpur,t,50,47,11,0,39
-HYD,KWI,Kuwait City,t,65,63,8,0,51
-HYD,LHR,London,t,27,26,5,1,85
-HYD,LKO,Lucknow,f,57,51,11,0,43
-HYD,MAA,Chennai,f,260,231,48,0,48
-HYD,MCT,Muscat,t,60,48,3,0,50
-HYD,NAG,Naqpur,f,55,34,2,0,41
-HYD,NDC,Nanded,f,20,20,0,0,
-HYD,NMI,Mumbai,f,49,30,8,0,43
-HYD,PAT,Patna,f,95,88,9,0,42
-HYD,PNQ,Pune,f,192,155,19,0,51
-HYD,PNY,Puduchcheri,f,27,25,2,0,39
-HYD,RJA,Rajahmundry,f,138,85,3,0,55
-HYD,RKT,Ras Al Khaimah,t,18,16,0,0,
-HYD,RPR,Raipur,f,100,53,17,0,55
-HYD,RUH,Riyadh,t,89,19,6,0,65
-HYD,SAG,Shirdi,f,41,32,1,0,32
-HYD,SHJ,Sharjah,t,54,51,23,0,78
-HYD,SIN,Singapore,t,72,69,27,0,37
-HYD,TIR,Tirumala - Tirupati,f,169,135,12,0,49
-HYD,TRV,Trivandrum,f,55,47,2,0,33
-HYD,TRZ,Tiruchirappally,f,27,27,3,0,37
-HYD,UDR,Udaipur,f,33,32,2,0,40
-HYD,VGA,Vidzhayavada,f,128,70,8,0,51
-HYD,VNS,Varanasi,f,87,66,10,0,38
-HYD,VTZ,Visakhapatnam,f,204,182,26,13,49
+HYD,JED,Jeddah,t,65,33,11,0,85
+HYD,JLR,Dzhabalpur,f,28,19,1,0,37
+HYD,KLH,Kolkhapur,f,28,26,1,0,61
+HYD,KUL,Kuala Lumpur,t,51,48,11,0,39
+HYD,KWI,Kuwait City,t,68,66,8,0,51
+HYD,LHR,London,t,28,27,5,1,85
+HYD,LKO,Lucknow,f,60,54,12,0,43
+HYD,MAA,Chennai,f,270,240,48,0,48
+HYD,MCT,Muscat,t,63,50,3,0,50
+HYD,NAG,Naqpur,f,57,34,2,0,41
+HYD,NDC,Nanded,f,21,21,0,0,
+HYD,NMI,Mumbai,f,51,30,8,0,43
+HYD,PAT,Patna,f,98,90,9,0,42
+HYD,PNQ,Pune,f,200,162,19,0,51
+HYD,PNY,Puduchcheri,f,28,26,2,0,39
+HYD,RJA,Rajahmundry,f,143,88,3,0,55
+HYD,RKT,Ras Al Khaimah,t,19,17,0,0,
+HYD,RPR,Raipur,f,104,54,17,0,55
+HYD,RUH,Riyadh,t,92,19,6,0,65
+HYD,SAG,Shirdi,f,44,33,1,0,32
+HYD,SHJ,Sharjah,t,56,53,24,0,77
+HYD,SIN,Singapore,t,74,71,27,0,37
+HYD,TIR,Tirumala - Tirupati,f,175,140,12,0,49
+HYD,TRV,Trivandrum,f,57,48,2,0,33
+HYD,TRZ,Tiruchirappally,f,28,28,3,0,37
+HYD,UDR,Udaipur,f,35,34,2,0,40
+HYD,VGA,Vidzhayavada,f,132,72,8,0,51
+HYD,VNS,Varanasi,f,91,68,10,0,38
+HYD,VTZ,Visakhapatnam,f,211,188,26,13,49
