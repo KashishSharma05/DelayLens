@@ -20,3 +20,4 @@ data_until,days_of_data,train_flights,test_flights,best_model,roc_auc,average_pr
 2026-11-01,28,21110,1833,Gradient boosting,0.8418,0.7454,45.1,0.7892
 2026-11-02,29,22045,1815,Gradient boosting,0.8398,0.7585,44.1,0.8002
 2026-11-09,32,24799,1726,Logistic regression,0.7893,0.4982,50.3,0.7492
+2026-11-10,33,25642,1701,Logistic regression,0.8097,0.5569,47.1,0.7933
