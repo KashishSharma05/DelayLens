@@ -23,3 +23,4 @@ data_until,days_of_data,train_flights,test_flights,best_model,roc_auc,average_pr
 2026-11-10,33,25642,1701,Logistic regression,0.8097,0.5569,47.1,0.7933
 2026-11-11,34,26535,1719,Neural network (MLP),0.8272,0.6717,45.8,0.8218
 2026-11-12,35,27352,1823,Gradient boosting,0.8489,0.7499,47.0,0.8408
+2026-11-13,36,28265,1836,Gradient boosting,0.8493,0.7454,47.7,0.8374
