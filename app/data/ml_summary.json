@@ -1,12 +1,12 @@
 {
- "data_until": "2026-11-14",
- "days_of_data": 37,
- "train_flights": 29186,
- "train_days": 35,
- "test_flights": 1838,
+ "data_until": "2026-11-15",
+ "days_of_data": 38,
+ "train_flights": 30109,
+ "train_days": 36,
+ "test_flights": 1844,
  "test_days": 2,
- "test_late_pct": 31.2,
- "best_model": "Random forest",
+ "test_late_pct": 26.5,
+ "best_model": "Gradient boosting",
  "flag_share_pct": 20,
  "features": 20
 }
