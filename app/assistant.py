@@ -30,7 +30,7 @@ from google import genai
 from google.genai import errors, types
 from sqlglot import exp
 
-from common import load
+from common import last_updated, load
 
 MODELS = ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite"]  # second one is used if the first is busy
 TABLES = ["flights", "airport_daily", "flight_punctuality", "weather_hourly", "news", "airports"]
@@ -111,8 +111,13 @@ def get_api_key():
     return key
 
 
-@st.cache_resource
 def get_database():
+    """The read-only database for the current version of the data files."""
+    return build_database(last_updated())
+
+
+@st.cache_resource(max_entries=1)
+def build_database(version):
     """In-memory SQLite copy of the site's data files, switched to read-only after loading."""
     connection = sqlite3.connect(":memory:", check_same_thread=False)
     for name in TABLES:

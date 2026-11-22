@@ -179,10 +179,15 @@ def chart_layout(figure, height=320):
     return figure
 
 
-@st.cache_data
-def load(name):
-    """Read one summary file from app/data (cached)."""
+@st.cache_data(max_entries=20)
+def read_data_file(name, version):
+    """Read one file from app/data. A new version means the daily job refreshed it."""
     return pd.read_csv(os.path.join(DATA_DIR, f"{name}.csv"), parse_dates=DATE_COLUMNS.get(name, []))
+
+
+def load(name):
+    """One summary file from app/data, cached until the next data update."""
+    return read_data_file(name, last_updated())
 
 
 def rate(part, whole):
