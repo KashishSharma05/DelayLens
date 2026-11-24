@@ -1,12 +1,12 @@
 {
- "data_until": "2026-11-22",
- "days_of_data": 45,
- "train_flights": 36226,
- "train_days": 43,
- "test_flights": 1852,
+ "data_until": "2026-11-23",
+ "days_of_data": 46,
+ "train_flights": 37153,
+ "train_days": 44,
+ "test_flights": 1853,
  "test_days": 2,
- "test_late_pct": 32.2,
- "best_model": "Random forest",
+ "test_late_pct": 34.7,
+ "best_model": "Neural network (MLP)",
  "flag_share_pct": 20,
  "features": 20
 }
